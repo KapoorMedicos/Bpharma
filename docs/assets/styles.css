@@ -9,3 +9,10 @@
 main:focus{outline:none}
 
 .button.reader-fullscreen{display:flex;width:100%;min-height:60px;padding:17px 22px;margin-bottom:15px;font-size:17px;font-weight:750;border-radius:12px;letter-spacing:.1px}.button.reader-fullscreen svg{width:22px;height:22px}
+
+.nav-pyq{font-weight:700;color:var(--green)}.pyq-callout{display:flex;align-items:center;gap:16px;border:1px solid #dbe4d5;border-radius:14px;padding:20px 24px;background:#edf3e7;margin:0 0 20px}.pyq-callout strong{font-family:var(--heading);font-size:15px;display:block}.pyq-callout small{display:block;color:var(--muted);font-size:11px;margin-top:3px}.pyq-callout-action{margin-left:auto;display:flex;gap:10px;align-items:center;font-size:12px;font-weight:600;color:var(--green)}.pyq-callout-action svg{width:18px;height:18px}.pyq-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;padding-bottom:32px}.pyq-card{display:flex;flex-direction:column;padding:24px;background:#fff;border:1px solid var(--line);border-radius:var(--radius)}.pyq-card h2{font-size:19px;line-height:1.4;letter-spacing:-.5px;margin:18px 0 8px}.pyq-session{font-size:12px;color:var(--green);font-weight:600;margin:0 0 5px}.pyq-card .resource-details{margin-bottom:20px}.pyq-actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:auto}.pyq-source{font-size:10px;color:var(--muted);margin-left:auto;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:720px){.pyq-grid{grid-template-columns:1fr;gap:14px}.pyq-card{padding:21px}.pyq-callout{padding:18px;gap:12px;flex-wrap:wrap}.pyq-callout .subject-icon{display:none}.pyq-callout strong{font-size:14px}.pyq-callout small{font-size:10px}.pyq-callout-action{width:100%;margin-left:0;justify-content:space-between;font-size:11px}.pyq-card h2{font-size:18px}nav{gap:15px}.page-intro>.button+.button{margin-top:-8px}}
+
+@media(max-width:370px){.nav-github{display:none}}
+
+.pyq-unavailable{font-size:10px;color:var(--muted)}

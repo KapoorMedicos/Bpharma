@@ -7,16 +7,24 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1] / 'docs'
 DATA = json.loads((ROOT / 'data/library.json').read_text())
+RECORDS = DATA['resources'] + DATA.get('pyqs', [])
 
 class LibraryTests(unittest.TestCase):
     def test_catalog_and_routes(self):
         subjects = {s['id']: s for s in DATA['subjects']}
         self.assertEqual(len(subjects), len(DATA['subjects']))
         self.assertEqual({s['semester'] for s in subjects.values()}, set(range(1,9)))
-        ids = [r['id'] for r in DATA['resources']]
+        ids = [r['id'] for r in RECORDS]
         self.assertEqual(len(ids), len(set(ids)))
-        for r in DATA['resources']:
+        for r in RECORDS:
             with self.subTest(resource=r['id']):
+                if r['kind'] == 'pyq':
+                    self.assertIn(r['provider'], DATA['providers'])
+                    self.assertIn(r['semester'], range(1,9))
+                    self.assertTrue(r['code'])
+                    self.assertTrue(r['session'])
+                    self.assertEqual(urlparse(r['source']).netloc, 'firstranker.com')
+                    continue
                 if r['kind'] == 'syllabus':
                     continue
                 self.assertIn(r['subject'], subjects)
@@ -30,8 +38,12 @@ class LibraryTests(unittest.TestCase):
     def test_pdf_integrity_and_duplicates(self):
         paths = {}
         hashes = {}
-        for r in DATA['resources']:
+        for r in RECORDS:
             with self.subTest(resource=r['id']):
+                if not r.get('path'):
+                    self.assertEqual(r['kind'], 'pyq')
+                    self.assertTrue(r['unavailableReason'])
+                    continue
                 self.assertFalse(r['path'].startswith('/'))
                 p = (ROOT / r['path']).resolve()
                 self.assertTrue(p.is_relative_to(ROOT.resolve()))

@@ -5,13 +5,14 @@ A static study library for **Kapoor Medicos**, built with HTML, CSS, and vanilla
 ## What is included
 
 - All eight BPharma semesters and their subject lists. Semester V currently contains the notes.
-- 25 original Imperfect Pharmacy unit PDFs, five Carewell Industrial Pharmacy unit PDFs, a Carewell two-mark revision PDF, and the BPharma syllabus: **32 PDFs**.
+- 25 original Imperfect Pharmacy unit PDFs, five Carewell Industrial Pharmacy unit PDFs, a Carewell two-mark revision PDF, and the BPharma syllabus: **32 note/syllabus PDFs**.
+- A PYQ tab for the 22 papers linked on FirstRanker’s PTU Semester II page: March and December 2020, including older-syllabus subjects. Search by subject or paper code and filter by exam session.
 - Search subjects and unit topics; filter notes by provider.
 - Self-contained PDF.js reader with page-number navigation and zoom, direct opening, and downloads.
 - Imperfect Pharmacy subject lecture playlists next to the unit notes. These are subject playlists, not guessed unit-specific video links. Carewell PDFs have no video links.
 - Responsive layouts and keyboard-accessible controls.
 
-The collection is approximately 276 MB. The largest PDF is about 51 MB; use Git rather than GitHub’s browser file uploader.
+Together with 22 downloaded PTU question papers, the library contains **54 PDFs**. The largest PDF is about 51 MB; use Git rather than GitHub’s browser file uploader.
 
 ## Preview locally
 
@@ -53,7 +54,7 @@ The Carewell PDFs are captured app pages and contain the account’s visible pho
 
 ## Add or update notes
 
-The catalog is `docs/data/library.json`. Each subject has a stable `id`, semester, folder name, and unit headings. Resources contain relative asset paths, provider, page count when available, byte size, and SHA-256 hash.
+The catalog is `docs/data/library.json`. Each subject has a stable `id`, semester, folder name, and unit headings. The separate `pyqs` array stores question papers with university, semester, exam session, paper code, and source links. Resources contain relative asset paths, provider, page count when available, byte size, and SHA-256 hash.
 
 To update the current collection:
 
@@ -97,7 +98,7 @@ python3 tests/check_site.py
 node --check docs/assets/app.js
 ```
 
-The Python checks verify catalog references, valid PDF files and hashes, missing/orphan assets, duplicates, relative project paths, and GitHub’s per-file size limit. Browser checks should cover semester navigation, topic search, filters, source tabs, PDF loading, and a narrow mobile layout.
+The Python checks verify catalog references, valid PDF files and hashes, missing/orphan assets, duplicates, relative project paths, and GitHub’s per-file size limit. Browser checks should cover semester navigation, topic search, filters, source tabs, PDF loading, and a narrow mobile layout. PYQ checks should also cover subject/code search and the March/December session filters.
 
 ## Files
 
