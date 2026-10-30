@@ -49,7 +49,7 @@ GitHub’s instructions: [Configure a publishing source](https://docs.github.com
 
 ### Publication review
 
-The Carewell PDFs are captured app pages and contain the account’s visible phone-number watermark. Review those PDFs before making them public. Keeping a repository private does not necessarily make its GitHub Pages site private. This checkout has not automatically published any content.
+The Carewell PDFs are captured app pages and contain the account’s visible phone-number watermark. Review those PDFs before making them public. Keeping a repository private does not necessarily make its GitHub Pages site private. The complete collection, including those watermarks, was approved for public publication by the repository owner.
 
 ## Add or update notes
 
