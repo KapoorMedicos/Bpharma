@@ -23,6 +23,11 @@ class LibraryTests(unittest.TestCase):
                     self.assertIn(r['semester'], range(1,9))
                     self.assertTrue(r['code'])
                     self.assertTrue(r['session'])
+                    if r['semester'] == 5:
+                        self.assertIn(r['code'], {'76786','76787','76788','76789','76790'})
+                        self.assertIn(r['syllabusSubject'], subjects)
+                        self.assertEqual(subjects[r['syllabusSubject']]['semester'], 5)
+                        self.assertEqual(r['paperSubject'], subjects[r['syllabusSubject']]['name'])
                     self.assertEqual(urlparse(r['source']).netloc, 'firstranker.com')
                     continue
                 if r['kind'] == 'syllabus':
