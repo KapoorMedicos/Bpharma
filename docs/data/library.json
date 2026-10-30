@@ -1,0 +1,894 @@
+{
+  "version": 1,
+  "providers": {
+    "imperfect": {
+      "name": "Imperfect Pharmacy",
+      "url": "https://imperfectpharmacy.in/"
+    },
+    "carewell": {
+      "name": "Carewell Pharma",
+      "url": "https://www.carewellpharma.in/"
+    }
+  },
+  "subjects": [
+    {
+      "id": "human-anatomy-and-physiology-1",
+      "name": "Human Anatomy and Physiology-1",
+      "semester": 1,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-analysis",
+      "name": "Pharmaceutical Analysis",
+      "semester": 1,
+      "units": []
+    },
+    {
+      "id": "pharmaceutics-1",
+      "name": "Pharmaceutics-1",
+      "semester": 1,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-inorganic-chemistry",
+      "name": "Pharmaceutical Inorganic Chemistry",
+      "semester": 1,
+      "units": []
+    },
+    {
+      "id": "communication-skills",
+      "name": "Communication Skills",
+      "semester": 1,
+      "units": []
+    },
+    {
+      "id": "remedial-biology",
+      "name": "Remedial Biology",
+      "semester": 1,
+      "units": []
+    },
+    {
+      "id": "remedial-mathematics",
+      "name": "Remedial Mathematics",
+      "semester": 1,
+      "units": []
+    },
+    {
+      "id": "human-anatomy-and-physiology-2",
+      "name": "Human Anatomy and Physiology-2",
+      "semester": 2,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-organic-chemistry-1",
+      "name": "Pharmaceutical Organic Chemistry-1",
+      "semester": 2,
+      "units": []
+    },
+    {
+      "id": "biochemistry",
+      "name": "Biochemistry",
+      "semester": 2,
+      "units": []
+    },
+    {
+      "id": "pathophysiology",
+      "name": "Pathophysiology",
+      "semester": 2,
+      "units": []
+    },
+    {
+      "id": "computer-applications-in-pharmacy",
+      "name": "Computer Applications in Pharmacy",
+      "semester": 2,
+      "units": []
+    },
+    {
+      "id": "environmental-sciences",
+      "name": "Environmental Sciences",
+      "semester": 2,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-organic-chemistry-2",
+      "name": "Pharmaceutical Organic Chemistry-2",
+      "semester": 3,
+      "units": []
+    },
+    {
+      "id": "physical-pharmaceutics-1",
+      "name": "Physical Pharmaceutics-1",
+      "semester": 3,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-microbiology",
+      "name": "Pharmaceutical Microbiology",
+      "semester": 3,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-engineering",
+      "name": "Pharmaceutical Engineering",
+      "semester": 3,
+      "units": []
+    },
+    {
+      "id": "universal-human-values-and-ethics",
+      "name": "Universal Human Values and Ethics",
+      "semester": 3,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-organic-chemistry-3",
+      "name": "Pharmaceutical Organic Chemistry-3",
+      "semester": 4,
+      "units": []
+    },
+    {
+      "id": "medicinal-chemistry-1",
+      "name": "Medicinal Chemistry-1",
+      "semester": 4,
+      "units": []
+    },
+    {
+      "id": "physical-pharmaceutics-2",
+      "name": "Physical Pharmaceutics-2",
+      "semester": 4,
+      "units": []
+    },
+    {
+      "id": "pharmacology-1",
+      "name": "Pharmacology-1",
+      "semester": 4,
+      "units": []
+    },
+    {
+      "id": "pharmacognosy-and-phytochemistry-1",
+      "name": "Pharmacognosy and Phytochemistry-1",
+      "semester": 4,
+      "units": []
+    },
+    {
+      "id": "medicinal-chemistry-2",
+      "name": "Medicinal Chemistry II",
+      "semester": 5,
+      "units": [
+        {
+          "number": 1,
+          "title": "Antihistamines & antineoplastic agents",
+          "topics": "H1 and H2 antagonists, proton pump inhibitors, and anticancer drugs."
+        },
+        {
+          "number": 2,
+          "title": "Cardiovascular & renal agents",
+          "topics": "Anti-anginal drugs, vasodilators, calcium channel blockers, diuretics, and antihypertensives."
+        },
+        {
+          "number": 3,
+          "title": "Cardiovascular drug chemistry",
+          "topics": "Anti-arrhythmic and antihyperlipidemic agents, coagulants, anticoagulants, and drugs for heart failure."
+        },
+        {
+          "number": 4,
+          "title": "Hormones & endocrine agents",
+          "topics": "Sex hormones, oral contraceptives, corticosteroids, and thyroid and antithyroid drugs."
+        },
+        {
+          "number": 5,
+          "title": "Antidiabetics & local anesthetics",
+          "topics": "Insulin, oral hypoglycemic agents, and local anesthetic drug chemistry."
+        }
+      ],
+      "folder": "Medicinal-Chemistry-II",
+      "code": "BP501T",
+      "icon": "flask",
+      "color": "blue",
+      "playlist": "https://www.youtube.com/playlist?list=PLNiSYvRcckSwlulOK1Tv0fn0zBqdc-lNt",
+      "source": "https://imperfectpharmacy.in/units/?subject=medicinal-chemistry-2&semester=semester-5&type=Notes&course=BPharma",
+      "description": "Antihistamines & antineoplastic agents · Cardiovascular & renal agents · Cardiovascular drug chemistry."
+    },
+    {
+      "id": "industrial-pharmacy-1",
+      "name": "Industrial Pharmacy I",
+      "semester": 5,
+      "units": [
+        {
+          "number": 1,
+          "title": "Preformulation studies",
+          "topics": "Physical and chemical properties of drug substances and formulation considerations."
+        },
+        {
+          "number": 2,
+          "title": "Tablets & liquid orals",
+          "topics": "Tablet formulation, manufacture, evaluation, and liquid oral preparations."
+        },
+        {
+          "number": 3,
+          "title": "Capsules & pellets",
+          "topics": "Hard and soft gelatin capsules, pellet formulation, and evaluation."
+        },
+        {
+          "number": 4,
+          "title": "Parenteral & ophthalmic products",
+          "topics": "Sterile preparations, manufacturing, quality control, and ophthalmic formulations."
+        },
+        {
+          "number": 5,
+          "title": "Cosmetics, aerosols & packaging",
+          "topics": "Cosmetic preparations, pharmaceutical aerosols, and packaging materials science."
+        }
+      ],
+      "folder": "Industrial-Pharmacy",
+      "code": "BP502T",
+      "icon": "flask",
+      "color": "",
+      "playlist": "https://www.youtube.com/playlist?list=PLNiSYvRcckSxeNkORZQef9bE7m-8PPH30",
+      "source": "https://imperfectpharmacy.in/units/?subject=industrial-pharmacy-1&semester=semester-5&type=Notes&course=BPharma",
+      "description": "Preformulation studies · Tablets & liquid orals · Capsules & pellets."
+    },
+    {
+      "id": "pharmacology-2",
+      "name": "Pharmacology II",
+      "semester": 5,
+      "units": [
+        {
+          "number": 1,
+          "title": "Cardiovascular pharmacology",
+          "topics": "Drugs acting on the cardiovascular system."
+        },
+        {
+          "number": 2,
+          "title": "Cardiovascular & urinary systems",
+          "topics": "Cardiovascular drugs and drugs acting on the urinary system."
+        },
+        {
+          "number": 3,
+          "title": "Autacoids & related drugs",
+          "topics": "Autacoids and the pharmacology of related agents."
+        },
+        {
+          "number": 4,
+          "title": "Endocrine pharmacology",
+          "topics": "Drugs acting on the endocrine system."
+        },
+        {
+          "number": 5,
+          "title": "Endocrine agents & bioassay",
+          "topics": "Endocrine pharmacology and principles of bioassay."
+        }
+      ],
+      "folder": "Pharmacology-II",
+      "code": "BP503T",
+      "icon": "heart",
+      "color": "clay",
+      "playlist": "https://www.youtube.com/playlist?list=PLNiSYvRcckSzcmdYgt20idl0W0hTXpuTP",
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacology-2&semester=semester-5&type=Notes&course=BPharma",
+      "description": "Cardiovascular pharmacology · Cardiovascular & urinary systems · Autacoids & related drugs."
+    },
+    {
+      "id": "pharmacognosy-and-phytochemistry-2",
+      "name": "Pharmacognosy and Phytochemistry II",
+      "semester": 5,
+      "units": [
+        {
+          "number": 1,
+          "title": "Metabolic pathways in plants",
+          "topics": "Shikimic acid, acetate, and amino acid pathways; biogenetic studies."
+        },
+        {
+          "number": 2,
+          "title": "Secondary metabolites",
+          "topics": "Alkaloids, flavonoids, glycosides, volatile oils, tannins, resins, and terpenoids."
+        },
+        {
+          "number": 3,
+          "title": "Isolation & analysis of phytoconstituents",
+          "topics": "Isolation and identification of menthol, citral, rutin, atropine, quinine, caffeine, curcumin, and more."
+        },
+        {
+          "number": 4,
+          "title": "Industrial production of phytoconstituents",
+          "topics": "Production, estimation, and utilization of important plant constituents."
+        },
+        {
+          "number": 5,
+          "title": "Basics of phytochemistry",
+          "topics": "Extraction, spectroscopy, chromatography, and electrophoresis."
+        }
+      ],
+      "folder": "Pharmacognosy-and-Phytochemistry-II",
+      "code": "BP504T",
+      "icon": "leaf",
+      "color": "",
+      "playlist": "https://www.youtube.com/playlist?list=PLNiSYvRcckSzuoMO_LXADtEODjlYoWYXC",
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacognosy-and-phytochemistry-2&semester=semester-5&type=Notes&course=BPharma",
+      "description": "Metabolic pathways in plants · Secondary metabolites · Isolation & analysis of phytoconstituents."
+    },
+    {
+      "id": "pharmaceutical-jurisprudence",
+      "name": "Pharmaceutical Jurisprudence",
+      "semester": 5,
+      "units": [
+        {
+          "number": 1,
+          "title": "Drugs & Cosmetics Act: foundations",
+          "topics": "Drugs and Cosmetics Act, 1940, and Rules, 1945."
+        },
+        {
+          "number": 2,
+          "title": "Drugs & Cosmetics Act: provisions",
+          "topics": "Further provisions under the Drugs and Cosmetics Act and Rules."
+        },
+        {
+          "number": 3,
+          "title": "Pharmacy & controlled-drug legislation",
+          "topics": "Pharmacy Act, Medicinal and Toilet Preparations Act, and NDPS Act."
+        },
+        {
+          "number": 4,
+          "title": "Drug advertising, animal welfare & pricing",
+          "topics": "Drugs and Magic Remedies Act, Prevention of Cruelty to Animals Act, and NPPA."
+        },
+        {
+          "number": 5,
+          "title": "Legislation & professional ethics",
+          "topics": "Pharmaceutical ethics, MTP Act, RTI, and intellectual property rights."
+        }
+      ],
+      "folder": "Pharmaceutical-Jurisprudence",
+      "code": "BP505T",
+      "icon": "scales",
+      "color": "purple",
+      "playlist": "https://www.youtube.com/playlist?list=PLNiSYvRcckSyMujAhsRJirbA_c8EJ-8Sv",
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmaceutical-jurisprudence&semester=semester-5&type=Notes&course=BPharma",
+      "description": "Drugs & Cosmetics Act: foundations · Drugs & Cosmetics Act: provisions · Pharmacy & controlled-drug legislation."
+    },
+    {
+      "id": "medicinal-chemistry-3",
+      "name": "Medicinal Chemistry-3",
+      "semester": 6,
+      "units": []
+    },
+    {
+      "id": "pharmacology-3",
+      "name": "Pharmacology-3",
+      "semester": 6,
+      "units": []
+    },
+    {
+      "id": "herbal-drug-technology",
+      "name": "Herbal Drug Technology",
+      "semester": 6,
+      "units": []
+    },
+    {
+      "id": "biopharmaceutics-and-pharmacokinetics",
+      "name": "Biopharmaceutics and Pharmacokinetics",
+      "semester": 6,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-biotechnology",
+      "name": "Pharmaceutical Biotechnology",
+      "semester": 6,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-quality-assurance",
+      "name": "Pharmaceutical Quality Assurance",
+      "semester": 6,
+      "units": []
+    },
+    {
+      "id": "instrumental-methods-of-analysis",
+      "name": "Instrumental Methods of Analysis",
+      "semester": 7,
+      "units": []
+    },
+    {
+      "id": "industrial-pharmacy-2",
+      "name": "Industrial Pharmacy-2",
+      "semester": 7,
+      "units": []
+    },
+    {
+      "id": "pharmacy-practice",
+      "name": "Pharmacy Practice",
+      "semester": 7,
+      "units": []
+    },
+    {
+      "id": "novel-drug-delivery-system",
+      "name": "Novel Drug Delivery System",
+      "semester": 7,
+      "units": []
+    },
+    {
+      "id": "biostatistics-and-research-methodology",
+      "name": "Biostatistics and Research Methodology",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "social-and-preventive-pharmacy",
+      "name": "Social and Preventive Pharmacy",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "pharma-marketing-management",
+      "name": "Pharma Marketing Management",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "pharmaceutical-regulatory-science",
+      "name": "Pharmaceutical Regulatory Science",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "pharmacovigilance",
+      "name": "Pharmacovigilance",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "quality-control-and-standardization-of-herbals",
+      "name": "Quality Control and Standardization of Herbals",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "computer-aided-drug-design",
+      "name": "Computer Aided Drug Design",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "cell-and-molecular-biology",
+      "name": "Cell and Molecular Biology",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "cosmetic-science",
+      "name": "Cosmetic Science",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "pharmacological-screening-methods",
+      "name": "Pharmacological Screening Methods",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "advanced-instrumentation-techniques",
+      "name": "Advanced Instrumentation Techniques",
+      "semester": 8,
+      "units": []
+    },
+    {
+      "id": "dietary-supplements-and-nutraceuticals",
+      "name": "Dietary Supplements and Nutraceuticals",
+      "semester": 8,
+      "units": []
+    }
+  ],
+  "resources": [
+    {
+      "id": "bpharma-syllabus",
+      "kind": "syllabus",
+      "title": "BPharma syllabus",
+      "semester": 5,
+      "path": "pdfs/bpharma-syllabus.pdf",
+      "bytes": 506248,
+      "sha256": "32f3c5982cdc832393589ccc00bdde8dbc1347778afd9208af08aa27c7c19f23",
+      "pages": 19
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "carewell",
+      "kind": "revision",
+      "title": "2 Marks",
+      "id": "s5-industrial-pharmacy-1-carewell-2-marks",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/carewell/2-marks.pdf",
+      "bytes": 8838939,
+      "sha256": "8754e8fc97f47c0ce89e04875ea894bb45a57514140b97b28dfe1d69c0e22d40",
+      "pages": 29
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "carewell",
+      "kind": "unit",
+      "unit": 1,
+      "title": "Unit 1",
+      "id": "s5-industrial-pharmacy-1-carewell-unit-1",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/carewell/unit-1.pdf",
+      "bytes": 29387159,
+      "sha256": "5b0cb018feec13aef61cce7ebdd7856917b605d350597ebe77c7c8214fdba0c1",
+      "pages": 29
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "carewell",
+      "kind": "unit",
+      "unit": 2,
+      "title": "Unit 2",
+      "id": "s5-industrial-pharmacy-1-carewell-unit-2",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/carewell/unit-2.pdf",
+      "bytes": 27175000,
+      "sha256": "564996e057ce0ea5564d04bed38700fd0a004c6a81e4a1385fcf927829813f3a",
+      "pages": 88
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "carewell",
+      "kind": "unit",
+      "unit": 3,
+      "title": "Unit 3",
+      "id": "s5-industrial-pharmacy-1-carewell-unit-3",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/carewell/unit-3.pdf",
+      "bytes": 9429782,
+      "sha256": "24afb9e21ecb79daf70045f1f3998c494ff92e8a9dc77b17eceeef1b80c6f895",
+      "pages": 31
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "carewell",
+      "kind": "unit",
+      "unit": 4,
+      "title": "Unit 4",
+      "id": "s5-industrial-pharmacy-1-carewell-unit-4",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/carewell/unit-4.pdf",
+      "bytes": 13757335,
+      "sha256": "a3554d61d8717eb6194ef417e6e24750726e4702daa8131023e60025e3e5ffcd",
+      "pages": 44
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "carewell",
+      "kind": "unit",
+      "unit": 5,
+      "title": "Unit 5",
+      "id": "s5-industrial-pharmacy-1-carewell-unit-5",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/carewell/unit-5.pdf",
+      "bytes": 10341636,
+      "sha256": "df6d76968095e232e0da024451d6c91a89db6c538413f5e587a4b21b57f53526",
+      "pages": 36
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 1,
+      "title": "Unit 1",
+      "id": "s5-industrial-pharmacy-1-imperfect-unit-1",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/imperfect/unit-1.pdf",
+      "bytes": 13384044,
+      "sha256": "8d7e8952a3608d656ef5117abb6b587fb2017f740869332efd6a8811d5803750",
+      "pages": 25
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 2,
+      "title": "Unit 2",
+      "id": "s5-industrial-pharmacy-1-imperfect-unit-2",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/imperfect/unit-2.pdf",
+      "bytes": 4878555,
+      "sha256": "6612416040b34f275f6687ab1e35d21cafd845e285357316d5e27383df4a6af8",
+      "pages": 66
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 3,
+      "title": "Unit 3",
+      "id": "s5-industrial-pharmacy-1-imperfect-unit-3",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/imperfect/unit-3.pdf",
+      "bytes": 1502606,
+      "sha256": "18cddaf85227f768122f1333fbda7ca6b3c29e783f1fc09b2f71d7d321d59e85",
+      "pages": 22
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 4,
+      "title": "Unit 4",
+      "id": "s5-industrial-pharmacy-1-imperfect-unit-4",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/imperfect/unit-4.pdf",
+      "bytes": 4329722,
+      "sha256": "4a2f2e6b552c2bed71c08761c54de22ab9a3019cbce3838cdb1a2a671c0a5728",
+      "pages": 49
+    },
+    {
+      "semester": 5,
+      "subject": "industrial-pharmacy-1",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 5,
+      "title": "Unit 5",
+      "id": "s5-industrial-pharmacy-1-imperfect-unit-5",
+      "path": "pdfs/semester-5/industrial-pharmacy-1/imperfect/unit-5.pdf",
+      "bytes": 3694122,
+      "sha256": "c2c4c1b0ca87227ee3dea8880499636ab3cd1d40d62d87b9b4c20b792346c7e2",
+      "pages": 61
+    },
+    {
+      "semester": 5,
+      "subject": "medicinal-chemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 1,
+      "title": "Unit 1",
+      "id": "s5-medicinal-chemistry-2-imperfect-unit-1",
+      "path": "pdfs/semester-5/medicinal-chemistry-2/imperfect/unit-1.pdf",
+      "bytes": 53612462,
+      "sha256": "ded9a235a299d5c8462de45d095da17f444c9d1d41f0b00b943bfb98f272131a",
+      "pages": 91
+    },
+    {
+      "semester": 5,
+      "subject": "medicinal-chemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 2,
+      "title": "Unit 2",
+      "id": "s5-medicinal-chemistry-2-imperfect-unit-2",
+      "path": "pdfs/semester-5/medicinal-chemistry-2/imperfect/unit-2.pdf",
+      "bytes": 4407316,
+      "sha256": "0f712f05be124a487b54db19498bc327ff19c48638141311710ae0449f26d43f",
+      "pages": 67
+    },
+    {
+      "semester": 5,
+      "subject": "medicinal-chemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 3,
+      "title": "Unit 3",
+      "id": "s5-medicinal-chemistry-2-imperfect-unit-3",
+      "path": "pdfs/semester-5/medicinal-chemistry-2/imperfect/unit-3.pdf",
+      "bytes": 3675857,
+      "sha256": "51c40b47cde3ba94a14806252fea79097017f9c0643b19468b6d021663f6a17b",
+      "pages": 56
+    },
+    {
+      "semester": 5,
+      "subject": "medicinal-chemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 4,
+      "title": "Unit 4",
+      "id": "s5-medicinal-chemistry-2-imperfect-unit-4",
+      "path": "pdfs/semester-5/medicinal-chemistry-2/imperfect/unit-4.pdf",
+      "bytes": 2375080,
+      "sha256": "e56195a3bf3b8555920c2b2f754e9a1afabd4079b722fabe8b43ed003d96eb69",
+      "pages": 36
+    },
+    {
+      "semester": 5,
+      "subject": "medicinal-chemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 5,
+      "title": "Unit 5",
+      "id": "s5-medicinal-chemistry-2-imperfect-unit-5",
+      "path": "pdfs/semester-5/medicinal-chemistry-2/imperfect/unit-5.pdf",
+      "bytes": 2705851,
+      "sha256": "90fcbde61879f821a7246784ccf799674a580975bf69a56e4b0564dc0e4620cb",
+      "pages": 45
+    },
+    {
+      "semester": 5,
+      "subject": "pharmaceutical-jurisprudence",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 1,
+      "title": "Unit 1",
+      "id": "s5-pharmaceutical-jurisprudence-imperfect-unit-1",
+      "path": "pdfs/semester-5/pharmaceutical-jurisprudence/imperfect/unit-1.pdf",
+      "bytes": 2539771,
+      "sha256": "bb5e8252acc43b1eca0704124707c115a6605f70a132a9ac0dd06357fadebf96",
+      "pages": 21
+    },
+    {
+      "semester": 5,
+      "subject": "pharmaceutical-jurisprudence",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 2,
+      "title": "Unit 2",
+      "id": "s5-pharmaceutical-jurisprudence-imperfect-unit-2",
+      "path": "pdfs/semester-5/pharmaceutical-jurisprudence/imperfect/unit-2.pdf",
+      "bytes": 3203594,
+      "sha256": "12f7c7602959d7be66c7c50f7f8b0100eb17cf13a2b6c3461b48ef782d408381",
+      "pages": 33
+    },
+    {
+      "semester": 5,
+      "subject": "pharmaceutical-jurisprudence",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 3,
+      "title": "Unit 3",
+      "id": "s5-pharmaceutical-jurisprudence-imperfect-unit-3",
+      "path": "pdfs/semester-5/pharmaceutical-jurisprudence/imperfect/unit-3.pdf",
+      "bytes": 3566053,
+      "sha256": "975abf8eb1fc2ce99635dfdbf09a9f6ed64b186f74300d49212ea048a623913b",
+      "pages": 34
+    },
+    {
+      "semester": 5,
+      "subject": "pharmaceutical-jurisprudence",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 4,
+      "title": "Unit 4",
+      "id": "s5-pharmaceutical-jurisprudence-imperfect-unit-4",
+      "path": "pdfs/semester-5/pharmaceutical-jurisprudence/imperfect/unit-4.pdf",
+      "bytes": 2064178,
+      "sha256": "c143fc91429ccb2826d6e3876d99ec5549bc9d3f3af0f697deef2356bdc56928",
+      "pages": 23
+    },
+    {
+      "semester": 5,
+      "subject": "pharmaceutical-jurisprudence",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 5,
+      "title": "Unit 5",
+      "id": "s5-pharmaceutical-jurisprudence-imperfect-unit-5",
+      "path": "pdfs/semester-5/pharmaceutical-jurisprudence/imperfect/unit-5.pdf",
+      "bytes": 3224696,
+      "sha256": "717a89b32abf2850981c2ec1f305b962c2607d0e7f7c889b6bbe479e00fc3baa",
+      "pages": 32
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacognosy-and-phytochemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 1,
+      "title": "Unit 1",
+      "id": "s5-pharmacognosy-and-phytochemistry-2-imperfect-unit-1",
+      "path": "pdfs/semester-5/pharmacognosy-and-phytochemistry-2/imperfect/unit-1.pdf",
+      "bytes": 1774837,
+      "sha256": "c99699d7877eac526e6f38cc216d9f9e1a9681a1a8edf1806849f605ed8a4491",
+      "pages": 19
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacognosy-and-phytochemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 2,
+      "title": "Unit 2",
+      "id": "s5-pharmacognosy-and-phytochemistry-2-imperfect-unit-2",
+      "path": "pdfs/semester-5/pharmacognosy-and-phytochemistry-2/imperfect/unit-2.pdf",
+      "bytes": 2780785,
+      "sha256": "415c04c9819ed6d7c36921da7097de22bd7b53052c668414215e58970ad27ef4",
+      "pages": 47
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacognosy-and-phytochemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 3,
+      "title": "Unit 3",
+      "id": "s5-pharmacognosy-and-phytochemistry-2-imperfect-unit-3",
+      "path": "pdfs/semester-5/pharmacognosy-and-phytochemistry-2/imperfect/unit-3.pdf",
+      "bytes": 2748551,
+      "sha256": "902a107306afc9d212fdd132f1dad863e1b5203f7763ca460fd03be2ff67bef9",
+      "pages": 32
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacognosy-and-phytochemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 4,
+      "title": "Unit 4",
+      "id": "s5-pharmacognosy-and-phytochemistry-2-imperfect-unit-4",
+      "path": "pdfs/semester-5/pharmacognosy-and-phytochemistry-2/imperfect/unit-4.pdf",
+      "bytes": 1555654,
+      "sha256": "2f23998dfbebbdbe8d958fef9470c5c08c58cc71275d9645bc1db2b8fc358dc5",
+      "pages": 22
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacognosy-and-phytochemistry-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 5,
+      "title": "Unit 5",
+      "id": "s5-pharmacognosy-and-phytochemistry-2-imperfect-unit-5",
+      "path": "pdfs/semester-5/pharmacognosy-and-phytochemistry-2/imperfect/unit-5.pdf",
+      "bytes": 2192246,
+      "sha256": "5037b0216e5d009e7636bf310cb15ff9622f0b1517a4d6f2cd7ad14e2b0b92fa",
+      "pages": 26
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacology-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 1,
+      "title": "Unit 1",
+      "id": "s5-pharmacology-2-imperfect-unit-1",
+      "path": "pdfs/semester-5/pharmacology-2/imperfect/unit-1.pdf",
+      "bytes": 52067814,
+      "sha256": "9ac1df093b1ee6adbc172bbd44c1601af98045fa4044587c91ded8eae8c2af76",
+      "pages": 82
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacology-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 2,
+      "title": "Unit 2",
+      "id": "s5-pharmacology-2-imperfect-unit-2",
+      "path": "pdfs/semester-5/pharmacology-2/imperfect/unit-2.pdf",
+      "bytes": 6944559,
+      "sha256": "eff40e7509b7a9d35cd1059081a8dce9e6587bb03deafa3d847579ae397307b1",
+      "pages": 83
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacology-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 3,
+      "title": "Unit 3",
+      "id": "s5-pharmacology-2-imperfect-unit-3",
+      "path": "pdfs/semester-5/pharmacology-2/imperfect/unit-3.pdf",
+      "bytes": 4307002,
+      "sha256": "a8180c1ac29bc3f1bf21ba5980fd79ecffc3e3c52925d946a774d6544e05ab25",
+      "pages": 56
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacology-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 4,
+      "title": "Unit 4",
+      "id": "s5-pharmacology-2-imperfect-unit-4",
+      "path": "pdfs/semester-5/pharmacology-2/imperfect/unit-4.pdf",
+      "bytes": 3362063,
+      "sha256": "8fa553859ac022ec98cc1c50b8c381bba3a3f60ce23452b4add72b9fa09974c7",
+      "pages": 46
+    },
+    {
+      "semester": 5,
+      "subject": "pharmacology-2",
+      "provider": "imperfect",
+      "kind": "unit",
+      "unit": 5,
+      "title": "Unit 5",
+      "id": "s5-pharmacology-2-imperfect-unit-5",
+      "path": "pdfs/semester-5/pharmacology-2/imperfect/unit-5.pdf",
+      "bytes": 2865103,
+      "sha256": "14a7516d50ff2daab92966aab1462a00b81572c645147d4167a0c1ca2798eae9",
+      "pages": 32
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PDF reader · BPharma Library</title>
+<link rel="stylesheet" href="assets/viewer.css">
+<script type="module" src="assets/viewer.js"></script>
+</head>
+<body>
+<header class="reader-controls" aria-label="PDF controls">
+<button id="previous" type="button" aria-label="Previous page" disabled>←</button>
+<label>Page <input id="page-number" type="number" min="1" value="1" aria-label="Page number" disabled> <span id="total">of —</span></label>
+<button id="next" type="button" aria-label="Next page" disabled>→</button>
+<span class="divider"></span>
+<button id="zoom-out" type="button" aria-label="Zoom out" disabled>−</button>
+<button id="zoom-reset" type="button" aria-label="Fit page width" disabled>Fit width</button>
+<button id="zoom-in" type="button" aria-label="Zoom in" disabled>+</button>
+</header>
+<p id="status" role="status" aria-live="polite">Loading PDF…</p>
+<main id="page-area" aria-label="PDF page"><canvas id="pdf-canvas" aria-label="Rendered PDF page"></canvas></main>
+<noscript>Enable JavaScript, or use the direct PDF link outside this reader.</noscript>
+</body>
+</html>

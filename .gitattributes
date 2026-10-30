@@ -1,0 +1,8 @@
+*.pdf binary
+*.bcmap binary
+*.wasm binary
+*.pfb binary
+*.ttf binary
+*.otf binary
+# Keep the vendored Mozilla distribution unchanged.
+docs/assets/pdfjs/** -whitespace
