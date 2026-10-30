@@ -6,14 +6,14 @@ A static study library for **Kapoor Medicos**, built with HTML, CSS, and vanilla
 
 - All eight BPharma semesters and their subject lists. Semester V currently contains the notes.
 - 25 original Imperfect Pharmacy unit PDFs, five Carewell Industrial Pharmacy unit PDFs, a Carewell two-mark revision PDF, and the BPharma syllabus: **32 note/syllabus PDFs**.
-- A PYQ tab for the 22 papers linked on FirstRanker’s PTU Semester II page: March and December 2020, including older-syllabus subjects. Search by subject or paper code and filter by semester and exam session.
-- Semester V adds only nine matching current-syllabus papers: five from December 2020 and four from March 2020. The source has no March Medicinal Chemistry II paper. Older Semester V subjects are excluded.
+- A PYQ tab for the 22 papers linked on FirstRanker’s PTU Semester II page: March and December 2020, including older-syllabus subjects. Search by subject or paper code and filter by semester and exam session. Click a subject button to filter without typing; the available subjects change with the selected session.
+- Semester V contains 20 current-syllabus PTUStudy papers across November 2019, December 2020, January 2021, December 2022, and November 2025. Older Semester V subjects are excluded. Five December 2020 copies and four papers previously labelled March 2020 by FirstRanker were merged after document-content comparison. Those four follow PTUStudy’s November 2019 session label and show a source-date note in the reader. Legacy resource IDs and PDF paths are retained so old links continue to work.
 - Search subjects and unit topics; filter notes by provider.
 - Self-contained PDF.js reader with page-number navigation and zoom, direct opening, and downloads.
 - Imperfect Pharmacy subject lecture playlists next to the unit notes. These are subject playlists, not guessed unit-specific video links. Carewell PDFs have no video links.
 - Responsive layouts and keyboard-accessible controls.
 
-Together with 31 downloaded PTU question papers, the library contains **63 PDFs**. The largest PDF is about 51 MB; use Git rather than GitHub’s browser file uploader.
+Together with 42 unique PTU question papers, the library contains **74 PDFs**. The largest PDF is about 51 MB; use Git rather than GitHub’s browser file uploader.
 
 ## Preview locally
 
@@ -97,9 +97,10 @@ git push
 ```sh
 python3 tests/check_site.py
 node --check docs/assets/app.js
+node tests/check_pyq_filters.js
 ```
 
-The Python checks verify catalog references, valid PDF files and hashes, missing/orphan assets, duplicates, relative project paths, and GitHub’s per-file size limit. Browser checks should cover semester navigation, topic search, filters, source tabs, PDF loading, and a narrow mobile layout. PYQ checks should also cover subject/code search and the March/December session filters.
+The Python checks verify catalog references, valid PDF files and hashes, missing/orphan assets, duplicates, relative project paths, and GitHub’s per-file size limit. Browser checks should cover semester navigation, topic search, filters, source tabs, PDF loading, and a narrow mobile layout. PYQ checks should also cover subject/code search and available exam sessions, session-dependent subject buttons, and retained filters after returning from a PDF.
 
 ## Files
 

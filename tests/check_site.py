@@ -14,6 +14,8 @@ class LibraryTests(unittest.TestCase):
         subjects = {s['id']: s for s in DATA['subjects']}
         self.assertEqual(len(subjects), len(DATA['subjects']))
         self.assertEqual({s['semester'] for s in subjects.values()}, set(range(1,9)))
+        exam_slots=[(r['semester'],r['code'],r['session']) for r in DATA.get('pyqs',[])]
+        self.assertEqual(len(exam_slots),len(set(exam_slots)), 'Duplicate exam-session cards')
         ids = [r['id'] for r in RECORDS]
         self.assertEqual(len(ids), len(set(ids)))
         for r in RECORDS:
@@ -28,7 +30,7 @@ class LibraryTests(unittest.TestCase):
                         self.assertIn(r['syllabusSubject'], subjects)
                         self.assertEqual(subjects[r['syllabusSubject']]['semester'], 5)
                         self.assertEqual(r['paperSubject'], subjects[r['syllabusSubject']]['name'])
-                    self.assertEqual(urlparse(r['source']).netloc, 'firstranker.com')
+                    self.assertEqual(urlparse(r['source']).netloc, {'firstranker':'firstranker.com','ptustudy':'www.ptustudy.com'}[r['provider']])
                     continue
                 if r['kind'] == 'syllabus':
                     continue
@@ -68,7 +70,7 @@ class LibraryTests(unittest.TestCase):
         self.assertTrue((ROOT / 'index.html').is_file())
         self.assertTrue((ROOT / '.nojekyll').is_file())
         self.assertTrue((ROOT / 'viewer.html').is_file())
-        for name in ('styles.css','app.js','favicon.svg','viewer.js','viewer.css','pdfjs/pdf.mjs','pdfjs/pdf.worker.mjs','pdfjs/LICENSE'):
+        for name in ('styles.css','app.js','pyq-filters.js','favicon.svg','viewer.js','viewer.css','pdfjs/pdf.mjs','pdfjs/pdf.worker.mjs','pdfjs/LICENSE'):
             self.assertTrue((ROOT / 'assets' / name).is_file())
         for s in DATA['subjects']:
             if s.get('playlist'):
