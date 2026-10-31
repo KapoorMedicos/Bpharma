@@ -1,0 +1,1336 @@
+{
+  "checkedAt": "2026-10-31",
+  "collection": "https://www.ptustudy.com/ptu-bpharmacy.html",
+  "papers": [
+    {
+      "id": "pyq-ptu-s1-2018-12-74645",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-analysis",
+      "code": "74645",
+      "session": "December 2018",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-dec-2018.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-dec-2018.pdf",
+      "sha256": "1a0231e082b02ee122afb584b61fc09a4d23b951a6a98d32a79370b7e6bc4a56"
+    },
+    {
+      "id": "pyq-ptu-s1-2018-12-74646",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutics-1",
+      "code": "74646",
+      "session": "December 2018",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-theory-74646-dec-2018.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-theory-74646-dec-2018.pdf",
+      "sha256": "5dfd38f52e7a439fb187c4506daaab3245027fdbe16ca283cbe8d09f6799d52c"
+    },
+    {
+      "id": "pyq-ptu-s1-2018-12-74647",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "code": "74647",
+      "session": "December 2018",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-dec-2018.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-dec-2018.pdf",
+      "sha256": "811280b3941c60cce71898ad23e6ae09d270329f8c7661edac87df7f5ad9d0fa"
+    },
+    {
+      "id": "pyq-ptu-s1-2019-05-74644",
+      "semester": 1,
+      "syllabusSubject": "human-anatomy-and-physiology-1",
+      "code": "74644",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-may-2019.pdf",
+      "sha256": "d54b9947f329057124b7cb7cd87e145691a6aaa2e5966976d75ceb63f6daa73c"
+    },
+    {
+      "id": "pyq-ptu-s1-2019-05-74645",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-analysis",
+      "code": "74645",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-may-2019.pdf",
+      "sha256": "670419c979b7fad46690ea29b8f61445e5a8193ce3b0a276e352a7381bc96ff5"
+    },
+    {
+      "id": "pyq-ptu-s1-2019-05-74646",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutics-1",
+      "code": "74646",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-theory-74646-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-theory-74646-may-2019.pdf",
+      "sha256": "164e4bb83d58ed197c3c8138fb7ab372746443226c18be18374a53ba727ba62c"
+    },
+    {
+      "id": "pyq-ptu-s1-2019-05-74647",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "code": "74647",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-may-2019.pdf",
+      "sha256": "81efd24689c7cfffac8cf5fda7ae27d22e863dbff6a27e04e2ede7301c56acfd"
+    },
+    {
+      "id": "pyq-ptu-s1-2019-11-74644",
+      "semester": 1,
+      "syllabusSubject": "human-anatomy-and-physiology-1",
+      "code": "74644",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-nov-2019.pdf",
+      "sha256": "c476f40691eb75912f8d5499b20d655654ee716bc5ce599a477a1c2f0a30a779"
+    },
+    {
+      "id": "pyq-ptu-s1-2019-11-74645",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-analysis",
+      "code": "74645",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-nov-2019.pdf",
+      "sha256": "f613d9504a53e01a2baa730cdfb724f769dde4553d763e0337db626a665f57e0"
+    },
+    {
+      "id": "pyq-ptu-s1-2019-11-74646",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutics-1",
+      "code": "74646",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-theory-74646-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-theory-74646-nov-2019.pdf",
+      "sha256": "ba6f1ab16cdd801e7935c01ee4319ff8183b8d99deef43a081acc31e64f3f3a2"
+    },
+    {
+      "id": "pyq-ptu-s1-2019-11-74647",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "code": "74647",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-nov-2019.pdf",
+      "sha256": "fd387951ea7c8d03ba13f129598194f68b3143f68c7ce73afdeb1290154c8517"
+    },
+    {
+      "id": "pyq-ptu-s1-2020-12-74644",
+      "semester": 1,
+      "syllabusSubject": "human-anatomy-and-physiology-1",
+      "code": "74644",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-dec-2020.pdf",
+      "sha256": "5f508cc7f49b09f63873059cc3657ac27f7cee045f4613b2b5a956d580b69235"
+    },
+    {
+      "id": "pyq-ptu-s1-2020-12-74645",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-analysis",
+      "code": "74645",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-dec-2020.pdf",
+      "sha256": "6a793a4e9fa9738473448677b054997ed915ad65bd28608be6e67c8e6976dba5"
+    },
+    {
+      "id": "pyq-ptu-s1-2020-12-74646",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutics-1",
+      "code": "74646",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-theory-74646-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-theory-74646-dec-2020.pdf",
+      "sha256": "d261d9b30c029b3394b28f9fbd9fd1b0ab417dfbbde654024c2961403838b961"
+    },
+    {
+      "id": "pyq-ptu-s1-2020-12-74647",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "code": "74647",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-dec-2020.pdf",
+      "sha256": "300dedd15ab02ba4d7b1260d0f78d4b9a727ff664d2279da1b2e04ad8a5cdf6e"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-01-74644",
+      "semester": 1,
+      "syllabusSubject": "human-anatomy-and-physiology-1",
+      "code": "74644",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-jan-2023.pdf",
+      "sha256": "bc8e8c6991515a1161e85bf069c32bfc5c48dca035e1238facb32c71f6f489c0"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-01-74645",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-analysis",
+      "code": "74645",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-jan-2023.pdf",
+      "sha256": "ae0f704b06ef67fc9e65033ec974558227f024e4345217dddf51fe4a4f0b5f34"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-01-74646",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutics-1",
+      "code": "74646",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-74646-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-74646-jan-2023.pdf",
+      "sha256": "277d10e422fba81ab0da671893b545e5cc7a79846ec13d4b2388f9613d9c9cef"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-01-74647",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "code": "74647",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-jan-2023.pdf",
+      "sha256": "f6cffb8c703b1e69691be1c7f86bba9aa28396e1f2e637fc6a8e47c3ed308256"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-12-74647",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "code": "74647",
+      "session": "December 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-dec-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-dec-2023.pdf",
+      "sha256": "4698d95f542ae61e3f6e1e82d9a18fb0c6daab8ce5e61cb177773788bf61c120"
+    },
+    {
+      "id": "pyq-ptu-s1-2024-06-74647",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "code": "74647",
+      "session": "June 2024",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-jun-2024.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-jun-2024.pdf",
+      "sha256": "1a3a10232d7bfeec9da841b9c489856ea06d3b042b941a4d6f371fd56eacc6b5"
+    },
+    {
+      "id": "pyq-ptu-s1-2026-01-74644",
+      "semester": 1,
+      "syllabusSubject": "human-anatomy-and-physiology-1",
+      "code": "74644",
+      "session": "January 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-jan-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-human-anatomy-and-physiology-1-74644-jan-2026.pdf",
+      "sha256": "2606bdaa41d67519989446d0dfe3706f5ec35494a75227fff1a88898be522c88"
+    },
+    {
+      "id": "pyq-ptu-s1-2026-01-74645",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-analysis",
+      "code": "74645",
+      "session": "January 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-jan-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-analysis-1-74645-jan-2026.pdf",
+      "sha256": "b6016a0145ea9a9f15ea949ac40f5ffc35973f33639556ae5b873a0767f3ae72"
+    },
+    {
+      "id": "pyq-ptu-s1-2026-01-74646",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutics-1",
+      "code": "74646",
+      "session": "January 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-74646-jan-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutics-1-74646-jan-2026.pdf",
+      "sha256": "966cc8f87581ebe6e68033c3f4b09319fca46f7295387993b211bf2413fd07b3"
+    },
+    {
+      "id": "pyq-ptu-s1-2026-01-74647",
+      "semester": 1,
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "code": "74647",
+      "session": "January 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-jan-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-1-sem-pharmaceutical-inorganic-chemistry-74647-jan-2026.pdf",
+      "sha256": "fa0870afee08c2716096790ae0a92007610fbad550fcc1ce7928352f511fe604"
+    },
+    {
+      "id": "pyq-ptu-s2-2018-12-74967",
+      "semester": 2,
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "code": "74967",
+      "session": "December 2018",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-dec-2018.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-dec-2018.pdf",
+      "sha256": "4829c54985c62a6ddf991d0b5376318b73e467134c2ca4077e0d584c9027d6bb"
+    },
+    {
+      "id": "pyq-ptu-s2-2018-12-74968",
+      "semester": 2,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "code": "74968",
+      "session": "December 2018",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-dec-2018.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-dec-2018.pdf",
+      "sha256": "fe83e54bb53ab400e30e09eb2010d8c423c80e11c60cfd18aa8b507fa40fb600"
+    },
+    {
+      "id": "pyq-ptu-s2-2018-12-74970",
+      "semester": 2,
+      "syllabusSubject": "pathophysiology",
+      "code": "74970",
+      "session": "December 2018",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-dec-2018.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-dec-2018.pdf",
+      "sha256": "adf095cd062a16a7aa84b83998041d8b1a1ec36a6cc7317200dc80939eaaa0ae"
+    },
+    {
+      "id": "pyq-ptu-s2-2019-05-74967",
+      "semester": 2,
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "code": "74967",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-may-2019.pdf",
+      "sha256": "7ea9c470239013cccc81e8c959cd85898b76940f8206c8fc69cb5dea09eb1bb4"
+    },
+    {
+      "id": "pyq-ptu-s2-2019-05-74968",
+      "semester": 2,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "code": "74968",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-may-2019.pdf",
+      "sha256": "ac2f6325ff1786902b1e4a330242d1c2b706b10a7ea16f899af22f91b1047139"
+    },
+    {
+      "id": "pyq-ptu-s2-2019-05-74969",
+      "semester": 2,
+      "syllabusSubject": "biochemistry",
+      "code": "74969",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-may-2019.pdf",
+      "sha256": "986c7afe98a5e7588d57e694769b36bc60e14b4b3e61bf368de627f5276e3b62"
+    },
+    {
+      "id": "pyq-ptu-s2-2019-05-74970",
+      "semester": 2,
+      "syllabusSubject": "pathophysiology",
+      "code": "74970",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-may-2019.pdf",
+      "sha256": "b99cd7830d42969a00f37f24b9eb57e741ac9d6b208916eedfc1724f9165d03d"
+    },
+    {
+      "id": "pyq-ptu-s2-2020-03-74967",
+      "semester": 2,
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "code": "74967",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-nov-2019.pdf",
+      "sha256": "c0d9260ba6c7f1c018e7f330b6fdde0b3f3968f2f373ac85d6ae0d782d534b77"
+    },
+    {
+      "id": "pyq-ptu-s2-2020-03-74968",
+      "semester": 2,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "code": "74968",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-nov-2019.pdf",
+      "sha256": "3194db29c89817b0faf9feeab186fa378423890b2c41afbec2752793012482a6"
+    },
+    {
+      "id": "pyq-ptu-s2-2020-03-74969",
+      "semester": 2,
+      "syllabusSubject": "biochemistry",
+      "code": "74969",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-nov-2019.pdf",
+      "sha256": "2837e34486d6b982f1a002ca1daa40d477542c7c9b06ea71b93aa126d92aee2d"
+    },
+    {
+      "id": "pyq-ptu-s2-2020-03-74970",
+      "semester": 2,
+      "syllabusSubject": "pathophysiology",
+      "code": "74970",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-nov-2019.pdf",
+      "sha256": "89e6b29b7be3aaa48dd75c24fa4d97bb33a630ced790a71c771dbe157c714a6e"
+    },
+    {
+      "id": "pyq-ptu-s2-2020-12-74967",
+      "semester": 2,
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "code": "74967",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-dec-2020.pdf",
+      "sha256": "a441a2cf15c8c597663b3d8c53756731fcd4e6c977a59ba2a1b7a73fae6c3007"
+    },
+    {
+      "id": "pyq-ptu-s2-2020-12-74968",
+      "semester": 2,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "code": "74968",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-dec-2020.pdf",
+      "sha256": "2c7e23934f707ee7636ab69c38c1f9b07f66ab2bf06d06a65d752bbf10e071de"
+    },
+    {
+      "id": "pyq-ptu-s2-2020-12-74969",
+      "semester": 2,
+      "syllabusSubject": "biochemistry",
+      "code": "74969",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-dec-2020.pdf",
+      "sha256": "a8492d49b3f6ad022664b506f6d657b89ca7eaf9dd3604a07302a1d0f10d9ce7"
+    },
+    {
+      "id": "pyq-ptu-s2-2020-12-74970",
+      "semester": 2,
+      "syllabusSubject": "pathophysiology",
+      "code": "74970",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-dec-2020.pdf",
+      "sha256": "2ec2638abcc43154a474a8caa7b1b309c00cba5e38670f04b7d11f13164029ef"
+    },
+    {
+      "id": "pyq-ptu-s2-2022-12-74967",
+      "semester": 2,
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "code": "74967",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-dec-2022.pdf",
+      "sha256": "86ec905b4582e627e0bbc3acaa9e3f34eaa8838e45eb556d22b4fc24e9afd725"
+    },
+    {
+      "id": "pyq-ptu-s2-2022-12-74968",
+      "semester": 2,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "code": "74968",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-dec-2022.pdf",
+      "sha256": "c53cc59ba28416af0ababb4f754906aa39e7814e8eb356b47cde5b261300607d"
+    },
+    {
+      "id": "pyq-ptu-s2-2022-12-74969",
+      "semester": 2,
+      "syllabusSubject": "biochemistry",
+      "code": "74969",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-dec-2022.pdf",
+      "sha256": "5b69c39d559fc20221e9635dca8d8e2a3f35bbe6d9722827f3d4fc825c424ba8"
+    },
+    {
+      "id": "pyq-ptu-s2-2022-12-74970",
+      "semester": 2,
+      "syllabusSubject": "pathophysiology",
+      "code": "74970",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-dec-2022.pdf",
+      "sha256": "e36a6247e227fa83eea5b383f4b43ba95a863ce7a59a79ad354c534025a4c8de"
+    },
+    {
+      "id": "pyq-ptu-s2-2026-05-74967",
+      "semester": 2,
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "code": "74967",
+      "session": "May 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-may-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-may-2026.pdf",
+      "sha256": "1a6059fe35b90c6032c3e1ae4151d42c199c0ce0f5a1da016ac5eb400aaa8b34"
+    },
+    {
+      "id": "pyq-ptu-s2-2026-05-74968",
+      "semester": 2,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "code": "74968",
+      "session": "May 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-may-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-may-2026.pdf",
+      "sha256": "6e862fdd95d02ec82d5f99baec4ddeb061b8f4d2f7c409da2be1632e74d281dd"
+    },
+    {
+      "id": "pyq-ptu-s2-2026-05-74969",
+      "semester": 2,
+      "syllabusSubject": "biochemistry",
+      "code": "74969",
+      "session": "May 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-may-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-may-2026.pdf",
+      "sha256": "9430d3d0504e37bfca039831c4ee786e7de5f7af730051741461269d741af1dd"
+    },
+    {
+      "id": "pyq-ptu-s2-2026-05-74970",
+      "semester": 2,
+      "syllabusSubject": "pathophysiology",
+      "code": "74970",
+      "session": "May 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-may-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-may-2026.pdf",
+      "sha256": "b4d7584602bdd2d588655fe3dfa25573eef701cf12d9e87a25123b9dd8dc4578"
+    },
+    {
+      "id": "pyq-ptu-s3-2018-12-75105",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "code": "75105",
+      "session": "December 2018",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-dec-2018.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-dec-2018.pdf",
+      "sha256": "5fb968ca2d20ecccc6715ca3be5de0576e9a726bef9a7cd676c51daa217439ad"
+    },
+    {
+      "id": "pyq-ptu-s3-2018-12-75106",
+      "semester": 3,
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "code": "75106",
+      "session": "December 2018",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-dec-2018.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-dec-2018.pdf",
+      "sha256": "7243ae94e6a19cacee3940adc86461cfc284ff67b73dc1e1504f9a8a13a55067"
+    },
+    {
+      "id": "pyq-ptu-s3-2018-12-75108",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-engineering",
+      "code": "75108",
+      "session": "December 2018",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-dec-2018.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-dec-2018.pdf",
+      "sha256": "0d54b163b5e6901592663ef0c84a9206332082072fb7067cd42e6c40456b229b"
+    },
+    {
+      "id": "pyq-ptu-s3-2019-05-75105",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "code": "75105",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-may-2019.pdf",
+      "sha256": "7645da1473741ea3df1ae76cc1f0272152c21e2fd5c8058c15f7067bb7447d7d"
+    },
+    {
+      "id": "pyq-ptu-s3-2019-05-75106",
+      "semester": 3,
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "code": "75106",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-may-2019.pdf",
+      "sha256": "6acb57a149ce932d5a65864e8e8c0b1fdab10e43119eab4f55e83f6ce45cafb2"
+    },
+    {
+      "id": "pyq-ptu-s3-2019-05-75107",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "code": "75107",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-may-2019.pdf",
+      "sha256": "b6410ad7edce718095e2573ca000205706fca4718e5a1bfb9bc07c62c31d6e3c"
+    },
+    {
+      "id": "pyq-ptu-s3-2019-05-75108",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-engineering",
+      "code": "75108",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-may-2019.pdf",
+      "sha256": "59cd5ba8f6f02b55656bcbf4be6b5f977b9ebc06bebb46382a19d2df74637db9"
+    },
+    {
+      "id": "pyq-ptu-s3-2019-11-75106",
+      "semester": 3,
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "code": "75106",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-nov-2019.pdf",
+      "sha256": "13a1cd93e42458709f7b49773ea6b1de7b7a734a7a5166ac9d34d26f683b49c5"
+    },
+    {
+      "id": "pyq-ptu-s3-2019-11-75107",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "code": "75107",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-nov-2019.pdf",
+      "sha256": "024f788e1f143aa36c799f5d51c0ca24afecd77751b505591c30fe59bbfde2c7"
+    },
+    {
+      "id": "pyq-ptu-s3-2019-11-75108",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-engineering",
+      "code": "75108",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-nov-2019.pdf",
+      "sha256": "64a2c3e3779874276c7a083965bad03d09fab8bafe6f712317e1825f672b4baa"
+    },
+    {
+      "id": "pyq-ptu-s3-2019-11-bp-301t",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "code": "BP-301T",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-bp-301t-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-bp-301t-nov-2019.pdf",
+      "sha256": "60d3080a059e2308387bb82527f74fb33bc7de8daedc7e14807a256945b29b64"
+    },
+    {
+      "id": "pyq-ptu-s3-2020-12-75105",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "code": "75105",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-dec-2020.pdf",
+      "sha256": "717d1d91226c66ed19e1de26b4d66731e68f23dde2432fb4180178534bbede10"
+    },
+    {
+      "id": "pyq-ptu-s3-2020-12-75106",
+      "semester": 3,
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "code": "75106",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-dec-2020.pdf",
+      "sha256": "32e74848810e71e37822cecd4262e4980ddcf61423462540a158c6a09670fd3e"
+    },
+    {
+      "id": "pyq-ptu-s3-2020-12-75107",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "code": "75107",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-dec-2020.pdf",
+      "sha256": "8a8ddd015b576b9689316d5dc60b3eaa87ddbe309468a30e6fac352cbce5d0dd"
+    },
+    {
+      "id": "pyq-ptu-s3-2020-12-75108",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-engineering",
+      "code": "75108",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-dec-2020.pdf",
+      "sha256": "3443340ba4260b3ad5f918443b96524fd9f2d36c0d39efff9f52889247a31aac"
+    },
+    {
+      "id": "pyq-ptu-s3-2021-01-75105",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "code": "75105",
+      "session": "January 2021",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-jan-2021.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-jan-2021.pdf",
+      "sha256": "c13894219c46c669d6a4a918e7914a5b8d9f1fbef30b4449173776eb509565e3"
+    },
+    {
+      "id": "pyq-ptu-s3-2021-01-75106",
+      "semester": 3,
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "code": "75106",
+      "session": "January 2021",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-jan-2021.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-jan-2021.pdf",
+      "sha256": "75ced66c313aff91811236e86e8f516ffcf32c69902b72da366862bc733fe494"
+    },
+    {
+      "id": "pyq-ptu-s3-2021-01-75107",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "code": "75107",
+      "session": "January 2021",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-jan-2021.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-jan-2021.pdf",
+      "sha256": "b1aaca174ac3e23ff1dcfa152baa33fa5c47cba503d8e7981f0dee8429d5e492"
+    },
+    {
+      "id": "pyq-ptu-s3-2021-01-75108",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-engineering",
+      "code": "75108",
+      "session": "January 2021",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-jan-2021.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-jan-2021.pdf",
+      "sha256": "1ecfebb64ca6954ae2b5a296ca3b6a7758915f7fc3a31dcf86abe173cb17756f"
+    },
+    {
+      "id": "pyq-ptu-s3-2022-12-75105",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "code": "75105",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-75105-dec-2022.pdf",
+      "sha256": "794c4cb5cc68e3c858767cc2dd941719a6e7cf539af555d003e149778adf5f3f"
+    },
+    {
+      "id": "pyq-ptu-s3-2022-12-75106",
+      "semester": 3,
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "code": "75106",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-75106-dec-2022.pdf",
+      "sha256": "e95c3b36b9bafa9e2030a9454438c89623198e7a11da1a0ee250c1a3da998872"
+    },
+    {
+      "id": "pyq-ptu-s3-2022-12-75107",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "code": "75107",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-75107-dec-2022.pdf",
+      "sha256": "d2518cab1097611df802df5be654d869483a1d6b4005eda2cdd3f4eca29192a4"
+    },
+    {
+      "id": "pyq-ptu-s3-2022-12-75108",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-engineering",
+      "code": "75108",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-75108-dec-2022.pdf",
+      "sha256": "912f2d5f89bca95bb8825378c075e92f0c2f35a9ea61c9a69b8710837ae938c0"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-01-93323",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "code": "93323",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-93323-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-organic-chemistry-2-93323-jan-2023.pdf",
+      "sha256": "c058c903b687ae4245314c67656f5a28b3c56f791283945489311697d1f9c5ac"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-01-93324",
+      "semester": 3,
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "code": "93324",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-93324-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-physical-pharmaceutics-1-93324-jan-2023.pdf",
+      "sha256": "f504e89b5f5fa7fb05a530ac3f37fd910dc535ae8b055c9624c3d7c977bde73a"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-01-93325",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "code": "93325",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-93325-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-microbiology-93325-jan-2023.pdf",
+      "sha256": "f49e5ccbccc7acf15db46ef25f3a6ef10926eb2147e7434ef3d6a66cf88abf15"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-01-93326",
+      "semester": 3,
+      "syllabusSubject": "pharmaceutical-engineering",
+      "code": "93326",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-93326-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-3-sem-pharmaceutical-engineering-93326-jan-2023.pdf",
+      "sha256": "6ed5596b404c6cc303a583e357a4faff91e937a9f4b474536e86ab3173eee9ad"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-05-75843",
+      "semester": 4,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "code": "75843",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmaceutical-organic-chemistry-3-75843-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmaceutical-organic-chemistry-3-75843-may-2019.pdf",
+      "sha256": "07f153ff604d90a1a018b2386495ca60f1f7826edc7bfed5630b51345c6556ce"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-05-75844",
+      "semester": 4,
+      "syllabusSubject": "medicinal-chemistry-1",
+      "code": "75844",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-medicinal-chemistry-1-75844-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-medicinal-chemistry-1-75844-may-2019.pdf",
+      "sha256": "b7c5bfc31344577704a0d64f35f5204ad258418ccb5b32edc288525a2985c6b9"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-05-75845",
+      "semester": 4,
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "code": "75845",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-physical-pharmaceutics-2-75845-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-physical-pharmaceutics-2-75845-may-2019.pdf",
+      "sha256": "a0a9e08a852ad44ef59e38b2e27fe690e641d4570421d49c1f393176923fa5da"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-05-75846",
+      "semester": 4,
+      "syllabusSubject": "pharmacology-1",
+      "code": "75846",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacology-1-75846-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacology-1-75846-may-2019.pdf",
+      "sha256": "9e9e5d14b5fa9551994bb3357214f4d7d0637ab8d6f7c7405e4df85dce009edc"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-05-75847",
+      "semester": 4,
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "code": "75847",
+      "session": "May 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacognosy-and-phytochemistry-1-75847-may-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacognosy-and-phytochemistry-1-75847-may-2019.pdf",
+      "sha256": "b74a2bc7f165c295eddbd3448ee6ec671c4919ba8e22f40667510b8d8b023bc7"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-11-75844",
+      "semester": 4,
+      "syllabusSubject": "medicinal-chemistry-1",
+      "code": "75844",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-medicinal-chemistry-1-75844-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-medicinal-chemistry-1-75844-nov-2019.pdf",
+      "sha256": "a05657d418d9d09eb5b1f43eabbb855d6d11346d712d477a2e98836606e62db0"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-11-75845",
+      "semester": 4,
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "code": "75845",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-physical-pharmaceutics-2-75845-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-physical-pharmaceutics-2-75845-nov-2019.pdf",
+      "sha256": "a8dbadf029526d25133063c4f4d3d89ca6f88dbfa79c97cf06cb4e917da2d16d"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-11-75846",
+      "semester": 4,
+      "syllabusSubject": "pharmacology-1",
+      "code": "75846",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacology-1-75846-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacology-1-75846-nov-2019.pdf",
+      "sha256": "0a44e2829c4f80efb0ff5f8d50ab0e4669a5df8ef1fc7d814d356e8189e820c6"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-11-75847",
+      "semester": 4,
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "code": "75847",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacognosy-and-phytochemistry-1-75847-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacognosy-and-phytochemistry-1-75847-nov-2019.pdf",
+      "sha256": "0395fe8a9c658d199f8d02804bb22f6c3548ae1099e40b2129946ab004b47747"
+    },
+    {
+      "id": "pyq-ptu-s4-2019-11-bp-401t",
+      "semester": 4,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "code": "BP-401T",
+      "session": "November 2019",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmaceutical-organic-chemistry-3-bp-401t-nov-2019.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmaceutical-organic-chemistry-3-bp-401t-nov-2019.pdf",
+      "sha256": "6721110d8e310da28212b398d79d4a29752448bff4864efb0b98f2fa50571033"
+    },
+    {
+      "id": "pyq-ptu-s4-2020-12-75843",
+      "semester": 4,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "code": "75843",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmaceutical-organic-chemistry-3-75843-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmaceutical-organic-chemistry-3-75843-dec-2020.pdf",
+      "sha256": "e755eee3e19b8de698d5bb712e8141dedd98b96b3621b11354130728f931f90d"
+    },
+    {
+      "id": "pyq-ptu-s4-2020-12-75844",
+      "semester": 4,
+      "syllabusSubject": "medicinal-chemistry-1",
+      "code": "75844",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-medicinal-chemistry-1-75844-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-medicinal-chemistry-1-75844-dec-2020.pdf",
+      "sha256": "74fb1be95d2c48d56043b867b0e75644cbb21991bd869bd1df98bf72d1c2a227"
+    },
+    {
+      "id": "pyq-ptu-s4-2020-12-75845",
+      "semester": 4,
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "code": "75845",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-physical-pharmaceutics-2-75845-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-physical-pharmaceutics-2-75845-dec-2020.pdf",
+      "sha256": "61460da178244b0befdd76b342eacf242c05127eae0851263a9988deda061605"
+    },
+    {
+      "id": "pyq-ptu-s4-2020-12-75846",
+      "semester": 4,
+      "syllabusSubject": "pharmacology-1",
+      "code": "75846",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacology-1-75846-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacology-1-75846-dec-2020.pdf",
+      "sha256": "4c6f42c80d0f5b646726de1dab2f469d8ca35b2e2ca0111651c4459ba8e3d716"
+    },
+    {
+      "id": "pyq-ptu-s4-2020-12-75847",
+      "semester": 4,
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "code": "75847",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacognosy-phytochemistry-1-75847-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacognosy-phytochemistry-1-75847-dec-2020.pdf",
+      "sha256": "de36e2038cc63c7b806526f297a77d072c181a89050fe1b35debad4c9e0d6388"
+    },
+    {
+      "id": "pyq-ptu-s4-2022-12-75843",
+      "semester": 4,
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "code": "75843",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmaceutical-organic-chemistry-3-75843-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmaceutical-organic-chemistry-3-75843-dec-2022.pdf",
+      "sha256": "da0e063c1acedc5c42afb2220c08483b944a9f3102c6c0965de9251fb6445555"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-01-75844",
+      "semester": 4,
+      "syllabusSubject": "medicinal-chemistry-1",
+      "code": "75844",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-medicinal-chemistry-1-75844-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-medicinal-chemistry-1-75844-jan-2023.pdf",
+      "sha256": "fa3a3d733e4680dbd328727916bb252ffee5dd64949744dfe473a6614b4d458a"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-01-75845",
+      "semester": 4,
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "code": "75845",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-physical-pharmaceutics-2-75845-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-physical-pharmaceutics-2-75845-jan-2023.pdf",
+      "sha256": "3bad725fe0b1311b287c284d832cd36680623c6157eed37044891b2e1431d4d5"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-01-75846",
+      "semester": 4,
+      "syllabusSubject": "pharmacology-1",
+      "code": "75846",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacology-1-75846-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacology-1-75846-jan-2023.pdf",
+      "sha256": "73edf9bc2fe7f7ea24eecf044eef3c2099bf105e8f5a10ea6d49e48662dd9e6d"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-01-75847",
+      "semester": 4,
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "code": "75847",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacognosy-and-phytochemistry-1-75847-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-4-sem-pharmacognosy-and-phytochemistry-1-75847-jan-2023.pdf",
+      "sha256": "c417744719629aeb44e14c5eaec9e1922c9e25328529328cc998508be014f85c"
+    },
+    {
+      "id": "pyq-ptu-s6-2020-12-77986",
+      "semester": 6,
+      "syllabusSubject": "medicinal-chemistry-3",
+      "code": "77986",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-medicinal-chemistry-3-theory-77986-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-medicinal-chemistry-3-theory-77986-dec-2020.pdf",
+      "sha256": "f298cb3256e0807581b0406b1f90ef38eb219eb12772eb3574b58d6a5f8b800e"
+    },
+    {
+      "id": "pyq-ptu-s6-2020-12-77987",
+      "semester": 6,
+      "syllabusSubject": "pharmacology-3",
+      "code": "77987",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmacology-3-theory-77987-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmacology-3-theory-77987-dec-2020.pdf",
+      "sha256": "50ae9150cb6be730d75584aa82c6831ab4c2767d28b98cce9c2c49093906ef09"
+    },
+    {
+      "id": "pyq-ptu-s6-2020-12-77988",
+      "semester": 6,
+      "syllabusSubject": "herbal-drug-technology",
+      "code": "77988",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-herbal-drug-technology-theory-77988-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-herbal-drug-technology-theory-77988-dec-2020.pdf",
+      "sha256": "bb240bf26f25215d1c766ec0ce29d2062f7e54ab8e2f12488dac7da48b0df55d"
+    },
+    {
+      "id": "pyq-ptu-s6-2020-12-77989",
+      "semester": 6,
+      "syllabusSubject": "biopharmaceutics-and-pharmacokinetics",
+      "code": "77989",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-biopharmaceutics-and-pharmacokinetics-theory-77989-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-biopharmaceutics-and-pharmacokinetics-theory-77989-dec-2020.pdf",
+      "sha256": "5b1b15ffb293ef20e08fdde26d2f496ecffa1d01aa00706ac8af693e8e785156"
+    },
+    {
+      "id": "pyq-ptu-s6-2020-12-77990",
+      "semester": 6,
+      "syllabusSubject": "pharmaceutical-biotechnology",
+      "code": "77990",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmaceutical-biotechnology-theory-77990-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmaceutical-biotechnology-theory-77990-dec-2020.pdf",
+      "sha256": "2f35152ee82c9a836e472e31b1fa8b16f630e5cc105d7bfafbdc45a7350f0f76"
+    },
+    {
+      "id": "pyq-ptu-s6-2020-12-77991",
+      "semester": 6,
+      "syllabusSubject": "pharmaceutical-quality-assurance",
+      "code": "77991",
+      "session": "December 2020",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-quality-assurance-theory-77991-dec-2020.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-quality-assurance-theory-77991-dec-2020.pdf",
+      "sha256": "245329e3620922dfe242c1a780f4918b37d72a3984052cced3e947bebcd658ad"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-01-77986",
+      "semester": 6,
+      "syllabusSubject": "medicinal-chemistry-3",
+      "code": "77986",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-medicinal-chemistry-3-77986-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-medicinal-chemistry-3-77986-jan-2023.pdf",
+      "sha256": "0f90558b68d576d136eb8ee3b299554cd5bf5cf6f9d59e434b948537e59de307"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-01-77987",
+      "semester": 6,
+      "syllabusSubject": "pharmacology-3",
+      "code": "77987",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmacology-3-77987-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmacology-3-77987-jan-2023.pdf",
+      "sha256": "1bae666209e3fa820ba30b9cb67a3f0c0cd5c5b49d177a02144e167182441aec"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-01-77988",
+      "semester": 6,
+      "syllabusSubject": "herbal-drug-technology",
+      "code": "77988",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-herbal-drug-technology-77988-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-herbal-drug-technology-77988-jan-2023.pdf",
+      "sha256": "38b6480ebde40abfb24b6d76fa4713cad20f18618a0892d66a971717d83733a1"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-01-77989",
+      "semester": 6,
+      "syllabusSubject": "biopharmaceutics-and-pharmacokinetics",
+      "code": "77989",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-biopharmaceutics-and-pharmacokinetics-77989-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-biopharmaceutics-and-pharmacokinetics-77989-jan-2023.pdf",
+      "sha256": "e0974a33244aa2e8ef0eb7fbc0ab316aa29e5916536153bd8ed357c338a6774b"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-01-77990",
+      "semester": 6,
+      "syllabusSubject": "pharmaceutical-biotechnology",
+      "code": "77990",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmaceutical-biotechnology-77990-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmaceutical-biotechnology-77990-jan-2023.pdf",
+      "sha256": "f9a56963b46fd9dfea3960d1b371b197cc269f3f7310d05c89dc27a08285c7fa"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-01-77991",
+      "semester": 6,
+      "syllabusSubject": "pharmaceutical-quality-assurance",
+      "code": "77991",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-quality-assurance-77991-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-quality-assurance-77991-jan-2023.pdf",
+      "sha256": "a188e42aca35584b91b905940c846638551adcc69876b8fbfe203d9ab591dfbf"
+    },
+    {
+      "id": "pyq-ptu-s6-2026-05-77987",
+      "semester": 6,
+      "syllabusSubject": "pharmacology-3",
+      "code": "77987",
+      "session": "May 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmacology-3-77987-may-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-pharmacology-3-77987-may-2026.pdf",
+      "sha256": "2cc5f683de3ace70c5b9490b79ca4f9bab4b5170df362a20dbc368a4ccc35cbe"
+    },
+    {
+      "id": "pyq-ptu-s6-2026-05-77991",
+      "semester": 6,
+      "syllabusSubject": "pharmaceutical-quality-assurance",
+      "code": "77991",
+      "session": "May 2026",
+      "source": "https://www.ptustudy.com/papers/bpharma-6-sem-quality-assurance-theory-77991-may-2026.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-6-sem-quality-assurance-theory-77991-may-2026.pdf",
+      "sha256": "4280bd9460128af07b2cc60888cc71553eba3df12fd3fc537a96270034a1e667"
+    },
+    {
+      "id": "pyq-ptu-s7-2021-01-78387",
+      "semester": 7,
+      "syllabusSubject": "instrumental-methods-of-analysis",
+      "code": "78387",
+      "session": "January 2021",
+      "source": "https://www.ptustudy.com/papers/bpharma-7-sem-instrumental-methods-of-analysis-theory-78387-jan-2021.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-7-sem-instrumental-methods-of-analysis-theory-78387-jan-2021.pdf",
+      "sha256": "ee275cfa00a6c5859337e3b7ab163a1b42b78b297dfd93c29415380bb65fdc87"
+    },
+    {
+      "id": "pyq-ptu-s7-2021-01-78388",
+      "semester": 7,
+      "syllabusSubject": "industrial-pharmacy-2",
+      "code": "78388",
+      "session": "January 2021",
+      "source": "https://www.ptustudy.com/papers/bpharma-7-sem-industrial-pharmacy-2-theory-78388-jan-2021.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-7-sem-industrial-pharmacy-2-theory-78388-jan-2021.pdf",
+      "sha256": "1f4c88015609911b06e4563b230457112196d667c39f7eb605a956b5b33f4f67"
+    },
+    {
+      "id": "pyq-ptu-s7-2021-01-78389",
+      "semester": 7,
+      "syllabusSubject": "pharmacy-practice",
+      "code": "78389",
+      "session": "January 2021",
+      "source": "https://www.ptustudy.com/papers/bpharma-7-sem-pharmacy-practice-theory-78389-jan-2021.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-7-sem-pharmacy-practice-theory-78389-jan-2021.pdf",
+      "sha256": "3672b58399c7c33743a7c25a33e57458ed4e604c2f88e5369e7fc3c7a34d88bf"
+    },
+    {
+      "id": "pyq-ptu-s7-2021-01-78390",
+      "semester": 7,
+      "syllabusSubject": "novel-drug-delivery-system",
+      "code": "78390",
+      "session": "January 2021",
+      "source": "https://www.ptustudy.com/papers/bpharma-7-sem-novel-drug-delivery-system-theory-78390-jan-2021.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-7-sem-novel-drug-delivery-system-theory-78390-jan-2021.pdf",
+      "sha256": "e9b53e41d4e4567a590e97c56cfef1b9974ce27a6e9c538788a860ddbe211c4b"
+    },
+    {
+      "id": "pyq-ptu-s7-2022-12-78387",
+      "semester": 7,
+      "syllabusSubject": "instrumental-methods-of-analysis",
+      "code": "78387",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-7-sem-instrumental-method-of-analysis-78387-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-7-sem-instrumental-method-of-analysis-78387-dec-2022.pdf",
+      "sha256": "d22064ec45c0d69ee668c9c88fe174dfcfda8b2d7ae5b8dcd8d8c9f31a1e4399"
+    },
+    {
+      "id": "pyq-ptu-s7-2022-12-78388",
+      "semester": 7,
+      "syllabusSubject": "industrial-pharmacy-2",
+      "code": "78388",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-7-sem-industrial-pharmacy-2-78388-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-7-sem-industrial-pharmacy-2-78388-dec-2022.pdf",
+      "sha256": "8498c78c3b7f9b27280ea58802deab174570aca78f874f28b03d14fcf2fad9ef"
+    },
+    {
+      "id": "pyq-ptu-s7-2022-12-78389",
+      "semester": 7,
+      "syllabusSubject": "pharmacy-practice",
+      "code": "78389",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-7-sem-pharmacy-practice-78389-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-7-sem-pharmacy-practice-78389-dec-2022.pdf",
+      "sha256": "fb1437f1bf87bcf0ea8d4a19ddf77eed0f209eff1c5dbe1fdd265e0bc4179a6c"
+    },
+    {
+      "id": "pyq-ptu-s7-2022-12-78390",
+      "semester": 7,
+      "syllabusSubject": "novel-drug-delivery-system",
+      "code": "78390",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-7-sem-novel-drug-delivery-system-78390-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-7-sem-novel-drug-delivery-system-78390-dec-2022.pdf",
+      "sha256": "f4282796755315dc383df31278b346ec5ae5ecf8f1d6c610c34c44de335da627"
+    },
+    {
+      "id": "pyq-ptu-s8-2022-12-79764",
+      "semester": 8,
+      "syllabusSubject": "biostatistics-and-research-methodology",
+      "code": "79764",
+      "session": "December 2022",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-biostatistics-and-research-methodology-79764-dec-2022.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-biostatistics-and-research-methodology-79764-dec-2022.pdf",
+      "sha256": "323d17d33a411e39be7c30c6389d09ef69c61493da59fb3f93427c55812bcc60"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79765",
+      "semester": 8,
+      "syllabusSubject": "social-and-preventive-pharmacy",
+      "code": "79765",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-social-and-preventive-pharmacy-79765-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-social-and-preventive-pharmacy-79765-jan-2023.pdf",
+      "sha256": "c3a7f0c828a778cf5cd5fc34eb86c23082d9cfb33822abdcdb80f0bbf9ab04be"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79766",
+      "semester": 8,
+      "syllabusSubject": "pharma-marketing-management",
+      "code": "79766",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-pharma-marketing-management-79766-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-pharma-marketing-management-79766-jan-2023.pdf",
+      "sha256": "1a72a1cf3532da0efc737ef075cd0d2448f9bc90e60e44715059f7af9ba8ad03"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79767",
+      "semester": 8,
+      "syllabusSubject": "pharmaceutical-regulatory-science",
+      "code": "79767",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-pharmaceutical-regulatory-science-79767-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-pharmaceutical-regulatory-science-79767-jan-2023.pdf",
+      "sha256": "30efcc57b491cfeff227c04d6d2da6bda677b2b939b161d75b32fa87c766b825"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79768",
+      "semester": 8,
+      "syllabusSubject": "pharmacovigilance",
+      "code": "79768",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-pharmacovigilance-79768-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-pharmacovigilance-79768-jan-2023.pdf",
+      "sha256": "e62d8bc1004e4bc35b8093391d431148ac734a6bbfbafc74ae7571dde12cf959"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79769",
+      "semester": 8,
+      "syllabusSubject": "quality-control-and-standardization-of-herbals",
+      "code": "79769",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-quality-control-and-standardization-of-herbals-79769-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-quality-control-and-standardization-of-herbals-79769-jan-2023.pdf",
+      "sha256": "8051e5b374a410ccf77942a80564e467b645a282c15b346e179785383a6e2edd"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79770",
+      "semester": 8,
+      "syllabusSubject": "computer-aided-drug-design",
+      "code": "79770",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-computer-aided-drug-design-79770-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-computer-aided-drug-design-79770-jan-2023.pdf",
+      "sha256": "0f09d2710692e6a803a963b2ec3512be8423d241307e0130c24c74cc2939462f"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79771",
+      "semester": 8,
+      "syllabusSubject": "cell-and-molecular-biology",
+      "code": "79771",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-cell-and-molecular-biology-79771-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-cell-and-molecular-biology-79771-jan-2023.pdf",
+      "sha256": "c7e28e238805eeac5bb001db2895c153e1bd2c3a369617617781e42ae6208844"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79772",
+      "semester": 8,
+      "syllabusSubject": "cosmetic-science",
+      "code": "79772",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-cosmetic-science-79772-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-cosmetic-science-79772-jan-2023.pdf",
+      "sha256": "c5af0051dcdb0c5ae069a7d0ccb41d3f55cae4415a139f33b05cf3dab6f7ed13"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79774",
+      "semester": 8,
+      "syllabusSubject": "advanced-instrumentation-techniques",
+      "code": "79774",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-advanced-instrumentation-techniques-79774-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-advanced-instrumentation-techniques-79774-jan-2023.pdf",
+      "sha256": "0e75c0c8293fe19c4c931d3e782ab437927f7c5ee116099a55766457718f48d8"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-01-79775",
+      "semester": 8,
+      "syllabusSubject": "dietary-supplements-and-nutraceuticals",
+      "code": "79775",
+      "session": "January 2023",
+      "source": "https://www.ptustudy.com/papers/bpharma-8-sem-dietary-supplements-and-nutraceuticals-79775-jan-2023.html",
+      "downloadSource": "https://www.ptustudy.com/papers/bpharma-8-sem-dietary-supplements-and-nutraceuticals-79775-jan-2023.pdf",
+      "sha256": "8f4ca8917db130628dc8f64a58f364ef56850dd5171fefd973e5c27e252ab3ed"
+    }
+  ],
+  "mergedExistingCopies": [
+    {
+      "old": "pyq-ptu-s2-2020-12-74967",
+      "candidate": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-dec-2020.html",
+      "textSimilarity": 0.9872682599955327,
+      "pagesMatch": true
+    },
+    {
+      "old": "pyq-ptu-s2-2020-12-74968",
+      "candidate": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-dec-2020.html",
+      "textSimilarity": 0.9889406286379511,
+      "pagesMatch": true
+    },
+    {
+      "old": "pyq-ptu-s2-2020-12-74969",
+      "candidate": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-dec-2020.html",
+      "textSimilarity": 0.9866604259302598,
+      "pagesMatch": true
+    },
+    {
+      "old": "pyq-ptu-s2-2020-12-74970",
+      "candidate": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-dec-2020.html",
+      "textSimilarity": 0.9885473176612417,
+      "pagesMatch": true
+    },
+    {
+      "old": "pyq-ptu-s2-2020-03-74967",
+      "candidate": "https://www.ptustudy.com/papers/bpharma-2-sem-human-anatomy-and-physiology-2-74967-nov-2019.html",
+      "textSimilarity": 0.9884541372674791,
+      "pagesMatch": true
+    },
+    {
+      "old": "pyq-ptu-s2-2020-03-74968",
+      "candidate": "https://www.ptustudy.com/papers/bpharma-2-sem-pharmaceutical-organic-chemistry-1-74968-nov-2019.html",
+      "textSimilarity": 0.9892280071813285,
+      "pagesMatch": true
+    },
+    {
+      "old": "pyq-ptu-s2-2020-03-74969",
+      "candidate": "https://www.ptustudy.com/papers/bpharma-2-sem-biochemistry-74969-nov-2019.html",
+      "textSimilarity": 0.9887265135699373,
+      "pagesMatch": true
+    },
+    {
+      "old": "pyq-ptu-s2-2020-03-74970",
+      "candidate": "https://www.ptustudy.com/papers/bpharma-2-sem-pathophysiology-74970-nov-2019.html",
+      "textSimilarity": 0.9900221729490022,
+      "pagesMatch": true
+    }
+  ]
+}

@@ -25,11 +25,12 @@ class LibraryTests(unittest.TestCase):
                     self.assertIn(r['semester'], range(1,9))
                     self.assertTrue(r['code'])
                     self.assertTrue(r['session'])
+                    if r.get('syllabusSubject'):
+                        self.assertIn(r['syllabusSubject'], subjects)
+                        self.assertEqual(subjects[r['syllabusSubject']]['semester'], r['semester'])
+                        self.assertEqual(r['paperSubject'], subjects[r['syllabusSubject']]['name'])
                     if r['semester'] == 5:
                         self.assertIn(r['code'], {'76786','76787','76788','76789','76790'})
-                        self.assertIn(r['syllabusSubject'], subjects)
-                        self.assertEqual(subjects[r['syllabusSubject']]['semester'], 5)
-                        self.assertEqual(r['paperSubject'], subjects[r['syllabusSubject']]['name'])
                     self.assertEqual(urlparse(r['source']).netloc, {'firstranker':'firstranker.com','ptustudy':'www.ptustudy.com'}[r['provider']])
                     continue
                 if r['kind'] == 'syllabus':
@@ -79,7 +80,7 @@ class LibraryTests(unittest.TestCase):
 
     def test_imperfect_semester_availability(self):
         audit = json.loads((ROOT / 'data/imperfect-availability.json').read_text())
-        self.assertEqual(len(audit['subjects']), 22)
+        self.assertEqual(len(audit['subjects']), 45)
         for source in audit['subjects']:
             subject = next(s for s in DATA['subjects'] if s['id'] == source['subject'])
             self.assertEqual(subject['source'], source['source'])
@@ -100,6 +101,21 @@ class LibraryTests(unittest.TestCase):
         semester_six = [r for r in DATA['resources'] if r['semester'] == 6]
         self.assertEqual(len(semester_six), 30)
         self.assertEqual(len({r['subject'] for r in semester_six}), 6)
+
+    def test_expanded_collections(self):
+        for semester, expected in {1:20, 2:20, 3:25, 4:25}.items():
+            notes = [r for r in DATA['resources'] if r['semester'] == semester]
+            self.assertEqual(len(notes), expected)
+        audit = json.loads((ROOT / 'data/ptustudy-availability.json').read_text())
+        self.assertEqual(len(audit['papers']), 128)
+        self.assertEqual(len(audit['mergedExistingCopies']), 8)
+        by_id = {r['id']:r for r in DATA['pyqs']}
+        for row in audit['papers']:
+            paper = by_id[row['id']]
+            for key, value in row.items():
+                self.assertEqual(paper[key], value)
+        for semester, expected in {1:25, 2:37, 3:27, 4:20, 5:20, 6:14, 7:8, 8:11}.items():
+            self.assertEqual(sum(r['semester'] == semester for r in DATA['pyqs']), expected)
 
 if __name__ == '__main__':
     unittest.main()

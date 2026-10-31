@@ -4,17 +4,30 @@ A static study library for **Kapoor Medicos**, built with HTML, CSS, and vanilla
 
 ## What is included
 
-- All eight BPharma semesters and their subject lists. Semesters V and VI contain downloadable notes.
-- 55 original Imperfect Pharmacy unit PDFs, five Carewell Industrial Pharmacy unit PDFs, a Carewell two-mark revision PDF, and the BPharma syllabus: **62 note/syllabus PDFs**.
-- A PYQ tab for the 22 papers linked on FirstRanker’s PTU Semester II page: March and December 2020, including older-syllabus subjects. Search by subject or paper code and filter by semester and exam session. Click a subject button to filter without typing; the available subjects change with the selected session.
-- Semester V contains 20 current-syllabus PTUStudy papers across November 2019, December 2020, January 2021, December 2022, and November 2025. Older Semester V subjects are excluded. Five December 2020 copies and four papers previously labelled March 2020 by FirstRanker were merged after document-content comparison. Those four follow PTUStudy’s November 2019 session label and show a source-date note in the reader. Legacy resource IDs and PDF paths are retained so old links continue to work.
-- Semester VI includes all five units for each of its six subjects (30 PDFs). Semester VII’s four subjects and Semester VIII’s twelve subjects have unit pages, but Imperfect Pharmacy marks all their PDFs as **Available Soon**, checked 31 October 2026. Semester VII includes the lecture playlists actually linked by the source; Semester VIII has no source video links. No unavailable notes are presented as downloadable. The source audit is in `docs/data/imperfect-availability.json`.
-- Search subjects and unit topics; filter notes by provider.
-- Self-contained PDF.js reader with page-number navigation and zoom, direct opening, and downloads.
-- Imperfect Pharmacy subject lecture playlists next to the unit notes. Links retain the unit associations supplied by the source; many lead to a shared subject playlist. Carewell PDFs have no video links.
-- Responsive layouts and keyboard-accessible controls.
+- All eight BPharma semester subject lists, with notes for Semesters I–VI.
+- 145 original Imperfect Pharmacy unit PDFs, five Carewell Industrial Pharmacy unit PDFs, one Carewell revision PDF, and the syllabus: **152 note/syllabus PDFs**.
+- **162 unique PTU question papers**, covering every semester, with session menus and subject buttons that update together.
 
-Together with 42 unique PTU question papers, the library contains **104 PDFs**. The largest PDF is about 51 MB; use Git rather than GitHub’s browser file uploader.
+| Semester | Notes and revision PDFs | PYQs |
+| --- | ---: | ---: |
+| I | 20 | 25 |
+| II | 20 | 37 |
+| III | 25 | 27 |
+| IV | 25 | 20 |
+| V | 31 | 20 |
+| VI | 30 | 14 |
+| VII | 0 | 8 |
+| VIII | 0 | 11 |
+
+Imperfect Pharmacy marks Communication Skills, Remedial Biology, Remedial Mathematics, Computer Applications in Pharmacy, Environmental Sciences, and all Semester VII/VIII notes as **Available Soon**, checked 31 October 2026. Their unit pages show the source availability. Semester VII has source lecture links. Question papers are available separately even where notes are pending.
+
+The new PTUStudy papers match the library's current subject lists. Semester II also retains 14 papers from older subjects in the original FirstRanker collection. Eight current-subject Semester II copies were merged after comparing full extracted text and page counts; four have conflicting source session labels (FirstRanker's March 2020 and PTUStudy's November 2019), explained in their readers. Nine Semester V copies were similarly merged during its original import. Existing reader IDs and PDF paths are retained for bookmarked links.
+
+The library contains **314 PDFs** in total. Assets are checked by SHA-256 to avoid duplicate binaries. The published folder is about 846 MiB, below GitHub Pages' 1 GB limit; the largest PDF is about 51 MB, so use Git rather than GitHub's browser uploader.
+
+Features include subject/topic search, provider filters, a PDF.js reader with page navigation and zoom, a prominent button opening the original PDF in a new tab, downloads, and source-provided lecture links. No video links are guessed. Carewell PDFs have no video links. Layouts support mobile and desktop screens and keyboard navigation.
+
+Availability and provenance are recorded in `docs/data/imperfect-availability.json` and `docs/data/ptustudy-availability.json`. Only actual downloaded PDFs have reader links; pending notes are clearly labelled.
 
 ## Preview locally
 
