@@ -354,135 +354,969 @@
     },
     {
       "id": "medicinal-chemistry-3",
-      "name": "Medicinal Chemistry-3",
+      "name": "Medicinal Chemistry III",
       "semester": 6,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Antibiotics",
+          "topics": "Antibiotics Historical background, Nomenclature, Stereochemistry, Structure activity relationship, Chemical degradation classification and important products of the following classes. β-Lactam antibiotics: Penicillin, Cepholosporins, β-…",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+        },
+        {
+          "number": 2,
+          "title": "Antibiotics",
+          "topics": "Antibiotics Historical background, Nomenclature, Stereochemistry, Structure activity relationship, Chemical degradation classification and important products of the following classes. Macrolide: Erythromycin Clarithromycin,…",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+        },
+        {
+          "number": 3,
+          "title": "Anti-tubercular Agents",
+          "topics": "Anti-tubercular Agents Synthetic anti tubercular agents: Isoniozid*, Ethionamide, Ethambutol, Pyrazinamide, Para amino salicylic acid.* Anti tubercular antibiotics: Rifampicin, Rifabutin, Cycloserine Streptomycine, Capreomycin sulphate.…",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+        },
+        {
+          "number": 4,
+          "title": "Antifungal Agents",
+          "topics": "Antifungal Agents Antifungal antibiotics: Amphotericin-B, Nystatin, Natamycin, Griseofulvin. Synthetic Antifungal agents: Clotrimazole, Econazole, Butoconazole, Oxiconazole Tioconozole, Miconazole*, Ketoconazole, Terconazole,…",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+        },
+        {
+          "number": 5,
+          "title": "Introduction to Drug Design",
+          "topics": "Introduction to Drug Design Various approaches used in drug design. Physicochemical parameters used in quantitative structure activity relationship (QSAR) such as partition coefficient, Hammet’s electronic parameter, Tafts steric…",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=medicinal-chemistry-3&semester=semester-6&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "playlist": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6",
+      "description": "Antibiotics · Antibiotics",
+      "availability": "available"
     },
     {
       "id": "pharmacology-3",
-      "name": "Pharmacology-3",
+      "name": "Pharmacology III",
       "semester": 6,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Pharmacology of drugs acting on Respiratory system",
+          "topics": "Pharmacology of drugs acting on the Gastrointestinal Tract",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+        },
+        {
+          "number": 2,
+          "title": "Chemotherapy",
+          "topics": "Chemotherapy a) General principles of chemotherapy. b) Sulfonamides and cotrimoxazole. c) Antibiotics- Penicillins, cephalosporins, chloramphenicol macrolides, quinolones and fluoroquinolins, tetracycline and aminoglycosides.",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+        },
+        {
+          "number": 3,
+          "title": "Chemotherapy",
+          "topics": "Chemotherapy a) Antitubercular agents b) Antileprotic agents c) Antifungal agents d) Antiviral drugs e) Anthelmintics f) Antimalarial drugs g) Antiamoebic agents",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+        },
+        {
+          "number": 4,
+          "title": "Chemotherapy",
+          "topics": "Immunopharmacology",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+        },
+        {
+          "number": 5,
+          "title": "Principles of toxicology",
+          "topics": "Chronopharmacology",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacology-3&semester=semester-6&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "playlist": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp",
+      "description": "Pharmacology of drugs acting on Respiratory system · Chemotherapy",
+      "availability": "available"
     },
     {
       "id": "herbal-drug-technology",
       "name": "Herbal Drug Technology",
       "semester": 6,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Herbs as raw materials",
+          "topics": "Biodynamic Agriculture · Indian Systems of Medicine",
+          "availability": "available"
+        },
+        {
+          "number": 2,
+          "title": "Nutraceuticals",
+          "topics": "Herbal-Drug and Herb-Food Interactions",
+          "availability": "available"
+        },
+        {
+          "number": 3,
+          "title": "Herbal Cosmetics",
+          "topics": "Herbal Cosmetics Sources and description of raw materials of herbal origin used via, fixed oils, waxes, gums colours, perfumes, protective agents, bleaching agents, antioxidants in products such as skin care, hair care and oral hygiene…",
+          "availability": "available"
+        },
+        {
+          "number": 4,
+          "title": "Evaluation of Drugs",
+          "topics": "Patenting and Regulatory requirements of natural products: · Regulatory Issues-",
+          "availability": "available"
+        },
+        {
+          "number": 5,
+          "title": "General Introduction to Herbal Industry",
+          "topics": "General Introduction to Herbal Industry Herbal drugs industry: Present scope and future prospects. A brief account of plant-based industries and institutions involved in work on medicinal and aromatic plants in India. Schedule T– Good…",
+          "availability": "available"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=herbal-drug-technology&semester=semester-6&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Herbs as raw materials · Nutraceuticals",
+      "availability": "available"
     },
     {
       "id": "biopharmaceutics-and-pharmacokinetics",
       "name": "Biopharmaceutics and Pharmacokinetics",
       "semester": 6,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Introduction to Biopharmaceutics",
+          "topics": "Introduction to Biopharmaceutics Absorption: Mechanisms of drug absorption through GIT, factors influencing drug absorption though GIT, absorption of drug from Non per oral extra-vascular routes. Distribution: Tissue permeability of…",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+        },
+        {
+          "number": 2,
+          "title": "Elimination",
+          "topics": "Bioavailability and Bioequivalence:",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+        },
+        {
+          "number": 3,
+          "title": "Pharmacokinetics",
+          "topics": "Pharmacokinetics: Definition and introduction to Pharmacokinetics, Compartment models, Non compartment models, physiological models, One compartment open model. (a). Intravenous Injection (Bolus) (b). Intravenous infusion and (c) Extra…",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+        },
+        {
+          "number": 4,
+          "title": "Multicompartment models",
+          "topics": "Multicompartment models Two compartment open model. IV bolus Kinetics of multiple dosing, steady state drug levels, calculation of loading and mainetnance doses and their significance in clinical settins.",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+        },
+        {
+          "number": 5,
+          "title": "Nonlinear Pharmacokinetics",
+          "topics": "Nonlinear Pharmacokinetics: a. Introduction, b. Factors causing Non-linearity. c. Michaelis-menton method of estimating parameters, Explanation with example of drugs.",
+          "availability": "available",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=biopharmaceutics-and-pharmacokinetics&semester=semester-6&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "playlist": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS",
+      "description": "Introduction to Biopharmaceutics · Elimination",
+      "availability": "available"
     },
     {
       "id": "pharmaceutical-biotechnology",
       "name": "Pharmaceutical Biotechnology",
       "semester": 6,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Unit 1 notes",
+          "topics": "a) Brief introduction to Biotechnology with reference to Pharmaceutical Sciences. b) Enzyme Biotechnology- Methods of enzyme immobilization and applications. c) Biosensors- Working and applications of biosensors in Pharmaceutical…",
+          "availability": "available"
+        },
+        {
+          "number": 2,
+          "title": "Unit 2 notes",
+          "topics": "a) Study of cloning vectors, restriction endonucleases and DNA ligase. b) Recombinant DNA technology. Application of genetic engineering in medicine. c) Application of r DNA technology and genetic engineering in the production of: i)…",
+          "availability": "available"
+        },
+        {
+          "number": 3,
+          "title": "Unit 3 notes",
+          "topics": "Types of immunity- humoral immunity, cellular immunity a) Structure of Immunoglobulins b) Structure and Function of MHC c) Hypersensitivity reactions, Immune stimulation and Immune suppressions. d) General method of the preparation of…",
+          "availability": "available"
+        },
+        {
+          "number": 4,
+          "title": "Unit 4 notes",
+          "topics": "a) Immuno blotting techniques- ELISA, Western blotting, Southern blotting. b) Genetic organization of Eukaryotes and Prokaryotes c) Microbial genetics including transformation, transduction, conjugation, plasmids and transposons. d)…",
+          "availability": "available"
+        },
+        {
+          "number": 5,
+          "title": "Unit 5 notes",
+          "topics": "a) Fermentation methods and general requirements, study of media, equipments, sterilization methods, aeration process, stirring. b) Large scale production fermenter design and its various controls. c) Study of the production of-…",
+          "availability": "available"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmaceutical-biotechnology&semester=semester-6&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Unit notes and study resources from Imperfect Pharmacy.",
+      "availability": "available"
     },
     {
       "id": "pharmaceutical-quality-assurance",
       "name": "Pharmaceutical Quality Assurance",
       "semester": 6,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Quality Assurance and Quality Management concepts",
+          "topics": "Total Quality Management (TQM): · ICH Guidelines: · Quality by design (QbD):",
+          "availability": "available"
+        },
+        {
+          "number": 2,
+          "title": "Organization and personnel",
+          "topics": "Equipments and raw materials:",
+          "availability": "available"
+        },
+        {
+          "number": 3,
+          "title": "Quality Control",
+          "topics": "Good Laboratory Practices:",
+          "availability": "available"
+        },
+        {
+          "number": 4,
+          "title": "Complaints",
+          "topics": "Document maintenance in pharmaceutical industry:",
+          "availability": "available"
+        },
+        {
+          "number": 5,
+          "title": "Calibration and Validation",
+          "topics": "Warehousing:",
+          "availability": "available"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmaceutical-quality-assurance&semester=semester-6&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Quality Assurance and Quality Management concepts · Organization and personnel",
+      "availability": "available"
     },
     {
       "id": "instrumental-methods-of-analysis",
       "name": "Instrumental Methods of Analysis",
       "semester": 7,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "UV Visible spectroscopy",
+          "topics": "Fluorimetry",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+        },
+        {
+          "number": 2,
+          "title": "IR spectroscopy",
+          "topics": "IR spectroscopy Introduction, fundamental modes of vibrations in poly atomic molecules, sample handling, factors affecting vibrations Instrumentation- Sources of radiation, wavelength selectors, detectors- Golay cell, Bolometer,…",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+        },
+        {
+          "number": 3,
+          "title": "Introduction to chromatography",
+          "topics": "Introduction to chromatography Adsorption and partition column chromatography- Methodology, advantages, disadvantages and applications. Thin layer chromatography- Introduction, Principle, Methodology, Rf values, advantages,…",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+        },
+        {
+          "number": 4,
+          "title": "Gas chromatography",
+          "topics": "High performance liquid chromatography (HPLC)-",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+        },
+        {
+          "number": 5,
+          "title": "Ion exchange chromatography",
+          "topics": "Gel chromatography- · Affinity chromatography-",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=instrumental-methods-of-analysis&semester=semester-7&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "playlist": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06",
+      "description": "UV Visible spectroscopy · IR spectroscopy",
+      "availability": "available-soon"
     },
     {
       "id": "industrial-pharmacy-2",
-      "name": "Industrial Pharmacy-2",
+      "name": "Industrial Pharmacy II",
       "semester": 7,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Pilot plant scale up techniques",
+          "topics": "Pilot plant scale up techniques: General considerations- including significance of personnel requirements, space requirements, raw materials, Pilot plant scale up considerations for solids, liquid orals, semi solids and relevant…",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+        },
+        {
+          "number": 2,
+          "title": "Technology development and transfer",
+          "topics": "Technology development and transfer: WHO guidelines for Technology Transfer(TT): Terminology, Technology transfer protocol, Quality risk management, Transfer from R & D to production (Process, packaging and cleaning), Granularity of TT…",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+        },
+        {
+          "number": 3,
+          "title": "Regulatory affairs",
+          "topics": "Regulatory requirements for drug approval:",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+        },
+        {
+          "number": 4,
+          "title": "Quality management systems",
+          "topics": "Quality management systems: Quality management & Certifications: Concept of Quality, Total Quality Management, Quality by Design (QbD), Six Sigma concept, Out of Specifications (OOS), Change control, Introduction to ISO 9000 series of…",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+        },
+        {
+          "number": 5,
+          "title": "Indian Regulatory Requirements",
+          "topics": "Indian Regulatory Requirements: Central Drug Standard Control Organization (CDSCO) and State Licensing Authority: Organization, Responsibilities, Certificate of Pharmaceutical Product (COPP), Regulatory requirements and approval…",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=industrial-pharmacy-2&semester=semester-7&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "playlist": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw",
+      "description": "Pilot plant scale up techniques · Technology development and transfer",
+      "availability": "available-soon"
     },
     {
       "id": "pharmacy-practice",
       "name": "Pharmacy Practice",
       "semester": 7,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "a) Hospital and it’s organization",
+          "topics": "b) Hospital pharmacy and its organization · c) Adverse drug reaction Classifications · Community Pharmacy",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+        },
+        {
+          "number": 2,
+          "title": "a) Drug distribution system in a hospital",
+          "topics": "b) Hospital formulary · c) Therapeutic drug monitoring · d) Medication adherence",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+        },
+        {
+          "number": 3,
+          "title": "a) Pharmacy and therapeutic committee",
+          "topics": "b) Drug information services · c) Patient counselling · d) Education and training program in the hospital",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+        },
+        {
+          "number": 4,
+          "title": "a) Budget preparation & Implementation",
+          "topics": "b) Clinical Pharmacy Budget · c) Over the counter (OTC) sales",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+        },
+        {
+          "number": 5,
+          "title": "a) Drug store management and inventory control",
+          "topics": "b) Investigational use of Drugs · c) Interpretation of Clinical Laboratory Tests",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacy-practice&semester=semester-7&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "playlist": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE",
+      "description": "a) Hospital and it’s organization · a) Drug distribution system in a hospital",
+      "availability": "available-soon"
     },
     {
       "id": "novel-drug-delivery-system",
       "name": "Novel Drug Delivery System",
       "semester": 7,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Controlled drug delivery systems",
+          "topics": "Polymers:",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+        },
+        {
+          "number": 2,
+          "title": "Microencapsulation",
+          "topics": "Mucosal Drug Delivery system: · Implantable Drug Delivery Systems:",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+        },
+        {
+          "number": 3,
+          "title": "Transdermal Drug Delivery Systems",
+          "topics": "Gastroretentive drug delivery systems: · Nasopulmonary drug delivery system:",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+        },
+        {
+          "number": 4,
+          "title": "Targeted drug Delivery",
+          "topics": "Targeted drug Delivery: Concepts and approaches advantages and disadvantages, introduction to liposomes, niosomes, nanoparticles, monoclonal antibodies and their applications",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+        },
+        {
+          "number": 5,
+          "title": "Ocular Drug Delivery Systems",
+          "topics": "Intrauterine Drug Delivery Systems:",
+          "availability": "available-soon",
+          "video": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=novel-drug-delivery-system&semester=semester-7&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "playlist": "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_",
+      "description": "Controlled drug delivery systems · Microencapsulation",
+      "availability": "available-soon"
     },
     {
       "id": "biostatistics-and-research-methodology",
       "name": "Biostatistics and Research Methodology",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "topics": "Measures of central tendency: · Measures of dispersion: · Pharmaceutical problems Correlation:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Regression",
+          "topics": "Probability: · Parametric test:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Non Parametric tests",
+          "topics": "Introduction to Research: · Graphs: · Designing the methodology:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Regression modeling",
+          "topics": "Introduction to Practical components of Industrial and Clinical Trials Problems:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Design and Analysis of experiments",
+          "topics": "Design and Analysis of experiments: Factorial Design: Definition, 22, 23design. Advantage of factorial design Response Surface methodology: Central composite design, Historical design, Optimization Techniques",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=biostatistics-and-research-methodology&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Introduction · Regression",
+      "availability": "available-soon"
     },
     {
       "id": "social-and-preventive-pharmacy",
       "name": "Social and Preventive Pharmacy",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Unit 1 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Unit 2 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Unit 3 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Unit 4 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Unit 5 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=social-and-preventive-pharmacy&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Unit notes and study resources from Imperfect Pharmacy.",
+      "availability": "available-soon"
     },
     {
       "id": "pharma-marketing-management",
       "name": "Pharma Marketing Management",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Unit 1 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Unit 2 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Unit 3 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Unit 4 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Unit 5 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=pharma-marketing-management&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Unit notes and study resources from Imperfect Pharmacy.",
+      "availability": "available-soon"
     },
     {
       "id": "pharmaceutical-regulatory-science",
       "name": "Pharmaceutical Regulatory Science",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Unit 1 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Unit 2 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Unit 3 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Unit 4 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Unit 5 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmaceutical-regulatory-science&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Unit notes and study resources from Imperfect Pharmacy.",
+      "availability": "available-soon"
     },
     {
       "id": "pharmacovigilance",
       "name": "Pharmacovigilance",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Unit 1 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Unit 2 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Unit 3 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Unit 4 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Unit 5 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacovigilance&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Unit notes and study resources from Imperfect Pharmacy.",
+      "availability": "available-soon"
     },
     {
       "id": "quality-control-and-standardization-of-herbals",
       "name": "Quality Control and Standardization of Herbals",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Unit 1 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Unit 2 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Unit 3 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Unit 4 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Unit 5 topics",
+          "topics": "Lorem ipsum dolor sit amet.",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=quality-control-and-standardization-of-herbals&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Unit notes and study resources from Imperfect Pharmacy.",
+      "availability": "available-soon"
     },
     {
       "id": "computer-aided-drug-design",
       "name": "Computer Aided Drug Design",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Introduction to Drug Discovery and Development",
+          "topics": "Lead discovery and Analog Based Drug Design · Analog Based Drug Design:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Quantitative Structure Activity Relationship (QSAR)",
+          "topics": "Quantitative Structure Activity Relationship (QSAR) SAR versus QSAR, History and development of QSAR, Types of physicochemical parameters, experimental and theoretical approaches for the determination of physicochemical parameters such…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Molecular Modeling and virtual screening techniques",
+          "topics": "Molecular Modeling and virtual screening techniques Virtual Screening techniques: Drug likeness screening, Concept of pharmacophore mapping and pharmacophore-based Screening. Molecular docking: Rigid docking, flexible docking, manual…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Informatics & Methods in drug design",
+          "topics": "Informatics & Methods in drug design Introduction to Bioinformatics, chemoinformatics. ADME databases, chemical, biochemical and pharmaceutical databases.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Molecular Modeling",
+          "topics": "Molecular Modeling: Introduction to molecular mechanics and quantum mechanics. Energy Minimization methods and Conformational Analysis, global conformational minima determination.",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=computer-aided-drug-design&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Introduction to Drug Discovery and Development · Quantitative Structure Activity Relationship (QSAR)",
+      "availability": "available-soon"
     },
     {
       "id": "cell-and-molecular-biology",
       "name": "Cell and Molecular Biology",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Unit 1 topics",
+          "topics": "a) Cell and Molecular Biology: Definitions theory and basics and Applications. b) Cell and Molecular Biology: History and Summation. c) Properties of cells and cell membrane. d) Prokaryotic versus Eukaryotic e) Cellular Reproduction f)…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Unit 2 topics",
+          "topics": "a) DNA and the Flow of Molecular Information b) DNA Functioning c) DNA and RNA d) Types of RNA e) Transcription and Translation",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Unit 3 topics",
+          "topics": "a) Proteins: Defined and Amino Acids b) Protein Structure c) Regularities in Protein Pathways d) Cellular Processes e) Positive Control and significance of Protein Synthesis",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Unit 4 topics",
+          "topics": "a) Science of Genetics b) Transgenics and Genomic Analysis c) Cell Cycle analysis d) Mitosis and Meiosis e) Cellular Activities and Checkpoints",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Unit 5 topics",
+          "topics": "a) Cell Signals: Introduction b) Receptors for Cell Signals c) Signaling Pathways: Overview d) Misregulation of Signaling Pathways e) Protein-Kinases: Functioning",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=cell-and-molecular-biology&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Unit notes and study resources from Imperfect Pharmacy.",
+      "availability": "available-soon"
     },
     {
       "id": "cosmetic-science",
       "name": "Cosmetic Science",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Cosmetic excipients",
+          "topics": "Skin: · Hair: · Oral Cavity:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Principles of formulation and building blocks of skin care products",
+          "topics": "Antiperspants & deodorants- · Principles of formulation and building blocks of Hair care products:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Role of herbs in cosmetics",
+          "topics": "Skin Care: · Hair care: · Oral care:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Unit 4 topics",
+          "topics": "Principles of Cosmetic Evaluation: Principles of sebumeter, corneometer. Measurement of TEWL, Skin Color, Hair tensile strength, Hair combing properties Soaps, and syndet bars. Evolution and skin benefits.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Unit 5 topics",
+          "topics": "Oily and dry skin, causes leading to dry skin, skin moisturisation. Basic understanding of the terms Comedogenic, dermatitis. Cosmetic problems associated with Hair and scalp: Dandruff, Hair fall causes Cosmetic problems associated with…",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=cosmetic-science&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Cosmetic excipients · Principles of formulation and building blocks of skin care products",
+      "availability": "available-soon"
     },
     {
       "id": "pharmacological-screening-methods",
       "name": "Pharmacological Screening Methods",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Laboratory Animals",
+          "topics": "Laboratory Animals: Study of CPCSEA and OECD guidelines for maintenance, breeding and conduct of experiments on laboratory animals, Common lab animals: Description and applications of different species and strains of animals. Popular…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Preclinical screening models",
+          "topics": "Preclinical screening models a. Introduction: Dose selection, calculation and conversions, preparation of drug solution/suspensions, grouping of animals and importance of sham negative and positive control groups. Rationale for…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Preclinical screening models",
+          "topics": "Preclinical screening models: for ANS activity, sympathomimetics, sympatholytics, parasympathomimetics, parasympatholytics, skeletal muscle relaxants, drugs acting on eye, local anaethetics.",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Preclinical screening models",
+          "topics": "Preclinical screening models: for CVS activity- antihypertensives, diuretics, antiarrhythmic, antidyslepidemic, anti aggregatory, coagulants, and anticoagulants Preclinical screening models for other important drugs like antiulcer,…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Research methodology and Bio-statistics",
+          "topics": "Research methodology and Bio-statistics Selection of research topic, review of literature, research hypothesis and study design Pre-clinical data analysis and interpretation using Students ‘t’ test and One-way ANOVA. Graphical…",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacological-screening-methods&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Laboratory Animals · Preclinical screening models",
+      "availability": "available-soon"
     },
     {
       "id": "advanced-instrumentation-techniques",
       "name": "Advanced Instrumentation Techniques",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Nuclear Magnetic Resonance spectroscopy",
+          "topics": "Mass Spectrometry",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Thermal Methods of Analysis",
+          "topics": "X-Ray Diffraction Methods:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Calibration and validation",
+          "topics": "Calibration of following Instruments",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Radio immune assay",
+          "topics": "Extraction techniques:",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Hyphenated techniques",
+          "topics": "Hyphenated techniques- LC-MS/MS, GC-MS/MS, HPTLC-MS.",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=advanced-instrumentation-techniques&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Nuclear Magnetic Resonance spectroscopy · Thermal Methods of Analysis",
+      "availability": "available-soon"
     },
     {
       "id": "dietary-supplements-and-nutraceuticals",
       "name": "Dietary Supplements and Nutraceuticals",
       "semester": 8,
-      "units": []
+      "units": [
+        {
+          "number": 1,
+          "title": "Unit 1 topics",
+          "topics": "a. Definitions of Functional foods, Nutraceuticals and Dietary supplements. Classification of Nutraceuticals, Health problems and diseases that can be prevented or cured by Nutraceuticals i.e. weight control, diabetes, cancer, heart…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 2,
+          "title": "Unit 2 topics",
+          "topics": "Phytochemicals as nutraceuticals: Occurrence and characteristic features (chemical nature medicinal benefits) of following a) Carotenoids- α and β-Carotene, Lycopene, Xanthophylls, leutin b) Sulfides: Diallyl sulfides, Allyl trisulfide.…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 3,
+          "title": "Unit 3 topics",
+          "topics": "a) Introduction to free radicals: Free radicals, reactive oxygen species, production of free radicals in cells, damaging reactions of free radicals on lipids, proteins, Carbohydrates, nucleic acids. b) Dietary fibres and complex…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 4,
+          "title": "Unit 4 topics",
+          "topics": "a) Free radicals in Diabetes mellitus, Inflammation, Ischemic reperfusion injury, Cancer, Atherosclerosis, Free radicals in brain metabolism and pathology, kidney damage, muscle damage. Free radicals involvement in other disorders. Free…",
+          "availability": "available-soon"
+        },
+        {
+          "number": 5,
+          "title": "Unit 5 topics",
+          "topics": "a) Effect of processing, storage and interactions of various environmental factors on the potential of nutraceuticals. b) Regulatory Aspects; FSSAI, FDA, FPO, MPO, AGMARK. HACCP and GMPs on Food Safety. Adulteration of foods. c)…",
+          "availability": "available-soon"
+        }
+      ],
+      "source": "https://imperfectpharmacy.in/units/?subject=dietary-supplements-and-nutraceuticals&semester=semester-8&type=Notes&course=BPharma",
+      "sourceCheckedAt": "2026-10-31",
+      "sourceProvider": "imperfect",
+      "description": "Unit notes and study resources from Imperfect Pharmacy.",
+      "availability": "available-soon"
     }
   ],
   "resources": [
@@ -897,6 +1731,426 @@
       "bytes": 2865103,
       "sha256": "14a7516d50ff2daab92966aab1462a00b81572c645147d4167a0c1ca2798eae9",
       "pages": 32
+    },
+    {
+      "id": "s6-biopharmaceutics-and-pharmacokinetics-imperfect-unit-1",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "biopharmaceutics-and-pharmacokinetics",
+      "provider": "imperfect",
+      "unit": 1,
+      "title": "Unit 1",
+      "path": "pdfs/semester-6/biopharmaceutics-and-pharmacokinetics/imperfect/unit-1.pdf",
+      "bytes": 2984791,
+      "sha256": "33c3cd81ef3b5b7981a331428a5df7f2ed687c2915ebc2b3d93080309b7dd92d",
+      "pages": 31,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-1-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-biopharmaceutics-and-pharmacokinetics-imperfect-unit-2",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "biopharmaceutics-and-pharmacokinetics",
+      "provider": "imperfect",
+      "unit": 2,
+      "title": "Unit 2",
+      "path": "pdfs/semester-6/biopharmaceutics-and-pharmacokinetics/imperfect/unit-2.pdf",
+      "bytes": 3751233,
+      "sha256": "e013f18c578bf4c7bdd98d2a8e60b33159c7412da634a802ffd6d24983b506fe",
+      "pages": 47,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/02/UNIT-2-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-biopharmaceutics-and-pharmacokinetics-imperfect-unit-3",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "biopharmaceutics-and-pharmacokinetics",
+      "provider": "imperfect",
+      "unit": 3,
+      "title": "Unit 3",
+      "path": "pdfs/semester-6/biopharmaceutics-and-pharmacokinetics/imperfect/unit-3.pdf",
+      "bytes": 1546938,
+      "sha256": "6ab1ce6affe0235c6dfbe15cf2cfe4739b62c1a0bcc04f6af8f0885b17151561",
+      "pages": 18,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-3-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-biopharmaceutics-and-pharmacokinetics-imperfect-unit-4",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "biopharmaceutics-and-pharmacokinetics",
+      "provider": "imperfect",
+      "unit": 4,
+      "title": "Unit 4",
+      "path": "pdfs/semester-6/biopharmaceutics-and-pharmacokinetics/imperfect/unit-4.pdf",
+      "bytes": 945937,
+      "sha256": "4b4b17594226836e594b681101ea8b4b77bb51e2001a8559eace770a327fa4dd",
+      "pages": 12,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-4-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-biopharmaceutics-and-pharmacokinetics-imperfect-unit-5",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "biopharmaceutics-and-pharmacokinetics",
+      "provider": "imperfect",
+      "unit": 5,
+      "title": "Unit 5",
+      "path": "pdfs/semester-6/biopharmaceutics-and-pharmacokinetics/imperfect/unit-5.pdf",
+      "bytes": 850641,
+      "sha256": "f0501162519bfaa7f0c8d5b2e416d06955a1dc8457fbd08dc3054fdbfdf815b5",
+      "pages": 11,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-5-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-herbal-drug-technology-imperfect-unit-1",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "herbal-drug-technology",
+      "provider": "imperfect",
+      "unit": 1,
+      "title": "Unit 1",
+      "path": "pdfs/semester-6/herbal-drug-technology/imperfect/unit-1.pdf",
+      "bytes": 3602099,
+      "sha256": "5f0d962fbd91daff6f51f5ee0caa8d8c11e730d5dc3fef1b897937828c236b89",
+      "pages": 36,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-1-HDT-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-herbal-drug-technology-imperfect-unit-2",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "herbal-drug-technology",
+      "provider": "imperfect",
+      "unit": 2,
+      "title": "Unit 2",
+      "path": "pdfs/semester-6/herbal-drug-technology/imperfect/unit-2.pdf",
+      "bytes": 3961693,
+      "sha256": "e51a89cca3e8d6a931a079507bb12b8746eee458e3b944a2f24f5d1bf0c19095",
+      "pages": 50,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-2-HDT-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-herbal-drug-technology-imperfect-unit-3",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "herbal-drug-technology",
+      "provider": "imperfect",
+      "unit": 3,
+      "title": "Unit 3",
+      "path": "pdfs/semester-6/herbal-drug-technology/imperfect/unit-3.pdf",
+      "bytes": 3026624,
+      "sha256": "cf709b93795470efb9e113ff8e54f8126bcfe415533ce07669e321524b81745a",
+      "pages": 31,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-3-HDT-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-herbal-drug-technology-imperfect-unit-4",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "herbal-drug-technology",
+      "provider": "imperfect",
+      "unit": 4,
+      "title": "Unit 4",
+      "path": "pdfs/semester-6/herbal-drug-technology/imperfect/unit-4.pdf",
+      "bytes": 3435228,
+      "sha256": "b5903ddb9885fec40a58de10da17b7a175f98f197c29168901429308ade76161",
+      "pages": 35,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-4-HDT-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-herbal-drug-technology-imperfect-unit-5",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "herbal-drug-technology",
+      "provider": "imperfect",
+      "unit": 5,
+      "title": "Unit 5",
+      "path": "pdfs/semester-6/herbal-drug-technology/imperfect/unit-5.pdf",
+      "bytes": 2533712,
+      "sha256": "9044c4cb18034bbd20d7419e9319d7d931bee731261b158cc6149a4051071e0c",
+      "pages": 17,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-5-HDT-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-medicinal-chemistry-3-imperfect-unit-1",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "medicinal-chemistry-3",
+      "provider": "imperfect",
+      "unit": 1,
+      "title": "Unit 1",
+      "path": "pdfs/semester-6/medicinal-chemistry-3/imperfect/unit-1.pdf",
+      "bytes": 2526793,
+      "sha256": "96cac8983e4f723fc895694a1e55bd47cf6418e939cbff273f674ac58bfa6ae7",
+      "pages": 42,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-1-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-medicinal-chemistry-3-imperfect-unit-2",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "medicinal-chemistry-3",
+      "provider": "imperfect",
+      "unit": 2,
+      "title": "Unit 2",
+      "path": "pdfs/semester-6/medicinal-chemistry-3/imperfect/unit-2.pdf",
+      "bytes": 2404270,
+      "sha256": "ec35063b05b426a22ffa8b710f9b62764b3c5c26185ffdd553c71b87c6f64fc6",
+      "pages": 43,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-2-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-medicinal-chemistry-3-imperfect-unit-3",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "medicinal-chemistry-3",
+      "provider": "imperfect",
+      "unit": 3,
+      "title": "Unit 3",
+      "path": "pdfs/semester-6/medicinal-chemistry-3/imperfect/unit-3.pdf",
+      "bytes": 2834279,
+      "sha256": "b2dcd7c18bb79cc892c0ab1a4f8c774ee83028efe4f6a4fd0c7c5d612b71f160",
+      "pages": 48,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-3-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-medicinal-chemistry-3-imperfect-unit-4",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "medicinal-chemistry-3",
+      "provider": "imperfect",
+      "unit": 4,
+      "title": "Unit 4",
+      "path": "pdfs/semester-6/medicinal-chemistry-3/imperfect/unit-4.pdf",
+      "bytes": 2596143,
+      "sha256": "0e67b678c82d22cb66b4f5391cebd1c10bd5c2832f8d3552a4909a6d764743a9",
+      "pages": 45,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-4-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-medicinal-chemistry-3-imperfect-unit-5",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "medicinal-chemistry-3",
+      "provider": "imperfect",
+      "unit": 5,
+      "title": "Unit 5",
+      "path": "pdfs/semester-6/medicinal-chemistry-3/imperfect/unit-5.pdf",
+      "bytes": 2407618,
+      "sha256": "94ad01893a358f5c0844dfa7ca82834caa97e23e586e9bd5e2c25d4039c639bc",
+      "pages": 31,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-5-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-biotechnology-imperfect-unit-1",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-biotechnology",
+      "provider": "imperfect",
+      "unit": 1,
+      "title": "Unit 1",
+      "path": "pdfs/semester-6/pharmaceutical-biotechnology/imperfect/unit-1.pdf",
+      "bytes": 2853586,
+      "sha256": "2addb5e2464de3ede2a52093d02419e1299c7c5edb60588e663b9e58468e1862",
+      "pages": 38,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-1-Biotechnology-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-biotechnology-imperfect-unit-2",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-biotechnology",
+      "provider": "imperfect",
+      "unit": 2,
+      "title": "Unit 2",
+      "path": "pdfs/semester-6/pharmaceutical-biotechnology/imperfect/unit-2.pdf",
+      "bytes": 2602731,
+      "sha256": "f280d8dffd8d1669919b1b509e5e17663b908d5233167e0f716046c41c6394f8",
+      "pages": 36,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/04/UNIT-2-Pharmaceutical-Biotechnology-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-biotechnology-imperfect-unit-3",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-biotechnology",
+      "provider": "imperfect",
+      "unit": 3,
+      "title": "Unit 3",
+      "path": "pdfs/semester-6/pharmaceutical-biotechnology/imperfect/unit-3.pdf",
+      "bytes": 4531651,
+      "sha256": "38c1284ba72aafebb3262180c943f012c2107ff9ccf1fcae1f59534008ea2d29",
+      "pages": 69,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/04/UNIT-3-Pharmaceutical-Biotechnology-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-biotechnology-imperfect-unit-4",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-biotechnology",
+      "provider": "imperfect",
+      "unit": 4,
+      "title": "Unit 4",
+      "path": "pdfs/semester-6/pharmaceutical-biotechnology/imperfect/unit-4.pdf",
+      "bytes": 4497361,
+      "sha256": "fac8de5c1d572a1cdd542df6fb11b3c3e3c061fc87f45aa95e9d55fa95f1dfd1",
+      "pages": 63,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/05/UNIT-4-Pharmaceutical-Biotechnology-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-biotechnology-imperfect-unit-5",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-biotechnology",
+      "provider": "imperfect",
+      "unit": 5,
+      "title": "Unit 5",
+      "path": "pdfs/semester-6/pharmaceutical-biotechnology/imperfect/unit-5.pdf",
+      "bytes": 8411174,
+      "sha256": "e813c03c8538aa6a32a9ede286fb378bb06a2436ac3c5953020c60371eec3563",
+      "pages": 18,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/05/UNIT-5-Pharmaceutical-Biotechnology-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-quality-assurance-imperfect-unit-1",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-quality-assurance",
+      "provider": "imperfect",
+      "unit": 1,
+      "title": "Unit 1",
+      "path": "pdfs/semester-6/pharmaceutical-quality-assurance/imperfect/unit-1.pdf",
+      "bytes": 21141752,
+      "sha256": "f72fa3b1406b52920025908ecaf7ed836a0291b3178e44fcd0994c9a8ccf8552",
+      "pages": 49,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-1-PQA-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-quality-assurance-imperfect-unit-2",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-quality-assurance",
+      "provider": "imperfect",
+      "unit": 2,
+      "title": "Unit 2",
+      "path": "pdfs/semester-6/pharmaceutical-quality-assurance/imperfect/unit-2.pdf",
+      "bytes": 14059438,
+      "sha256": "74f51460e2fb785cd7ec445a91aa9cd5452038e39404cf385b4a4adefca12c03",
+      "pages": 27,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-2-PQA-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-quality-assurance-imperfect-unit-3",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-quality-assurance",
+      "provider": "imperfect",
+      "unit": 3,
+      "title": "Unit 3",
+      "path": "pdfs/semester-6/pharmaceutical-quality-assurance/imperfect/unit-3.pdf",
+      "bytes": 18471315,
+      "sha256": "9db86d9e3e2967664a83d8f817738bb5aaff9959cea84b3e169caa4366eecb84",
+      "pages": 36,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-3-PQA-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-quality-assurance-imperfect-unit-4",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-quality-assurance",
+      "provider": "imperfect",
+      "unit": 4,
+      "title": "Unit 4",
+      "path": "pdfs/semester-6/pharmaceutical-quality-assurance/imperfect/unit-4.pdf",
+      "bytes": 17382568,
+      "sha256": "02194c735e853127777f0dacfc733c2cd5e8c2a218929bf3b63732485695da8b",
+      "pages": 37,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-4-PQA-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmaceutical-quality-assurance-imperfect-unit-5",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmaceutical-quality-assurance",
+      "provider": "imperfect",
+      "unit": 5,
+      "title": "Unit 5",
+      "path": "pdfs/semester-6/pharmaceutical-quality-assurance/imperfect/unit-5.pdf",
+      "bytes": 12869259,
+      "sha256": "ffe9c1c5dff7127d4fcfc7ffbd21dc7df8c2eb3a1a271706009647574df6c882",
+      "pages": 26,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/06/UNIT-5-PQA-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmacology-3-imperfect-unit-1",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmacology-3",
+      "provider": "imperfect",
+      "unit": 1,
+      "title": "Unit 1",
+      "path": "pdfs/semester-6/pharmacology-3/imperfect/unit-1.pdf",
+      "bytes": 7924854,
+      "sha256": "f0a10a488769d734bff712806d53940b786ba70be3b0eb207d5beb1c9739da9f",
+      "pages": 110,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-1-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmacology-3-imperfect-unit-2",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmacology-3",
+      "provider": "imperfect",
+      "unit": 2,
+      "title": "Unit 2",
+      "path": "pdfs/semester-6/pharmacology-3/imperfect/unit-2.pdf",
+      "bytes": 2309779,
+      "sha256": "b30bebb5df983d1981377c87007f280e85ea9a872a911e250feb69d106e250e2",
+      "pages": 29,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-2-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmacology-3-imperfect-unit-3",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmacology-3",
+      "provider": "imperfect",
+      "unit": 3,
+      "title": "Unit 3",
+      "path": "pdfs/semester-6/pharmacology-3/imperfect/unit-3.pdf",
+      "bytes": 2006715,
+      "sha256": "eb947d5853c0e86e746e64f618d23fc96ee275059eec7a781e1d5dd2484e995d",
+      "pages": 27,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-3-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmacology-3-imperfect-unit-4",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmacology-3",
+      "provider": "imperfect",
+      "unit": 4,
+      "title": "Unit 4",
+      "path": "pdfs/semester-6/pharmacology-3/imperfect/unit-4.pdf",
+      "bytes": 2121560,
+      "sha256": "c442f0ed91eb27473587fc212c5e1fde4df60832abe149dff12d6cbdad78e2eb",
+      "pages": 25,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-4-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
+    },
+    {
+      "id": "s6-pharmacology-3-imperfect-unit-5",
+      "kind": "unit",
+      "semester": 6,
+      "subject": "pharmacology-3",
+      "provider": "imperfect",
+      "unit": 5,
+      "title": "Unit 5",
+      "path": "pdfs/semester-6/pharmacology-3/imperfect/unit-5.pdf",
+      "bytes": 2786313,
+      "sha256": "cd72fee4297cb9b1ef3ec21e38b1fddf9a26ce07a72dd37cdb06abc4d3202c2e",
+      "pages": 37,
+      "downloadSource": "https://dl.imperfectpharmacy.in/2026/03/UNIT-5-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
     }
   ],
   "pyqs": [

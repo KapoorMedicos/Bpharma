@@ -1,0 +1,950 @@
+{
+  "checkedAt": "2026-10-31",
+  "provider": "imperfect",
+  "subjects": [
+    {
+      "subject": "biopharmaceutics-and-pharmacokinetics",
+      "semester": 6,
+      "source": "https://imperfectpharmacy.in/units/?subject=biopharmaceutics-and-pharmacokinetics&semester=semester-6&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-1-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+          ]
+        },
+        {
+          "number": 2,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/02/UNIT-2-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+          ]
+        },
+        {
+          "number": 3,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-3-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+          ]
+        },
+        {
+          "number": 4,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-4-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+          ]
+        },
+        {
+          "number": 5,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-5-Biopharmaceutics-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XYybdemayk3kThPpAwY6BS"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "herbal-drug-technology",
+      "semester": 6,
+      "source": "https://imperfectpharmacy.in/units/?subject=herbal-drug-technology&semester=semester-6&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-1-HDT-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-2-HDT-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-3-HDT-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-4-HDT-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-5-HDT-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "medicinal-chemistry-3",
+      "semester": 6,
+      "source": "https://imperfectpharmacy.in/units/?subject=medicinal-chemistry-3&semester=semester-6&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-1-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+          ]
+        },
+        {
+          "number": 2,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-2-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+          ]
+        },
+        {
+          "number": 3,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-3-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+          ]
+        },
+        {
+          "number": 4,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-4-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+          ]
+        },
+        {
+          "number": 5,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-5-Medicinal-Chemistry-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WeKlYXu0QyqrOFCYEm1d-6"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "pharmaceutical-biotechnology",
+      "semester": 6,
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmaceutical-biotechnology&semester=semester-6&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-1-Biotechnology-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/04/UNIT-2-Pharmaceutical-Biotechnology-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/04/UNIT-3-Pharmaceutical-Biotechnology-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/05/UNIT-4-Pharmaceutical-Biotechnology-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/05/UNIT-5-Pharmaceutical-Biotechnology-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "pharmaceutical-quality-assurance",
+      "semester": 6,
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmaceutical-quality-assurance&semester=semester-6&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-1-PQA-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-2-PQA-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-3-PQA-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-4-PQA-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/06/UNIT-5-PQA-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "pharmacology-3",
+      "semester": 6,
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacology-3&semester=semester-6&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-1-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+          ]
+        },
+        {
+          "number": 2,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-2-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+          ]
+        },
+        {
+          "number": 3,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-3-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+          ]
+        },
+        {
+          "number": 4,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-4-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+          ]
+        },
+        {
+          "number": 5,
+          "availability": "available",
+          "downloads": [
+            "https://dl.imperfectpharmacy.in/2026/03/UNIT-5-Pharmacology-III-IMPERFECT-PHARMACY.pdf"
+          ],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9X-f7Qd6Ugohs_47tsvNrAp"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "industrial-pharmacy-2",
+      "semester": 7,
+      "source": "https://imperfectpharmacy.in/units/?subject=industrial-pharmacy-2&semester=semester-7&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+          ]
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+          ]
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+          ]
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+          ]
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9XMjx1lpA8D_95xo2_21_Vw"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "instrumental-methods-of-analysis",
+      "semester": 7,
+      "source": "https://imperfectpharmacy.in/units/?subject=instrumental-methods-of-analysis&semester=semester-7&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+          ]
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+          ]
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+          ]
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+          ]
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9VVLA3xhlYQKYFCxOB6cb06"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "novel-drug-delivery-system",
+      "semester": 7,
+      "source": "https://imperfectpharmacy.in/units/?subject=novel-drug-delivery-system&semester=semester-7&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+          ]
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+          ]
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+          ]
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+          ]
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9WbVLp4v11p0PpEiKb375P_"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "pharmacy-practice",
+      "semester": 7,
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacy-practice&semester=semester-7&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+          ]
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+          ]
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+          ]
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+          ]
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": [
+            "https://www.youtube.com/playlist?list=PL2TVm4R2jf9V-m1zzsB4qPdzIXoVPubnE"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "advanced-instrumentation-techniques",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=advanced-instrumentation-techniques&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "biostatistics-and-research-methodology",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=biostatistics-and-research-methodology&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "cell-and-molecular-biology",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=cell-and-molecular-biology&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "computer-aided-drug-design",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=computer-aided-drug-design&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "cosmetic-science",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=cosmetic-science&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "dietary-supplements-and-nutraceuticals",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=dietary-supplements-and-nutraceuticals&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "pharma-marketing-management",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=pharma-marketing-management&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "pharmaceutical-regulatory-science",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmaceutical-regulatory-science&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "pharmacological-screening-methods",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacological-screening-methods&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "pharmacovigilance",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=pharmacovigilance&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "quality-control-and-standardization-of-herbals",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=quality-control-and-standardization-of-herbals&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "subject": "social-and-preventive-pharmacy",
+      "semester": 8,
+      "source": "https://imperfectpharmacy.in/units/?subject=social-and-preventive-pharmacy&semester=semester-8&type=Notes&course=BPharma",
+      "units": [
+        {
+          "number": 1,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 2,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 3,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 4,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        },
+        {
+          "number": 5,
+          "availability": "available-soon",
+          "downloads": [],
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

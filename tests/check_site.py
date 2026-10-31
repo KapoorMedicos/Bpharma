@@ -77,5 +77,29 @@ class LibraryTests(unittest.TestCase):
                 self.assertEqual(urlparse(s['playlist']).netloc, 'www.youtube.com')
                 self.assertTrue(urlparse(s['playlist']).query.startswith('list='))
 
+    def test_imperfect_semester_availability(self):
+        audit = json.loads((ROOT / 'data/imperfect-availability.json').read_text())
+        self.assertEqual(len(audit['subjects']), 22)
+        for source in audit['subjects']:
+            subject = next(s for s in DATA['subjects'] if s['id'] == source['subject'])
+            self.assertEqual(subject['source'], source['source'])
+            self.assertEqual(subject['sourceCheckedAt'], audit['checkedAt'])
+            self.assertEqual([u['number'] for u in subject['units']], [1, 2, 3, 4, 5])
+            for unit in source['units']:
+                listed = next(u for u in subject['units'] if u['number'] == unit['number'])
+                notes = [r for r in DATA['resources'] if r.get('subject') == subject['id']
+                         and r.get('unit') == unit['number'] and r.get('provider') == 'imperfect']
+                self.assertEqual(listed['availability'], unit['availability'])
+                self.assertEqual(len(notes), len(unit['downloads']))
+                for note in notes:
+                    self.assertIn(note['downloadSource'], unit['downloads'])
+                    self.assertEqual(urlparse(note['downloadSource']).netloc, 'dl.imperfectpharmacy.in')
+                self.assertEqual([listed['video']] if listed.get('video') else [], unit['videos'])
+                for video in unit['videos']:
+                    self.assertEqual(urlparse(video).netloc, 'www.youtube.com')
+        semester_six = [r for r in DATA['resources'] if r['semester'] == 6]
+        self.assertEqual(len(semester_six), 30)
+        self.assertEqual(len({r['subject'] for r in semester_six}), 6)
+
 if __name__ == '__main__':
     unittest.main()

@@ -4,16 +4,17 @@ A static study library for **Kapoor Medicos**, built with HTML, CSS, and vanilla
 
 ## What is included
 
-- All eight BPharma semesters and their subject lists. Semester V currently contains the notes.
-- 25 original Imperfect Pharmacy unit PDFs, five Carewell Industrial Pharmacy unit PDFs, a Carewell two-mark revision PDF, and the BPharma syllabus: **32 note/syllabus PDFs**.
+- All eight BPharma semesters and their subject lists. Semesters V and VI contain downloadable notes.
+- 55 original Imperfect Pharmacy unit PDFs, five Carewell Industrial Pharmacy unit PDFs, a Carewell two-mark revision PDF, and the BPharma syllabus: **62 note/syllabus PDFs**.
 - A PYQ tab for the 22 papers linked on FirstRanker’s PTU Semester II page: March and December 2020, including older-syllabus subjects. Search by subject or paper code and filter by semester and exam session. Click a subject button to filter without typing; the available subjects change with the selected session.
 - Semester V contains 20 current-syllabus PTUStudy papers across November 2019, December 2020, January 2021, December 2022, and November 2025. Older Semester V subjects are excluded. Five December 2020 copies and four papers previously labelled March 2020 by FirstRanker were merged after document-content comparison. Those four follow PTUStudy’s November 2019 session label and show a source-date note in the reader. Legacy resource IDs and PDF paths are retained so old links continue to work.
+- Semester VI includes all five units for each of its six subjects (30 PDFs). Semester VII’s four subjects and Semester VIII’s twelve subjects have unit pages, but Imperfect Pharmacy marks all their PDFs as **Available Soon**, checked 31 October 2026. Semester VII includes the lecture playlists actually linked by the source; Semester VIII has no source video links. No unavailable notes are presented as downloadable. The source audit is in `docs/data/imperfect-availability.json`.
 - Search subjects and unit topics; filter notes by provider.
 - Self-contained PDF.js reader with page-number navigation and zoom, direct opening, and downloads.
-- Imperfect Pharmacy subject lecture playlists next to the unit notes. These are subject playlists, not guessed unit-specific video links. Carewell PDFs have no video links.
+- Imperfect Pharmacy subject lecture playlists next to the unit notes. Links retain the unit associations supplied by the source; many lead to a shared subject playlist. Carewell PDFs have no video links.
 - Responsive layouts and keyboard-accessible controls.
 
-Together with 42 unique PTU question papers, the library contains **74 PDFs**. The largest PDF is about 51 MB; use Git rather than GitHub’s browser file uploader.
+Together with 42 unique PTU question papers, the library contains **104 PDFs**. The largest PDF is about 51 MB; use Git rather than GitHub’s browser file uploader.
 
 ## Preview locally
 
