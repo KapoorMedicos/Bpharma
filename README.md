@@ -6,28 +6,32 @@ A static study library for **Kapoor Medicos**, built with HTML, CSS, and vanilla
 
 - All eight BPharma semester subject lists, with notes for Semesters I–VI.
 - 145 original Imperfect Pharmacy unit PDFs, five Carewell Industrial Pharmacy unit PDFs, one Carewell revision PDF, and the syllabus: **152 note/syllabus PDFs**.
-- **162 unique PTU question papers**, covering every semester, with session menus and subject buttons that update together.
+- **362 unique PTU question papers**, covering every semester, with session menus and subject buttons that update together.
 
 | Semester | Notes and revision PDFs | PYQs |
 | --- | ---: | ---: |
-| I | 20 | 25 |
-| II | 20 | 37 |
-| III | 25 | 27 |
-| IV | 25 | 20 |
-| V | 31 | 20 |
-| VI | 30 | 14 |
-| VII | 0 | 8 |
-| VIII | 0 | 11 |
+| I | 20 | 38 |
+| II | 20 | 60 |
+| III | 25 | 56 |
+| IV | 25 | 49 |
+| V | 31 | 44 |
+| VI | 30 | 50 |
+| VII | 0 | 27 |
+| VIII | 0 | 38 |
 
 Imperfect Pharmacy marks Communication Skills, Remedial Biology, Remedial Mathematics, Computer Applications in Pharmacy, Environmental Sciences, and all Semester VII/VIII notes as **Available Soon**, checked 31 October 2026. Their unit pages show the source availability. Semester VII has source lecture links. Question papers are available separately even where notes are pending.
 
-The new PTUStudy papers match the library's current subject lists. Semester II also retains 14 papers from older subjects in the original FirstRanker collection. Eight current-subject Semester II copies were merged after comparing full extracted text and page counts; four have conflicting source session labels (FirstRanker's March 2020 and PTUStudy's November 2019), explained in their readers. Nine Semester V copies were similarly merged during its original import. Existing reader IDs and PDF paths are retained for bookmarked links.
+The PTUStudy papers match the library's current subject lists. Semester II also retains 14 papers from older subjects in the original FirstRanker collection. Eight current-subject Semester II copies were merged after comparing full extracted text and page counts; four have conflicting source session labels (FirstRanker's March 2020 and PTUStudy's November 2019), explained in their readers. Nine Semester V copies were similarly merged during its original import. Existing reader IDs and PDF paths are retained for bookmarked links.
 
-The library contains **314 PDFs** in total. Assets are checked by SHA-256 to avoid duplicate binaries. The published folder is about 846 MiB, below GitHub Pages' 1 GB limit; the largest PDF is about 51 MB, so use Git rather than GitHub's browser uploader.
+The November 2026 update adds **200 PTU BPharm papers** from Chandigarh College of Pharmacy's [PTU archive](https://www.ccpmohali.org/qp-syllabus/): 72 dated 2023, 72 dated 2024, and 56 dated 2025. Both spring/summer and winter collections are represented. Printed exam dates determine session labels, including June and January where the source bundle name differs. Three 2023 scans have unclear day/month headers and are labelled separately. The audit is `docs/data/ccp-pyq-audit.json`. Six repeated scans and three papers already hosted from PTUStudy were merged. PharmD papers, other universities, and subjects outside the existing syllabus were excluded. Not every semester/session combination is available online.
+
+Two-page spreads were rotated and separated into reading pages with continuation scans retained. JPEG optimization was verified to preserve decoded pixels. Five existing note PDFs were also optimized losslessly to keep the site below a conservative 1,000,000,000-byte budget; their original hashes and verification details are in `docs/data/storage-optimization.json`.
+
+The library contains **514 PDFs** in total. Assets are checked by SHA-256 to avoid duplicate binaries. The published folder is about 947 MiB, below GitHub Pages' 1 GB limit; the largest PDF is about 51 MB, so use Git rather than GitHub's browser uploader.
 
 Features include subject/topic search, provider filters, a PDF.js reader with page navigation and zoom, a prominent button opening the original PDF in a new tab, downloads, and source-provided lecture links. No video links are guessed. Carewell PDFs have no video links. Layouts support mobile and desktop screens and keyboard navigation.
 
-Availability and provenance are recorded in `docs/data/imperfect-availability.json` and `docs/data/ptustudy-availability.json`. Only actual downloaded PDFs have reader links; pending notes are clearly labelled.
+Availability and provenance are recorded in `docs/data/imperfect-availability.json` , `docs/data/ptustudy-availability.json`, and `docs/data/ccp-pyq-audit.json`. Only actual downloaded PDFs have reader links; pending notes are clearly labelled.
 
 ## Preview locally
 
@@ -112,6 +116,8 @@ git push
 python3 tests/check_site.py
 node --check docs/assets/app.js
 node tests/check_pyq_filters.js
+# Optional PDF structure verification, requires pypdf:
+python3 tests/check_ccp_pdfs.py
 ```
 
 The Python checks verify catalog references, valid PDF files and hashes, missing/orphan assets, duplicates, relative project paths, and GitHub’s per-file size limit. Browser checks should cover semester navigation, topic search, filters, source tabs, PDF loading, and a narrow mobile layout. PYQ checks should also cover subject/code search and available exam sessions, session-dependent subject buttons, and retained filters after returning from a PDF.
@@ -127,4 +133,4 @@ The Python checks verify catalog references, valid PDF files and hashes, missing
 
 The reader vendors Mozilla PDF.js 5.6.205 under Apache-2.0; its license and version are included in `docs/assets/pdfjs/`. The canvas preview displays one page at a time; use the original PDF for text selection, searching, or assistive reading.
 
-Notes remain credited to Imperfect Pharmacy and Carewell Pharma. No license or permission to redistribute their content is granted by this repository.
+Notes remain credited to Imperfect Pharmacy and Carewell Pharma; question papers are attributed to their universities and source archives. No license or permission to redistribute their content is granted by this repository.

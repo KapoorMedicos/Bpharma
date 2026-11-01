@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-11-01",
+  "reason": "Keep the enlarged static library below a conservative 1,000,000,000-byte GitHub Pages budget.",
+  "method": "Lossless JPEG coefficient optimization; original and optimized decoded image pixel arrays compared for equality. PDF document and page count preserved.",
+  "files": [
+    {
+      "path": "pdfs/semester-3/pharmaceutical-microbiology/imperfect/unit-2.pdf",
+      "originalSha256": "f778f1cc0f6654520f57ec1cad8161b6d680b1d9716b530786cfd1aed48a7aea",
+      "optimizedSha256": "6a13505750eddccbaa72f02fb220186c8b1113af14c849da779ca0005302475f",
+      "beforeBytes": 27326965,
+      "afterBytes": 23339695,
+      "pages": 62,
+      "decodedImagePixelsVerified": true
+    },
+    {
+      "path": "pdfs/semester-3/pharmaceutical-engineering/imperfect/unit-1.pdf",
+      "originalSha256": "cdd19a78a062928d1f5ed07cf69a5518ad76d53d159b3f23c25ac3fe76d63dc3",
+      "optimizedSha256": "0ca503e49561aa10e2626813018328cd98c6e53be41c9b2a236a7a91eb235fd8",
+      "beforeBytes": 23529256,
+      "afterBytes": 20027280,
+      "pages": 61,
+      "decodedImagePixelsVerified": true
+    },
+    {
+      "path": "pdfs/semester-6/pharmaceutical-quality-assurance/imperfect/unit-1.pdf",
+      "originalSha256": "f72fa3b1406b52920025908ecaf7ed836a0291b3178e44fcd0994c9a8ccf8552",
+      "optimizedSha256": "ce4801cf957683b3b2a92383ae8d8312a33e9c44ea3e6af5201a9dc048680145",
+      "beforeBytes": 21141752,
+      "afterBytes": 19567984,
+      "pages": 49,
+      "decodedImagePixelsVerified": true
+    },
+    {
+      "path": "pdfs/semester-6/pharmaceutical-quality-assurance/imperfect/unit-3.pdf",
+      "originalSha256": "9db86d9e3e2967664a83d8f817738bb5aaff9959cea84b3e169caa4366eecb84",
+      "optimizedSha256": "4e1f9636c1188ad6332d109b3f6cdce5c71eb455ecb38688c067eaed8b7b5f97",
+      "beforeBytes": 18471315,
+      "afterBytes": 18175638,
+      "pages": 36,
+      "decodedImagePixelsVerified": true
+    },
+    {
+      "path": "pdfs/semester-3/pharmaceutical-engineering/imperfect/unit-2.pdf",
+      "originalSha256": "a56da77c6fc1e76a13ed2f568b3bbed3f2416328192affa002c2566b60502e2b",
+      "optimizedSha256": "615846a044bb1167407fb0698a46bbc7f8eae0b426896b6a01c6814527263a72",
+      "beforeBytes": 17497959,
+      "afterBytes": 14824799,
+      "pages": 44,
+      "decodedImagePixelsVerified": true
+    }
+  ]
+}

@@ -1,0 +1,3407 @@
+{
+  "checkedAt": "2026-11-01",
+  "university": "I.K. Gujral Punjab Technical University (PTU)",
+  "course": "BPharm",
+  "collectionSource": "https://www.ccpmohali.org/qp-syllabus/",
+  "sources": [
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sha256": "c4186d6521543e66206c3a1fcae8c0194873b098f0357f6491902cf8d020a620"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-1.pdf",
+      "sha256": "af15180e907fb25832bda20bf6af60c8527f73b615d6eba8f09ac40003720ac6"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sha256": "6ee95bfe0d2c32613c951f59b8bdb344e193220d8268da35d13bfbca96eaedc5"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sha256": "05fef47b034b068e83d09ab10c8d572ef52b78d48a467306ac618463c8744bb7"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-2.pdf",
+      "sha256": "d27d0a675ab7921aa4e67089476c8e6e7b8adf98c63cdb86373f939247382396"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sha256": "28d5c0b58f3059adb0547b48ead4e09602edee6bf599ac27113a167702df1207"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sha256": "b4b61d50dd64ca777a73ef926da84f3554b67a41ec8c08b94390a03a407f3dfc"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf",
+      "sha256": "c32b425c884571558429bd3658d3057a1688bbcb36a389c817adb259b0692a57"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf",
+      "sha256": "eb84abdd118a57fa2e936060075f3725b84a8947faab1557d625dbbc5106d8b1"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf",
+      "sha256": "f83f4d7f75e71e1b328e2df0d6782840150b08d1284a235c583b1586a1d050da"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf",
+      "sha256": "fa9a4dbf41fc1afb29913f20ff55914f5000322f176042fbc364ae1cfee75408"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-7.pdf",
+      "sha256": "b87b722905781d1e3d3eb3a340036470be6ef6915ea6e11198e4af01d019902d"
+    },
+    {
+      "url": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-8.pdf",
+      "sha256": "811a7bf7fb61ca005882efcc4ce4d958f537400ff6b79345314f8e603eaac95a"
+    }
+  ],
+  "addedPapers": [
+    {
+      "id": "pyq-ptu-s1-2023-12-74644",
+      "semester": 1,
+      "code": "74644",
+      "syllabusSubject": "human-anatomy-and-physiology-1",
+      "session": "December 2023",
+      "examDate": "2023-12-14",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "543e3200569a2d5d9d1f03239f3fd9a4c5bfcbc11944ae9a45b385a56bd54f2a"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-12-74645",
+      "semester": 1,
+      "code": "74645",
+      "syllabusSubject": "pharmaceutical-analysis",
+      "session": "December 2023",
+      "examDate": "2023-12-21",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        3
+      ],
+      "pages": 2,
+      "sha256": "474cdc83f2e4e5a21fad5a760c925c3ca026c5b691aa13cd9cf8483c4a57454c"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-06-74644",
+      "semester": 1,
+      "code": "74644",
+      "syllabusSubject": "human-anatomy-and-physiology-1",
+      "session": "June 2023",
+      "examDate": "2023-06-08",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-1.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-1.pdf",
+      "sourcePages": [
+        3
+      ],
+      "pages": 2,
+      "sha256": "c1158041f790f671c48e2f2ffc9b10820642dfefcd8abee05e4044a26eebd68c"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-06-74645",
+      "semester": 1,
+      "code": "74645",
+      "syllabusSubject": "pharmaceutical-analysis",
+      "session": "June 2023",
+      "examDate": "2023-06-09",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-1.pdf#page=4",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-1.pdf",
+      "sourcePages": [
+        4
+      ],
+      "pages": 2,
+      "sha256": "34e51dc07466a26cf8e5629e9a0c93fb0ab1828865a87bbc6070994a5b60d6ed"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-06-74646",
+      "semester": 1,
+      "code": "74646",
+      "syllabusSubject": "pharmaceutics-1",
+      "session": "June 2023",
+      "examDate": "2023-06-03",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-1.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-1.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "406e4ad298a6ef1a691abcd9022e0c4585a3f16535a5de6ebda0a65c58c3b99f"
+    },
+    {
+      "id": "pyq-ptu-s1-2023-06-74647",
+      "semester": 1,
+      "code": "74647",
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "session": "June 2023",
+      "examDate": "2023-06-06",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-1.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-1.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "983878e32c0cb70495973b2d1fa412530fbcbe78159c384a5ab4fb4d680a0e8e"
+    },
+    {
+      "id": "pyq-ptu-s1-2024-12-74644",
+      "semester": 1,
+      "code": "74644",
+      "syllabusSubject": "human-anatomy-and-physiology-1",
+      "session": "December 2024",
+      "examDate": "2024-12-18",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "6ec440c8364673f68aecc8a03453f50d22ef299c391fa619f7cc93c49cddba2d"
+    },
+    {
+      "id": "pyq-ptu-s1-2024-12-74645",
+      "semester": 1,
+      "code": "74645",
+      "syllabusSubject": "pharmaceutical-analysis",
+      "session": "December 2024",
+      "examDate": "2024-12-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        3
+      ],
+      "pages": 2,
+      "sha256": "5b3a820c523d3067fb4e373ef6829a4604ff4e1926af3f400d99ef69765f2ebd"
+    },
+    {
+      "id": "pyq-ptu-s1-2024-12-74646",
+      "semester": 1,
+      "code": "74646",
+      "syllabusSubject": "pharmaceutics-1",
+      "session": "December 2024",
+      "examDate": "2024-12-16",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "b075683d625773959814be53f064f63d8803232dabf6adb8daa02ff056f0937f"
+    },
+    {
+      "id": "pyq-ptu-s1-2024-12-74647",
+      "semester": 1,
+      "code": "74647",
+      "syllabusSubject": "pharmaceutical-inorganic-chemistry",
+      "session": "December 2024",
+      "examDate": "2024-12-23",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=4",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        4
+      ],
+      "pages": 2,
+      "sha256": "f143b87421607b67746033263480ba151733c0456d8c0773bf1a70dbb9163b72"
+    },
+    {
+      "id": "pyq-ptu-s1-2024-06-74644",
+      "semester": 1,
+      "code": "74644",
+      "syllabusSubject": "human-anatomy-and-physiology-1",
+      "session": "June 2024",
+      "examDate": "2024-06-12",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        3,
+        4,
+        5
+      ],
+      "pages": 6,
+      "sha256": "9c5215655753555cbe5039b2bba2a0626c37c7016d4946b4459aa584eb9e4959"
+    },
+    {
+      "id": "pyq-ptu-s1-2024-06-74645",
+      "semester": 1,
+      "code": "74645",
+      "syllabusSubject": "pharmaceutical-analysis",
+      "session": "June 2024",
+      "examDate": "2024-06-14",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=6",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        6
+      ],
+      "pages": 2,
+      "sha256": "8ddf10bd5ad365ebb9b35b9e1a9e6983d0fed97c5025b46583ac8326e0dd3c50"
+    },
+    {
+      "id": "pyq-ptu-s1-2024-06-74646",
+      "semester": 1,
+      "code": "74646",
+      "syllabusSubject": "pharmaceutics-1",
+      "session": "June 2024",
+      "examDate": "2024-06-18",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "3c8c8aa92f17bd8b2bbd2cec6bb32b9bd86eca2008e6d5b60e43a10322502e10"
+    },
+    {
+      "id": "pyq-ptu-s2-2023-12-74967",
+      "semester": 2,
+      "code": "74967",
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "session": "December 2023",
+      "examDate": "2023-12-09",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=4",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        4
+      ],
+      "pages": 2,
+      "sha256": "66bb73fcc1fb8b47e10bdc1c6084942068d56b8834facf82f4174a2a0262e4d3"
+    },
+    {
+      "id": "pyq-ptu-s2-2023-12-74970",
+      "semester": 2,
+      "code": "74970",
+      "syllabusSubject": "pathophysiology",
+      "session": "December 2023",
+      "examDate": "2023-12-16",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=5",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        5
+      ],
+      "pages": 2,
+      "sha256": "d39c2c24727fede9bfb5445c150914f79903d363fd015b97f7388e9b387ef830"
+    },
+    {
+      "id": "pyq-ptu-s2-2023-06-74967",
+      "semester": 2,
+      "code": "74967",
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "session": "June 2023",
+      "examDate": "2023-06-05",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-2.pdf#page=11",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-2.pdf",
+      "sourcePages": [
+        11
+      ],
+      "pages": 2,
+      "sha256": "e0c9e7f7a6372985f71207ffc4ef394b1ed8677282d885035261c0c1a0f06114"
+    },
+    {
+      "id": "pyq-ptu-s2-2023-06-74969",
+      "semester": 2,
+      "code": "74969",
+      "syllabusSubject": "biochemistry",
+      "session": "June 2023",
+      "examDate": "2023-06-02",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-2.pdf#page=12",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-2.pdf",
+      "sourcePages": [
+        12
+      ],
+      "pages": 2,
+      "sha256": "1b7941c3f549c95bca2ea0a0e42bad93eba453d2bff19b6e8bedd7d508c18093"
+    },
+    {
+      "id": "pyq-ptu-s2-2023-06-74970",
+      "semester": 2,
+      "code": "74970",
+      "syllabusSubject": "pathophysiology",
+      "session": "June 2023",
+      "examDate": "2023-06-07",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-2.pdf#page=10",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-2.pdf",
+      "sourcePages": [
+        10
+      ],
+      "pages": 2,
+      "sha256": "e7db733d845e4a5994d431dc52a3622add5bebda3e4adc78202931cf293b0d98"
+    },
+    {
+      "id": "pyq-ptu-s2-2023-05-74968",
+      "semester": 2,
+      "code": "74968",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "session": "May 2023",
+      "examDate": "2023-05-30",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-2.pdf#page=13",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-2.pdf",
+      "sourcePages": [
+        13
+      ],
+      "pages": 2,
+      "sha256": "548b23e94b6a128e39911116706f04740d7620f5baee632d7823ba934b86fc51"
+    },
+    {
+      "id": "pyq-ptu-s2-2024-01-74969",
+      "semester": 2,
+      "code": "74969",
+      "syllabusSubject": "biochemistry",
+      "session": "January 2024",
+      "examDate": "2024-01-02",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=6",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        6
+      ],
+      "pages": 2,
+      "sha256": "4bdcec6247641727ebe0c25bff787ce6d485232e832c862e6e7d72322b820155"
+    },
+    {
+      "id": "pyq-ptu-s2-2024-05-74967",
+      "semester": 2,
+      "code": "74967",
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "session": "May 2024",
+      "examDate": "2024-05-08",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=13",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        13
+      ],
+      "pages": 2,
+      "sha256": "49b7b9a544f3569fad9cc40ac8c83c27774f2bdc0cdebdcd15624ffc395833ad"
+    },
+    {
+      "id": "pyq-ptu-s2-2024-05-74968",
+      "semester": 2,
+      "code": "74968",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "session": "May 2024",
+      "examDate": "2024-05-11",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=9",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        9
+      ],
+      "pages": 2,
+      "sha256": "8a3c8ebd7f42f86b4f8d5095a43122202aad37ddaf866e9eed708129e16cd5be"
+    },
+    {
+      "id": "pyq-ptu-s2-2024-05-74969",
+      "semester": 2,
+      "code": "74969",
+      "syllabusSubject": "biochemistry",
+      "session": "May 2024",
+      "examDate": "2024-05-15",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=11",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        11
+      ],
+      "pages": 2,
+      "sha256": "a4ce29448e6192d8c8a04e669441f9bc75150ff549057e450ab35e44a1359df5"
+    },
+    {
+      "id": "pyq-ptu-s2-2024-05-74970",
+      "semester": 2,
+      "code": "74970",
+      "syllabusSubject": "pathophysiology",
+      "session": "May 2024",
+      "examDate": "2024-05-18",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=12",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        12
+      ],
+      "pages": 2,
+      "sha256": "0ef0cfb275f3e0fa71da8da6c712461f3ee861de6f71d5bae757eca29927abc2"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-12-74967",
+      "semester": 2,
+      "code": "74967",
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "session": "December 2025",
+      "examDate": "2025-12-17",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=5",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        5
+      ],
+      "pages": 2,
+      "sha256": "7f86dc2a3d07f79a965b0fc3680e93c2244911c16fb9a20f30d20760c73ca50f"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-12-74968",
+      "semester": 2,
+      "code": "74968",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "session": "December 2025",
+      "examDate": "2025-12-15",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=6",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        6
+      ],
+      "pages": 2,
+      "sha256": "a7ce6be8cec69a57b4c3b1d9128c09c2a22e1e70d6f777eeb49f82930079c786"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-12-74969",
+      "semester": 2,
+      "code": "74969",
+      "syllabusSubject": "biochemistry",
+      "session": "December 2025",
+      "examDate": "2025-12-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=7",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        7
+      ],
+      "pages": 2,
+      "sha256": "4dea524362a54c563004c35557e77f864afe1ed5035dbb9d080d9a0971a58469"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-12-74970",
+      "semester": 2,
+      "code": "74970",
+      "syllabusSubject": "pathophysiology",
+      "session": "December 2025",
+      "examDate": "2025-12-22",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=8",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        8
+      ],
+      "pages": 2,
+      "sha256": "fa06641e8799674cd47845ddbba86b5ee8730fa6cd363366c48c23dc6b0b4b2b"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-01-74967",
+      "semester": 2,
+      "code": "74967",
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "session": "January 2025",
+      "examDate": "2025-01-10",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=7",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        7
+      ],
+      "pages": 2,
+      "sha256": "027e86c56282912c1af109aa5cb06367f184330d26b5fe79cba31dcaa0ad8b24"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-01-74968",
+      "semester": 2,
+      "code": "74968",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "session": "January 2025",
+      "examDate": "2025-01-08",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=5",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        5
+      ],
+      "pages": 2,
+      "sha256": "64e698de6aae9c6c044588add13b98a9bb9eaf7ec2761d6e6d081cbd7739a932"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-01-74969",
+      "semester": 2,
+      "code": "74969",
+      "syllabusSubject": "biochemistry",
+      "session": "January 2025",
+      "examDate": "2025-01-09",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=6",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        6
+      ],
+      "pages": 2,
+      "sha256": "5358dc0d44ea7c7bf2ea3ddd0ffa74befd0d1ee66494ecaf18cd585cb8574175"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-01-74970",
+      "semester": 2,
+      "code": "74970",
+      "syllabusSubject": "pathophysiology",
+      "session": "January 2025",
+      "examDate": "2025-01-07",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=8",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        8
+      ],
+      "pages": 2,
+      "sha256": "f8231d01e11a788549330cc32354d35186c6d4a4f0f36b1457bea5cbfd253758"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-05-74967",
+      "semester": 2,
+      "code": "74967",
+      "syllabusSubject": "human-anatomy-and-physiology-2",
+      "session": "May 2025",
+      "examDate": "2025-05-29",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=4",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        4
+      ],
+      "pages": 2,
+      "sha256": "1916f649daf232318bc091ded48a1a96e6fb10438bf53cdac893c92d1a7ae008"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-05-74968",
+      "semester": 2,
+      "code": "74968",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-1",
+      "session": "May 2025",
+      "examDate": "2025-05-27",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        3
+      ],
+      "pages": 2,
+      "sha256": "f3c1c15ba229f8852a9e86be82a4d0c9acd5bc45e4542b6627a3268ea7a5cc51"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-05-74969",
+      "semester": 2,
+      "code": "74969",
+      "syllabusSubject": "biochemistry",
+      "session": "May 2025",
+      "examDate": "2025-05-06",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "9fa9a4ac528e86bf54bf2ccbc979d50becbc0d6f8ea0d91822b2567da8c6bd96"
+    },
+    {
+      "id": "pyq-ptu-s2-2025-05-74970",
+      "semester": 2,
+      "code": "74970",
+      "syllabusSubject": "pathophysiology",
+      "session": "May 2025",
+      "examDate": "2025-05-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "e94e32edec2652b23d06ae832530e36d6722db5abfd9586bcecf691d05794533"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-12-75106",
+      "semester": 3,
+      "code": "75106",
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "session": "December 2023",
+      "examDate": "2023-12-11",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=8",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        8
+      ],
+      "pages": 2,
+      "sha256": "7c748c86cae0c22d7808c3d14a791a5eae228d75ee4061d9ea4f85feb6eff08b"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-12-75107",
+      "semester": 3,
+      "code": "75107",
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "session": "December 2023",
+      "examDate": "2023-12-13",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=10",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        10
+      ],
+      "pages": 2,
+      "sha256": "6fe860221bb9a594111784b147ed088a398c5eae4043c428902403159ac7184a"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-12-75108",
+      "semester": 3,
+      "code": "75108",
+      "syllabusSubject": "pharmaceutical-engineering",
+      "session": "December 2023",
+      "examDate": "2023-12-30",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=12",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        12
+      ],
+      "pages": 2,
+      "sha256": "71b2d6e1ab3d1aa428eb956b931e67a217c8aee9e3dee1d50f13cd11ccca95e4"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-12-93323",
+      "semester": 3,
+      "code": "93323",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "session": "December 2023",
+      "examDate": "2023-12-08",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=7",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        7
+      ],
+      "pages": 2,
+      "sha256": "6c7c65b88b985de89a57e56231b6ba049a00cb70f4d9dcb2d25c3de06a36e108"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-12-93324",
+      "semester": 3,
+      "code": "93324",
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "session": "December 2023",
+      "examDate": "2023-12-11",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=9",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        9
+      ],
+      "pages": 2,
+      "sha256": "912b951a9af4958809253edd0fb458279be6780d524e9e476d20f71174a07671"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-12-93326",
+      "semester": 3,
+      "code": "93326",
+      "syllabusSubject": "pharmaceutical-engineering",
+      "session": "December 2023",
+      "examDate": "2023-12-15",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=11",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        11
+      ],
+      "pages": 2,
+      "sha256": "dd05e9bc2a60d1faa47ca7e312d33851ba2b470e41efbc092c185e1439e09896"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-06-75105",
+      "semester": 3,
+      "code": "75105",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "session": "June 2023",
+      "examDate": "2023-06-08",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf#page=5",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf",
+      "sourcePages": [
+        5
+      ],
+      "pages": 2,
+      "sha256": "4480a8f5cde81392a153342bdd95e428d8c21013bf15b700375e12183ec21867"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-06-75106",
+      "semester": 3,
+      "code": "75106",
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "session": "June 2023",
+      "examDate": "2023-06-12",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf#page=7",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf",
+      "sourcePages": [
+        7
+      ],
+      "pages": 2,
+      "sha256": "ef1727849c2b6d74da2e8cf5d8e4a7e6e4c23a031bbc2b6d4ee705245b4da1bb"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-06-75107",
+      "semester": 3,
+      "code": "75107",
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "session": "June 2023",
+      "examDate": "2023-06-06",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf#page=4",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf",
+      "sourcePages": [
+        4
+      ],
+      "pages": 2,
+      "sha256": "e40265a637eacf139c05dda6ddec0c5ab45652ac28667d661973cd8dc7aac604"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-06-75108",
+      "semester": 3,
+      "code": "75108",
+      "syllabusSubject": "pharmaceutical-engineering",
+      "session": "June 2023",
+      "examDate": "2023-06-13",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf#page=6",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf",
+      "sourcePages": [
+        6
+      ],
+      "pages": 2,
+      "sha256": "6972290f61010fb36440bee5869c7787f54e35ca7298b1a2ecae2eefb1da8372"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-06-93324",
+      "semester": 3,
+      "code": "93324",
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "session": "June 2023",
+      "examDate": "2023-06-03",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf",
+      "sourcePages": [
+        3
+      ],
+      "pages": 2,
+      "sha256": "e2a77ed627c1ca3a4c578538e6a1a20b2e99e9e2f75511b5d73d700ca2a1920f"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-05-93323",
+      "semester": 3,
+      "code": "93323",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "session": "May 2023",
+      "examDate": "2023-05-31",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "af8e859b2589700d439f64132bde395348d2b0214e89a882dc43a3d54df1b616"
+    },
+    {
+      "id": "pyq-ptu-s3-2023-05-93326",
+      "semester": 3,
+      "code": "93326",
+      "syllabusSubject": "pharmaceutical-engineering",
+      "session": "May 2023",
+      "examDate": "2023-05-29",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-3.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "cc3ad833f4f80788bd79f66f8477a9c91df493cf1120a44203f9d4f36a0c074c"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-12-75105",
+      "semester": 3,
+      "code": "75105",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "session": "December 2024",
+      "examDate": "2024-12-16",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=10",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        10
+      ],
+      "pages": 2,
+      "sha256": "2ed89826b589a1a7dcd2e64e691c09eeeb953990da63f4204d8053b5b8a2c1b9"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-12-75106",
+      "semester": 3,
+      "code": "75106",
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "session": "December 2024",
+      "examDate": "2024-12-18",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=11",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        11
+      ],
+      "pages": 2,
+      "sha256": "8d218da6153890cf6be0040ef971d6c739c64c3ba6f0bb8c61a13c8769f9478d"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-12-75107",
+      "semester": 3,
+      "code": "75107",
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "session": "December 2024",
+      "examDate": "2024-12-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=12",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        12
+      ],
+      "pages": 2,
+      "sha256": "6e5ac36045374df2b6a47cb5714f90a1e81c72ad0594f5aecbfd46e2d4770f3d"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-12-75108",
+      "semester": 3,
+      "code": "75108",
+      "syllabusSubject": "pharmaceutical-engineering",
+      "session": "December 2024",
+      "examDate": "2024-12-23",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=13",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        13
+      ],
+      "pages": 2,
+      "sha256": "7a229152a5a48ce487f54e4f8a778fd228e1b846c64005faf6ded64a0589d798"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-12-93323",
+      "semester": 3,
+      "code": "93323",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "session": "December 2024",
+      "examDate": "2024-12-16",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=9",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        9
+      ],
+      "pages": 2,
+      "sha256": "6fa9a518e9ca6a9cb5a73555b25e0e62f7501a5acc7d15888c0c79a5d0033155"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-01-75105",
+      "semester": 3,
+      "code": "75105",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "session": "January 2024",
+      "examDate": "2024-01-04",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=13",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        13
+      ],
+      "pages": 2,
+      "sha256": "34d7ccc1dad73e2ad5275df2f41cb8533c0a8aea6da2a30280a7de36224f1cc5"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-06-75105",
+      "semester": 3,
+      "code": "75105",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "session": "June 2024",
+      "examDate": "2024-06-11",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=14",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        14
+      ],
+      "pages": 2,
+      "sha256": "64a089d4924f2c214a8f933af6ef74a3873225af80827d117c9bb2c53a931400"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-06-75106",
+      "semester": 3,
+      "code": "75106",
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "session": "June 2024",
+      "examDate": "2024-06-13",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=16",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        16
+      ],
+      "pages": 2,
+      "sha256": "63c86d1989da1f81171006464dfa9d6c8df704f394bf4c2eb6bb62576ea87171"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-06-75107",
+      "semester": 3,
+      "code": "75107",
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "session": "June 2024",
+      "examDate": "2024-06-15",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=17",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        17
+      ],
+      "pages": 2,
+      "sha256": "274b353641218f8cde501cd640ce6d746e09e5a01098b777f83f70189d9d0513"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-06-75108",
+      "semester": 3,
+      "code": "75108",
+      "syllabusSubject": "pharmaceutical-engineering",
+      "session": "June 2024",
+      "examDate": "2024-06-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=18",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        18
+      ],
+      "pages": 2,
+      "sha256": "22d49337ee5d3a39242d0f5d668747d13667803f54ffe26573f668fb1b482280"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-06-93323",
+      "semester": 3,
+      "code": "93323",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "session": "June 2024",
+      "examDate": "2024-06-11",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=15",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        15
+      ],
+      "pages": 2,
+      "sha256": "41ca5993aef42e5a946a917f79222775fc5bde3626bea47ba9eab3d6f2f61669"
+    },
+    {
+      "id": "pyq-ptu-s3-2024-06-93326",
+      "semester": 3,
+      "code": "93326",
+      "syllabusSubject": "pharmaceutical-engineering",
+      "session": "June 2024",
+      "examDate": "2024-06-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=19",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        19
+      ],
+      "pages": 2,
+      "sha256": "85ad90d32e1ef5bd4869a3e6add57460bc4fac28de5c3332f691f2db1b478c00"
+    },
+    {
+      "id": "pyq-ptu-s3-2025-12-75105",
+      "semester": 3,
+      "code": "75105",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-2",
+      "session": "December 2025",
+      "examDate": "2025-12-02",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=9",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        9
+      ],
+      "pages": 2,
+      "sha256": "2a102c0dc9467e73fd37be60b65327144221bd41da770ca0ea40b3b65b503893"
+    },
+    {
+      "id": "pyq-ptu-s3-2025-12-75106",
+      "semester": 3,
+      "code": "75106",
+      "syllabusSubject": "physical-pharmaceutics-1",
+      "session": "December 2025",
+      "examDate": "2025-12-04",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=10",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        10
+      ],
+      "pages": 2,
+      "sha256": "987cf087b36a314b1ff137ca6be1eda765f3a25554c398ea078acb03806e485b"
+    },
+    {
+      "id": "pyq-ptu-s3-2025-12-75107",
+      "semester": 3,
+      "code": "75107",
+      "syllabusSubject": "pharmaceutical-microbiology",
+      "session": "December 2025",
+      "examDate": "2025-12-06",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=11",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        11
+      ],
+      "pages": 2,
+      "sha256": "f4499e0722c1ccba45ff21833aa688210582ff82182f7f6332424b7da8036ca0"
+    },
+    {
+      "id": "pyq-ptu-s3-2025-12-75108",
+      "semester": 3,
+      "code": "75108",
+      "syllabusSubject": "pharmaceutical-engineering",
+      "session": "December 2025",
+      "examDate": "2025-12-09",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=12",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        12
+      ],
+      "pages": 2,
+      "sha256": "cce9f0d88fc3ab9278ddd7efadac25603f520dcfdf5f5da73fd2dec9c18ef126"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-12-75844",
+      "semester": 4,
+      "code": "75844",
+      "syllabusSubject": "medicinal-chemistry-1",
+      "session": "December 2023",
+      "examDate": "2023-12-12",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=14",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        14
+      ],
+      "pages": 2,
+      "sha256": "e1b6e934565f250c0f13324ee1d31aaee66a4faa963be4db7e82d7c3e9bcf280"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-12-75845",
+      "semester": 4,
+      "code": "75845",
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "session": "December 2023",
+      "examDate": "2023-12-14",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=15",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        15
+      ],
+      "pages": 2,
+      "sha256": "7c40cd5094e0e19d28f363f592f6f2a620b4ed640c8ff31b5342866c6d25ac6c"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-12-75846",
+      "semester": 4,
+      "code": "75846",
+      "syllabusSubject": "pharmacology-1",
+      "session": "December 2023",
+      "examDate": "2023-12-16",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=16",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        16
+      ],
+      "pages": 2,
+      "sha256": "98fc66743533233b208707628de376d1cb9db837acda512912d711546584e10b"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-12-75847",
+      "semester": 4,
+      "code": "75847",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "session": "December 2023",
+      "examDate": "2023-12-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=17",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        17
+      ],
+      "pages": 2,
+      "sha256": "d1cbe2be5e5dd6ff542c173a91f94fd34c37e83af0965e2678a1374ae364dab3"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-06-75843",
+      "semester": 4,
+      "code": "75843",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "session": "June 2023",
+      "examDate": "2023-06-14",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf",
+      "sourcePages": [
+        3
+      ],
+      "pages": 2,
+      "sha256": "35ca8caaf36c5f6e6b9a5902bd7798fbedcaf077634696624250581db1b81c3c"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-06-75844",
+      "semester": 4,
+      "code": "75844",
+      "syllabusSubject": "medicinal-chemistry-1",
+      "session": "June 2023",
+      "examDate": "2023-06-02",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf#page=5",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf",
+      "sourcePages": [
+        5
+      ],
+      "pages": 2,
+      "sha256": "59e505e1f8a83ec1040140e4e7001eed9248b152fdf951b74f8114bb19a0db89"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-06-75845",
+      "semester": 4,
+      "code": "75845",
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "session": "June 2023",
+      "examDate": "2023-06-05",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "989ab551a0f6db62914dea205c7d456778bcd435395893ee053130b2a15d2811"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-06-75846",
+      "semester": 4,
+      "code": "75846",
+      "syllabusSubject": "pharmacology-1",
+      "session": "June 2023",
+      "examDate": "2023-06-09",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf#page=4",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf",
+      "sourcePages": [
+        4
+      ],
+      "pages": 1,
+      "sha256": "ac03a451b8813a09e045cf767a32609c6ca8b563e51e083110954bc502a015a0"
+    },
+    {
+      "id": "pyq-ptu-s4-2023-06-75847",
+      "semester": 4,
+      "code": "75847",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "session": "June 2023",
+      "examDate": "2023-06-01",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-4.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "28403b9269efe43f6b8c2eb6add7cd098037c69e970cefefed6885cd3cc5109f"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-12-75843",
+      "semester": 4,
+      "code": "75843",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "session": "December 2024",
+      "examDate": "2024-12-11",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=15",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        15
+      ],
+      "pages": 2,
+      "sha256": "98c1cca72a5ac506344793f7f64a615efeddbc091a4f8d25061662cc8c02ba09"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-12-75844",
+      "semester": 4,
+      "code": "75844",
+      "syllabusSubject": "medicinal-chemistry-1",
+      "session": "December 2024",
+      "examDate": "2024-12-09",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=14",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        14
+      ],
+      "pages": 2,
+      "sha256": "1f0efb25ab5274c7da26639f0980b2a247d23482ea7c05c8f637d819ba47904b"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-12-75845",
+      "semester": 4,
+      "code": "75845",
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "session": "December 2024",
+      "examDate": "2024-12-14",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=18",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        18
+      ],
+      "pages": 2,
+      "sha256": "76460ee4c8143850d512f6a64d7aafdb22e9badbd34bc12632442d85ee87c516"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-12-75846",
+      "semester": 4,
+      "code": "75846",
+      "syllabusSubject": "pharmacology-1",
+      "session": "December 2024",
+      "examDate": "2024-12-13",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=16",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        16
+      ],
+      "pages": 2,
+      "sha256": "b677d162e1259ef627597f4d18fb5db1a71614724ad459ff349e54671d272d86"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-12-75847",
+      "semester": 4,
+      "code": "75847",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "session": "December 2024",
+      "examDate": "2024-12-17",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=19",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        19
+      ],
+      "pages": 2,
+      "sha256": "b813765156d37e112ead7bac210553e05e4ea3911b89dfe9dc5bb12dccac8639"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-01-75843",
+      "semester": 4,
+      "code": "75843",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "session": "January 2024",
+      "examDate": "2024-01-02",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=18",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        18
+      ],
+      "pages": 2,
+      "sha256": "d0d9fa05fd3a293a67c4dfaccbf52b37b37792afb7a09579a0e65e6aa462a158"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-05-75843",
+      "semester": 4,
+      "code": "75843",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "session": "May 2024",
+      "examDate": "2024-05-07",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=25",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        25
+      ],
+      "pages": 2,
+      "sha256": "b986b2da8194691bf752833b8f5e04f16df8f9493eef7e4e9cbbfc1a57ec1411"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-05-75844",
+      "semester": 4,
+      "code": "75844",
+      "syllabusSubject": "medicinal-chemistry-1",
+      "session": "May 2024",
+      "examDate": "2024-05-13",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=20",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        20
+      ],
+      "pages": 2,
+      "sha256": "96a2259b95cb675e4e891641fbaf6d92900febe079acb20aaa319fc0d6764170"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-05-75845",
+      "semester": 4,
+      "code": "75845",
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "session": "May 2024",
+      "examDate": "2024-05-14",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=22",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        22
+      ],
+      "pages": 2,
+      "sha256": "9105234149a0d048f9798690ee8cd6d53a3ec2e8eb89ac1f44ac88846f1248b3"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-05-75846",
+      "semester": 4,
+      "code": "75846",
+      "syllabusSubject": "pharmacology-1",
+      "session": "May 2024",
+      "examDate": "2024-05-17",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=23",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        23
+      ],
+      "pages": 2,
+      "sha256": "bc0eb5bbb66abda7f789f29200cbdc99302d8e214ec0f396ae6fb756b10f31ed"
+    },
+    {
+      "id": "pyq-ptu-s4-2024-05-75847",
+      "semester": 4,
+      "code": "75847",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "session": "May 2024",
+      "examDate": "2024-05-21",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=21",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        21
+      ],
+      "pages": 2,
+      "sha256": "f8affd912bb18e0a574b7dfb9fdb23b3f130d44522822a1a400dc384cdcdea0c"
+    },
+    {
+      "id": "pyq-ptu-s4-2025-12-75843",
+      "semester": 4,
+      "code": "75843",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "session": "December 2025",
+      "examDate": "2025-12-18",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=13",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        13
+      ],
+      "pages": 2,
+      "sha256": "9f880ea8f3ae2eaa8e308876202fc12b235cf20b28834f022d6cd8972ff54b08"
+    },
+    {
+      "id": "pyq-ptu-s4-2025-12-75844",
+      "semester": 4,
+      "code": "75844",
+      "syllabusSubject": "medicinal-chemistry-1",
+      "session": "December 2025",
+      "examDate": "2025-12-13",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=14",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        14
+      ],
+      "pages": 2,
+      "sha256": "860adb2dfd22b0ac5e3dcc60f2961db3c3f5ddb3c276a5f5bb6a6464d5e4d801"
+    },
+    {
+      "id": "pyq-ptu-s4-2025-12-75845",
+      "semester": 4,
+      "code": "75845",
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "session": "December 2025",
+      "examDate": "2025-12-16",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=15",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        15
+      ],
+      "pages": 2,
+      "sha256": "6f058b0aeda3aaf262d60d243144933914cf6bfedd3ca9247fe555d7c11bec4b"
+    },
+    {
+      "id": "pyq-ptu-s4-2025-12-75846",
+      "semester": 4,
+      "code": "75846",
+      "syllabusSubject": "pharmacology-1",
+      "session": "December 2025",
+      "examDate": "2025-12-23",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=16",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        16
+      ],
+      "pages": 2,
+      "sha256": "dda013f412a98575d082d33cacb281183231cd3c4a636f44c05ee4318d3f7a92"
+    },
+    {
+      "id": "pyq-ptu-s4-2025-12-75847",
+      "semester": 4,
+      "code": "75847",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "session": "December 2025",
+      "examDate": "2025-12-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=17",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        17
+      ],
+      "pages": 2,
+      "sha256": "110231c5b014a8568f3f7f2118bf751e6c844e3f2f3affcedc347c97f9ff2f56"
+    },
+    {
+      "id": "pyq-ptu-s4-2025-05-75843",
+      "semester": 4,
+      "code": "75843",
+      "syllabusSubject": "pharmaceutical-organic-chemistry-3",
+      "session": "May 2025",
+      "examDate": "2025-05-26",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=5",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        5
+      ],
+      "pages": 2,
+      "sha256": "94b1258c53559e76534a188836f9c237f22239c108d71e2174cdcb2c168d82aa"
+    },
+    {
+      "id": "pyq-ptu-s4-2025-05-75845",
+      "semester": 4,
+      "code": "75845",
+      "syllabusSubject": "physical-pharmaceutics-2",
+      "session": "May 2025",
+      "examDate": "2025-05-05",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=8",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        8
+      ],
+      "pages": 2,
+      "sha256": "86dee386ba52511829dfae9d97d695716c51ca89955af925c078113ab629a3a4"
+    },
+    {
+      "id": "pyq-ptu-s4-2025-05-75846",
+      "semester": 4,
+      "code": "75846",
+      "syllabusSubject": "pharmacology-1",
+      "session": "May 2025",
+      "examDate": "2025-05-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=7",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        7
+      ],
+      "pages": 2,
+      "sha256": "7606d90dc65c93b1a01d76fe05b4f3e51ef1152a505c1686ce2e6ccf0e170ef6"
+    },
+    {
+      "id": "pyq-ptu-s4-2025-05-75847",
+      "semester": 4,
+      "code": "75847",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-1",
+      "session": "May 2025",
+      "examDate": "2025-05-22",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=6",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        6
+      ],
+      "pages": 2,
+      "sha256": "b2208ef0b05a9ff45e8d68d0cac2269f401cdd4f6f959384758593659c2a32a8"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-05-76786",
+      "semester": 5,
+      "code": "76786",
+      "syllabusSubject": "medicinal-chemistry-2",
+      "session": "May 2023",
+      "examDate": "2023-05-17",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf#page=5",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf",
+      "sourcePages": [
+        5
+      ],
+      "pages": 2,
+      "sha256": "1f0f7467868ba1c1af6319c18265206a1c3aa7dffa13a5b5af2831092d60dcde"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-05-76787",
+      "semester": 5,
+      "code": "76787",
+      "syllabusSubject": "industrial-pharmacy-1",
+      "session": "May 2023",
+      "examDate": "2023-05-25",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "f760c463fc173d82a9b91745bb750091089080603ad5548cd690540a1b782959"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-05-76788",
+      "semester": 5,
+      "code": "76788",
+      "syllabusSubject": "pharmacology-2",
+      "session": "May 2023",
+      "examDate": "2023-05-29",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf",
+      "sourcePages": [
+        3
+      ],
+      "pages": 2,
+      "sha256": "79d45858723f99dee4390fae7d823393045bf1dfe873f09a4a98b42c4511e9ca"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-05-76789",
+      "semester": 5,
+      "code": "76789",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-2",
+      "session": "May 2023",
+      "examDate": "2023-05-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf#page=4",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf",
+      "sourcePages": [
+        4
+      ],
+      "pages": 2,
+      "sha256": "69140e738a6c2825e9743121708edc6611780a8fbb9a596a81ce23164487461e"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-05-76790",
+      "semester": 5,
+      "code": "76790",
+      "syllabusSubject": "pharmaceutical-jurisprudence",
+      "session": "May 2023",
+      "examDate": "2023-05-24",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-5.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "774349d4fb6e474a66abd2795ff5430545a73a15092a9610d8a53bc91b596eca"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-11-76786",
+      "semester": 5,
+      "code": "76786",
+      "syllabusSubject": "medicinal-chemistry-2",
+      "session": "November 2023",
+      "examDate": "2023-11-17",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=20",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        20
+      ],
+      "pages": 2,
+      "sha256": "52f196628abf15eb86958750a5042a765da9dbe5fcd97b230faf38012bc97c24"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-11-76787",
+      "semester": 5,
+      "code": "76787",
+      "syllabusSubject": "industrial-pharmacy-1",
+      "session": "November 2023",
+      "examDate": "2023-11-21",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=19",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        19
+      ],
+      "pages": 2,
+      "sha256": "c02e1399d7dd582bdfbfb05e274acdd878ac0410e66aca8f09331ee250a4bdd2"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-11-76788",
+      "semester": 5,
+      "code": "76788",
+      "syllabusSubject": "pharmacology-2",
+      "session": "November 2023",
+      "examDate": "2023-11-23",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=21",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        21
+      ],
+      "pages": 2,
+      "sha256": "3d68c6476a40b3e94a413eeb527bb4257d36176474b05a9c1efae11af7076273"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-11-76789",
+      "semester": 5,
+      "code": "76789",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-2",
+      "session": "November 2023",
+      "examDate": "2023-11-28",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=22",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        22
+      ],
+      "pages": 2,
+      "sha256": "be59fba6d2bc541b2146b34db71b1c10045cbac993e7b6f0cbd5bcd65916ec93"
+    },
+    {
+      "id": "pyq-ptu-s5-2023-11-76790",
+      "semester": 5,
+      "code": "76790",
+      "syllabusSubject": "pharmaceutical-jurisprudence",
+      "session": "November 2023",
+      "examDate": "2023-11-30",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=23",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        23
+      ],
+      "pages": 2,
+      "sha256": "4572453c275b088e1c2e1005944e47b70a12db9ff67a46482fb30ad619538c98"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-12-76786",
+      "semester": 5,
+      "code": "76786",
+      "syllabusSubject": "medicinal-chemistry-2",
+      "session": "December 2024",
+      "examDate": "2024-12-10",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=20",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        20
+      ],
+      "pages": 2,
+      "sha256": "6a5898888fdce96da5c5bde486689c2ebfbbc159f6be4456c8c8851c07d7af6a"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-12-76787",
+      "semester": 5,
+      "code": "76787",
+      "syllabusSubject": "industrial-pharmacy-1",
+      "session": "December 2024",
+      "examDate": "2024-12-02",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=24",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        24
+      ],
+      "pages": 2,
+      "sha256": "b404cf51d53f6bc2658ef4dea8b1da3b4f1816ecf794bb2d07328cb89de0e70d"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-12-76790",
+      "semester": 5,
+      "code": "76790",
+      "syllabusSubject": "pharmaceutical-jurisprudence",
+      "session": "December 2024",
+      "examDate": "2024-12-05",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=23",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        23
+      ],
+      "pages": 2,
+      "sha256": "1472ef2170997a57144a16458f0ff735420f4c36b26b0e02f2d6d6e1b2272140"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-06-76786",
+      "semester": 5,
+      "code": "76786",
+      "syllabusSubject": "medicinal-chemistry-2",
+      "session": "June 2024",
+      "examDate": "2024-06-12",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=26",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        26
+      ],
+      "pages": 2,
+      "sha256": "6e9ca7cc1677ce012858c2fdeb0a133121d1df14a927748835405c83e1e8a3b8"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-06-76787",
+      "semester": 5,
+      "code": "76787",
+      "syllabusSubject": "industrial-pharmacy-1",
+      "session": "June 2024",
+      "examDate": "2024-06-14",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=28",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        28
+      ],
+      "pages": 2,
+      "sha256": "0fc85ebc3abc62ca82cf7a6312d05c4a4dbcb6d4e8821931906c3b3e11e4f1d0"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-06-76788",
+      "semester": 5,
+      "code": "76788",
+      "syllabusSubject": "pharmacology-2",
+      "session": "June 2024",
+      "examDate": "2024-06-18",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=29",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        29
+      ],
+      "pages": 2,
+      "sha256": "ac1609b696bc2ae3be0c130d716ddd3cb73409bcf6f3566f4ca3b41ed982b462"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-06-76789",
+      "semester": 5,
+      "code": "76789",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-2",
+      "session": "June 2024",
+      "examDate": "2024-06-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=31",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        31
+      ],
+      "pages": 2,
+      "sha256": "c8e1fd2693f582959bbe09ed365e45daaa1bac240b11018a6f0b2575337da2f2"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-06-76790",
+      "semester": 5,
+      "code": "76790",
+      "syllabusSubject": "pharmaceutical-jurisprudence",
+      "session": "June 2024",
+      "examDate": "2024-06-24",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=30",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        30
+      ],
+      "pages": 2,
+      "sha256": "595997e965651fafcbe8161afcc1b68174e00cfa32ce2aa005608b1cda9659a9"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-11-76788",
+      "semester": 5,
+      "code": "76788",
+      "syllabusSubject": "pharmacology-2",
+      "session": "November 2024",
+      "examDate": "2024-11-25",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=21",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        21
+      ],
+      "pages": 2,
+      "sha256": "38c94605d59d972f18977ce8802957604ab72e2b6faf29e58a548c3f7af3d552"
+    },
+    {
+      "id": "pyq-ptu-s5-2024-11-76789",
+      "semester": 5,
+      "code": "76789",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-2",
+      "session": "November 2024",
+      "examDate": "2024-11-28",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=22",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        22
+      ],
+      "pages": 2,
+      "sha256": "77c32b33a6d540a90604c33b1f0574509e23c8629d1d8109cfb5a052fefcc3c0"
+    },
+    {
+      "id": "pyq-ptu-s5-2025-12-76789",
+      "semester": 5,
+      "code": "76789",
+      "syllabusSubject": "pharmacognosy-and-phytochemistry-2",
+      "session": "December 2025",
+      "examDate": "2025-12-01",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=23",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        23
+      ],
+      "pages": 2,
+      "sha256": "62e6dbe8af7a9fed82e62a9490540c907a5a4bb98683015584e5ec1357b6d5d1"
+    },
+    {
+      "id": "pyq-ptu-s5-2025-11-76786",
+      "semester": 5,
+      "code": "76786",
+      "syllabusSubject": "medicinal-chemistry-2",
+      "session": "November 2025",
+      "examDate": "2025-11-21",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=19",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        19
+      ],
+      "pages": 2,
+      "sha256": "989cc6baf16306f3f5b166ab814c6acf0c17cdd38372518cd0f31779218b0fd1"
+    },
+    {
+      "id": "pyq-ptu-s5-2025-11-76788",
+      "semester": 5,
+      "code": "76788",
+      "syllabusSubject": "pharmacology-2",
+      "session": "November 2025",
+      "examDate": "2025-11-26",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=22",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        22
+      ],
+      "pages": 2,
+      "sha256": "9fe44f4813d57f3acd10d7f33048a114f7d53fa20e316a342f1bc62358f1fcd1"
+    },
+    {
+      "id": "pyq-ptu-s5-2025-11-76790",
+      "semester": 5,
+      "code": "76790",
+      "syllabusSubject": "pharmaceutical-jurisprudence",
+      "session": "November 2025",
+      "examDate": "2025-11-28",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=24",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "pages": 4,
+      "sha256": "72c73cc6c22f692fd2a31ba31fe2ef458fa52d8c2750fe5eab4d1862fb527ece"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-00-77989",
+      "semester": 6,
+      "code": "77989",
+      "syllabusSubject": "biopharmaceutics-and-pharmacokinetics",
+      "session": "2023 (date unclear)",
+      "examDate": null,
+      "dateUnclear": true,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf#page=6",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf",
+      "sourcePages": [
+        6
+      ],
+      "pages": 2,
+      "sha256": "95d138fe68630c3f734bf6e0fdba882d9df14922a87f9b505e56a3337274e2d5"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-12-77990",
+      "semester": 6,
+      "code": "77990",
+      "syllabusSubject": "pharmaceutical-biotechnology",
+      "session": "December 2023",
+      "examDate": "2023-12-01",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=29",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        29
+      ],
+      "pages": 2,
+      "sha256": "3eebea2c06ec74a26608cfffea77941f2d2e99be820a35daa45698eed6f346c0"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-12-77991",
+      "semester": 6,
+      "code": "77991",
+      "syllabusSubject": "pharmaceutical-quality-assurance",
+      "session": "December 2023",
+      "examDate": "2023-12-04",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=30",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        30
+      ],
+      "pages": 2,
+      "sha256": "371a03ac18c2903098a02f67030b2ef2dc5b7c487f0470bb24598607cafd698a"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-05-77986",
+      "semester": 6,
+      "code": "77986",
+      "syllabusSubject": "medicinal-chemistry-3",
+      "session": "May 2023",
+      "examDate": "2023-05-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf",
+      "sourcePages": [
+        3
+      ],
+      "pages": 2,
+      "sha256": "21b20ebf9043b65d2e77483d5ab965f736e5efbda71ff7afa29a3674a17dc9b0"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-05-77987",
+      "semester": 6,
+      "code": "77987",
+      "syllabusSubject": "pharmacology-3",
+      "session": "May 2023",
+      "examDate": "2023-05-25",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf#page=4",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf",
+      "sourcePages": [
+        4
+      ],
+      "pages": 2,
+      "sha256": "a940c1fd3801a3441823b9024738b9746de52cd3ad6005d5f7431c51c473e796"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-05-77988",
+      "semester": 6,
+      "code": "77988",
+      "syllabusSubject": "herbal-drug-technology",
+      "session": "May 2023",
+      "examDate": "2023-05-18",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "22e359b0f9e6f5a3efe255c340546c99b4e10f70bee38c39b71120e7b17dfa04"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-05-77990",
+      "semester": 6,
+      "code": "77990",
+      "syllabusSubject": "pharmaceutical-biotechnology",
+      "session": "May 2023",
+      "examDate": "2023-05-27",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf#page=5",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf",
+      "sourcePages": [
+        5
+      ],
+      "pages": 2,
+      "sha256": "aecbc52ccaa2b60502272b8b5fb7cfa60af5f4fcfeb237330970ac0add63b41b"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-05-77991",
+      "semester": 6,
+      "code": "77991",
+      "syllabusSubject": "pharmaceutical-quality-assurance",
+      "session": "May 2023",
+      "examDate": "2023-05-16",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-6.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "91387fe197d49640cc9775ee73c0d4af908051e75522798ca8951679b696be03"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-11-77986",
+      "semester": 6,
+      "code": "77986",
+      "syllabusSubject": "medicinal-chemistry-3",
+      "session": "November 2023",
+      "examDate": "2023-11-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=25",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        25
+      ],
+      "pages": 2,
+      "sha256": "d1e03688977e9d2d9137590464576a475646535dc1706af226c08a6f57a7e254"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-11-77987",
+      "semester": 6,
+      "code": "77987",
+      "syllabusSubject": "pharmacology-3",
+      "session": "November 2023",
+      "examDate": "2023-11-22",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=24",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        24
+      ],
+      "pages": 2,
+      "sha256": "d93b072e30063ade1d3a706360085dacfa242093a203e4e729937b061afa9027"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-11-77988",
+      "semester": 6,
+      "code": "77988",
+      "syllabusSubject": "herbal-drug-technology",
+      "session": "November 2023",
+      "examDate": "2023-11-24",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=26",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        26
+      ],
+      "pages": 2,
+      "sha256": "68ac198650cb1c734b3ae12d2bf5e8b19e8e1804fe8e8aba475871d4533dce33"
+    },
+    {
+      "id": "pyq-ptu-s6-2023-11-77989",
+      "semester": 6,
+      "code": "77989",
+      "syllabusSubject": "biopharmaceutics-and-pharmacokinetics",
+      "session": "November 2023",
+      "examDate": "2023-11-29",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=28",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        28
+      ],
+      "pages": 2,
+      "sha256": "031fb8ca867ed31ccc8552e2dde1e0091f74a076bbb9eb2029ee1bdbacd29b15"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-12-77986",
+      "semester": 6,
+      "code": "77986",
+      "syllabusSubject": "medicinal-chemistry-3",
+      "session": "December 2024",
+      "examDate": "2024-12-17",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=29",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        29
+      ],
+      "pages": 2,
+      "sha256": "bec633d367cde35231b8763f09e74223e7e69df7cc41866fcda88a87165ceccb"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-12-77987",
+      "semester": 6,
+      "code": "77987",
+      "syllabusSubject": "pharmacology-3",
+      "session": "December 2024",
+      "examDate": "2024-12-09",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=25",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        25
+      ],
+      "pages": 2,
+      "sha256": "75942f45909f64acf856300dfe0a3f02c87270b5a3ae5eb78394937471dbd6f3"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-12-77988",
+      "semester": 6,
+      "code": "77988",
+      "syllabusSubject": "herbal-drug-technology",
+      "session": "December 2024",
+      "examDate": "2024-12-14",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=28",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        28
+      ],
+      "pages": 2,
+      "sha256": "995d06a684ccd9af84c57f1e91216ee0b81cefafe490d3a35b5781aaaef3a3e4"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-12-77989",
+      "semester": 6,
+      "code": "77989",
+      "syllabusSubject": "biopharmaceutics-and-pharmacokinetics",
+      "session": "December 2024",
+      "examDate": "2024-12-13",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=27",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        27
+      ],
+      "pages": 2,
+      "sha256": "402067eed735151186420b6300332de89ee3d3bba172f16c20ddc37a0e493a04"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-12-77990",
+      "semester": 6,
+      "code": "77990",
+      "syllabusSubject": "pharmaceutical-biotechnology",
+      "session": "December 2024",
+      "examDate": "2024-12-11",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=26",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        26
+      ],
+      "pages": 2,
+      "sha256": "69b40542e9e1e2fdeadfa20bc77ffadfd95314182d669f6f2336c48fef08868b"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-12-77991",
+      "semester": 6,
+      "code": "77991",
+      "syllabusSubject": "pharmaceutical-quality-assurance",
+      "session": "December 2024",
+      "examDate": "2024-12-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=30",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        30
+      ],
+      "pages": 2,
+      "sha256": "709107ed36e676ceebca1c1f9af98ab2d048fc1d43227b461bfafee867ebb377"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-05-77986",
+      "semester": 6,
+      "code": "77986",
+      "syllabusSubject": "medicinal-chemistry-3",
+      "session": "May 2024",
+      "examDate": "2024-05-06",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=34",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        34
+      ],
+      "pages": 2,
+      "sha256": "161b12c99f18325250b095031ce810965edb0ab5fc79e51311e459ed910f72ea"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-05-77987",
+      "semester": 6,
+      "code": "77987",
+      "syllabusSubject": "pharmacology-3",
+      "session": "May 2024",
+      "examDate": "2024-05-09",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=36",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        36
+      ],
+      "pages": 2,
+      "sha256": "7432e7d113b98cdbcfe37d753178c8b9ecfee9d0a7af813e9d13938f2c2ebfb2"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-05-77988",
+      "semester": 6,
+      "code": "77988",
+      "syllabusSubject": "herbal-drug-technology",
+      "session": "May 2024",
+      "examDate": "2024-05-03",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=33",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        33
+      ],
+      "pages": 2,
+      "sha256": "ef35ea17054c919bd5f58d6c3c2b36786bfd7b676ab5c3920b03d497d1d9c864"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-05-77989",
+      "semester": 6,
+      "code": "77989",
+      "syllabusSubject": "biopharmaceutics-and-pharmacokinetics",
+      "session": "May 2024",
+      "examDate": "2024-05-16",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=32",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        32
+      ],
+      "pages": 2,
+      "sha256": "a28f2ecc017d2eb21ea33278a4db3e6e78434acb2d65889caa7eea514e8fcea0"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-05-77990",
+      "semester": 6,
+      "code": "77990",
+      "syllabusSubject": "pharmaceutical-biotechnology",
+      "session": "May 2024",
+      "examDate": "2024-05-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=38",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        38
+      ],
+      "pages": 2,
+      "sha256": "515f9f163b9dabeb53bbbf72a1bf8efda68b31872b571ece3e6701957229ef7c"
+    },
+    {
+      "id": "pyq-ptu-s6-2024-05-77991",
+      "semester": 6,
+      "code": "77991",
+      "syllabusSubject": "pharmaceutical-quality-assurance",
+      "session": "May 2024",
+      "examDate": "2024-05-23",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=37",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        37
+      ],
+      "pages": 2,
+      "sha256": "da43734de373811b9360ac207f20ee94966ad8abf105ddc630acee07cf26134d"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-04-77986",
+      "semester": 6,
+      "code": "77986",
+      "syllabusSubject": "medicinal-chemistry-3",
+      "session": "April 2025",
+      "examDate": "2025-04-30",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=9",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        9
+      ],
+      "pages": 2,
+      "sha256": "dfd995f3fcc6035c5944a14589da00cbb6a5e7030145587bfe65507fedbf06df"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-12-77986",
+      "semester": 6,
+      "code": "77986",
+      "syllabusSubject": "medicinal-chemistry-3",
+      "session": "December 2025",
+      "examDate": "2025-12-13",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=26",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        26
+      ],
+      "pages": 2,
+      "sha256": "bc554581913b4cdace46a3e8832cf82546df94f5fa745fffa6f523142f41cb0f"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-12-77987",
+      "semester": 6,
+      "code": "77987",
+      "syllabusSubject": "pharmacology-3",
+      "session": "December 2025",
+      "examDate": "2025-12-06",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=27",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        27
+      ],
+      "pages": 2,
+      "sha256": "bb61173f71363addf8f5d4de1986156bc8d0a5f71ef34157384f4fc7d571f3c6"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-12-77988",
+      "semester": 6,
+      "code": "77988",
+      "syllabusSubject": "herbal-drug-technology",
+      "session": "December 2025",
+      "examDate": "2025-12-04",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=28",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        28
+      ],
+      "pages": 2,
+      "sha256": "e38262e71ce334e72b71161610fcd0d3a0c2f5bcd98708c606003926058e9f88"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-12-77989",
+      "semester": 6,
+      "code": "77989",
+      "syllabusSubject": "biopharmaceutics-and-pharmacokinetics",
+      "session": "December 2025",
+      "examDate": "2025-12-11",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=29",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        29
+      ],
+      "pages": 2,
+      "sha256": "ad20db8fd361094c0e24a338f97366d162ceb9f417d4537876af4239d24f8631"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-12-77990",
+      "semester": 6,
+      "code": "77990",
+      "syllabusSubject": "pharmaceutical-biotechnology",
+      "session": "December 2025",
+      "examDate": "2025-12-02",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=30",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        30
+      ],
+      "pages": 2,
+      "sha256": "a616bc33a3dee1930a71acbd8c0dce8c2a84efd38a38db4a4d3707c70670def4"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-12-77991",
+      "semester": 6,
+      "code": "77991",
+      "syllabusSubject": "pharmaceutical-quality-assurance",
+      "session": "December 2025",
+      "examDate": "2025-12-09",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=31",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        31
+      ],
+      "pages": 2,
+      "sha256": "db1890d93d72f8d6577fed99955f6051a5ec2a6673dd263473bc873a258f8e56"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-05-77987",
+      "semester": 6,
+      "code": "77987",
+      "syllabusSubject": "pharmacology-3",
+      "session": "May 2025",
+      "examDate": "2025-05-03",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=10",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        10
+      ],
+      "pages": 2,
+      "sha256": "2b23a211dee584109fa8297a150fd33083c26708e059995bd5067f2689a0c36e"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-05-77988",
+      "semester": 6,
+      "code": "77988",
+      "syllabusSubject": "herbal-drug-technology",
+      "session": "May 2025",
+      "examDate": "2025-05-06",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=14",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        14
+      ],
+      "pages": 2,
+      "sha256": "764e8e3f0d084d15a48bbe285d2fbb5a876d31857e703a7c76ece3e1a8e7a137"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-05-77989",
+      "semester": 6,
+      "code": "77989",
+      "syllabusSubject": "biopharmaceutics-and-pharmacokinetics",
+      "session": "May 2025",
+      "examDate": "2025-05-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=11",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        11
+      ],
+      "pages": 2,
+      "sha256": "364cd4dad0fff7c627882def92dc629eabcc6c9b7f653016433b08d3832b2a10"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-05-77990",
+      "semester": 6,
+      "code": "77990",
+      "syllabusSubject": "pharmaceutical-biotechnology",
+      "session": "May 2025",
+      "examDate": "2025-05-23",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=12",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        12
+      ],
+      "pages": 2,
+      "sha256": "b7e29511534b8251b06ee2c738c394de7602795cf30b9814357641dbc58f211f"
+    },
+    {
+      "id": "pyq-ptu-s6-2025-05-77991",
+      "semester": 6,
+      "code": "77991",
+      "syllabusSubject": "pharmaceutical-quality-assurance",
+      "session": "May 2025",
+      "examDate": "2025-05-27",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=13",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        13
+      ],
+      "pages": 2,
+      "sha256": "4a34409362a402d07c4f408eef2cf1e8cba7d7de002395407366ec1835ae882a"
+    },
+    {
+      "id": "pyq-ptu-s7-2023-05-78387",
+      "semester": 7,
+      "code": "78387",
+      "syllabusSubject": "instrumental-methods-of-analysis",
+      "session": "May 2023",
+      "examDate": "2023-05-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-7.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-7.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "3d4144c91549729bd61c450827fb20ae8f30182cabfff4d47473bafdc888feb0"
+    },
+    {
+      "id": "pyq-ptu-s7-2023-05-78388",
+      "semester": 7,
+      "code": "78388",
+      "syllabusSubject": "industrial-pharmacy-2",
+      "session": "May 2023",
+      "examDate": "2023-05-26",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-7.pdf#page=4",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-7.pdf",
+      "sourcePages": [
+        4
+      ],
+      "pages": 2,
+      "sha256": "ecbd4912c1802a271d6a3e1df90ef0c396b37f2f42514c8b91564ea087b9340f"
+    },
+    {
+      "id": "pyq-ptu-s7-2023-05-78389",
+      "semester": 7,
+      "code": "78389",
+      "syllabusSubject": "pharmacy-practice",
+      "session": "May 2023",
+      "examDate": "2023-05-17",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-7.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-7.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "125a2f10996eaf7048f475d0c6211d3d19230e833615f88782dc9c1fae782703"
+    },
+    {
+      "id": "pyq-ptu-s7-2023-05-78390",
+      "semester": 7,
+      "code": "78390",
+      "syllabusSubject": "novel-drug-delivery-system",
+      "session": "May 2023",
+      "examDate": "2023-05-24",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-7.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-7.pdf",
+      "sourcePages": [
+        3
+      ],
+      "pages": 2,
+      "sha256": "4feb5d8e247018dfaf62d64c84edde8d6fbd1a10d71fc47f0869b64386fe6060"
+    },
+    {
+      "id": "pyq-ptu-s7-2023-11-78387",
+      "semester": 7,
+      "code": "78387",
+      "syllabusSubject": "instrumental-methods-of-analysis",
+      "session": "November 2023",
+      "examDate": "2023-11-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=31",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        31
+      ],
+      "pages": 2,
+      "sha256": "694c749e4a1cc229cd4661c77884e948ea318668ff039d4e4fb8e354d7f7f66b"
+    },
+    {
+      "id": "pyq-ptu-s7-2023-11-78388",
+      "semester": 7,
+      "code": "78388",
+      "syllabusSubject": "industrial-pharmacy-2",
+      "session": "November 2023",
+      "examDate": "2023-11-22",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=32",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        32
+      ],
+      "pages": 2,
+      "sha256": "1444c05b0fa72195eef0920b09d54c4aeb92850fabc70abeb14df6af38e3a747"
+    },
+    {
+      "id": "pyq-ptu-s7-2023-11-78389",
+      "semester": 7,
+      "code": "78389",
+      "syllabusSubject": "pharmacy-practice",
+      "session": "November 2023",
+      "examDate": "2023-11-24",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=33",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        33
+      ],
+      "pages": 2,
+      "sha256": "0337e372f80507315da30139f739dcc8ca73a3b41861f31b8366f11f662c6923"
+    },
+    {
+      "id": "pyq-ptu-s7-2023-11-78390",
+      "semester": 7,
+      "code": "78390",
+      "syllabusSubject": "novel-drug-delivery-system",
+      "session": "November 2023",
+      "examDate": "2023-11-29",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=34",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        34
+      ],
+      "pages": 2,
+      "sha256": "ee79e1b17436611ecab3d5a42e7f9966b5b44f9112ce7798263556b60c5b90f0"
+    },
+    {
+      "id": "pyq-ptu-s7-2024-12-78387",
+      "semester": 7,
+      "code": "78387",
+      "syllabusSubject": "instrumental-methods-of-analysis",
+      "session": "December 2024",
+      "examDate": "2024-12-05",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=34",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        34
+      ],
+      "pages": 2,
+      "sha256": "cfcabde730f9ed5a74a00d6031e1f82e7575f3f6a1cd834288bccf1b62d951e3"
+    },
+    {
+      "id": "pyq-ptu-s7-2024-12-78390",
+      "semester": 7,
+      "code": "78390",
+      "syllabusSubject": "novel-drug-delivery-system",
+      "session": "December 2024",
+      "examDate": "2024-12-02",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=31",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        31
+      ],
+      "pages": 2,
+      "sha256": "172dda86694b119e1c7551548ff9390d99edbd5f59c1249efe2a0e6ae3ffbafc"
+    },
+    {
+      "id": "pyq-ptu-s7-2024-06-78387",
+      "semester": 7,
+      "code": "78387",
+      "syllabusSubject": "instrumental-methods-of-analysis",
+      "session": "June 2024",
+      "examDate": "2024-06-11",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=39",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        39
+      ],
+      "pages": 2,
+      "sha256": "7fad8dc30a7c2ce85beca62a79e767a283cd18f98d863ade887e1e9ee4e315e7"
+    },
+    {
+      "id": "pyq-ptu-s7-2024-06-78389",
+      "semester": 7,
+      "code": "78389",
+      "syllabusSubject": "pharmacy-practice",
+      "session": "June 2024",
+      "examDate": "2024-06-15",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=40",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        40
+      ],
+      "pages": 2,
+      "sha256": "4734c48a976c10cba4edfe23fed3330f61f4a9402a7cb101de18c1dfa9037217"
+    },
+    {
+      "id": "pyq-ptu-s7-2024-06-78390",
+      "semester": 7,
+      "code": "78390",
+      "syllabusSubject": "novel-drug-delivery-system",
+      "session": "June 2024",
+      "examDate": "2024-06-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=41",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        41
+      ],
+      "pages": 2,
+      "sha256": "50bafc52578b0e996f76d17c28c774365839496efdd540a8d519c2d56648d355"
+    },
+    {
+      "id": "pyq-ptu-s7-2024-11-78388",
+      "semester": 7,
+      "code": "78388",
+      "syllabusSubject": "industrial-pharmacy-2",
+      "session": "November 2024",
+      "examDate": "2024-11-28",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=32",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        32
+      ],
+      "pages": 2,
+      "sha256": "e1c966fee49e13a502c89b4014c830d0395533e549356398a652fa79f3871d35"
+    },
+    {
+      "id": "pyq-ptu-s7-2024-11-78389",
+      "semester": 7,
+      "code": "78389",
+      "syllabusSubject": "pharmacy-practice",
+      "session": "November 2024",
+      "examDate": "2024-11-25",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=33",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        33
+      ],
+      "pages": 2,
+      "sha256": "ef3e6ceadd922dd5831fd7b1c309be4f88bddb0982b0364a3073bda869a8e627"
+    },
+    {
+      "id": "pyq-ptu-s7-2025-11-78387",
+      "semester": 7,
+      "code": "78387",
+      "syllabusSubject": "instrumental-methods-of-analysis",
+      "session": "November 2025",
+      "examDate": "2025-11-21",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=32",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        32
+      ],
+      "pages": 2,
+      "sha256": "d77705caa9cfb487fdf0efab0be60a74c4866055bef716cdcf347413555f1ff6"
+    },
+    {
+      "id": "pyq-ptu-s7-2025-11-78388",
+      "semester": 7,
+      "code": "78388",
+      "syllabusSubject": "industrial-pharmacy-2",
+      "session": "November 2025",
+      "examDate": "2025-11-24",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=33",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        33
+      ],
+      "pages": 2,
+      "sha256": "476d056041d1178a259c677a1ccf901952afdc29446eaf790d7b4755e7c59e1f"
+    },
+    {
+      "id": "pyq-ptu-s7-2025-11-78389",
+      "semester": 7,
+      "code": "78389",
+      "syllabusSubject": "pharmacy-practice",
+      "session": "November 2025",
+      "examDate": "2025-11-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=34",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        34
+      ],
+      "pages": 2,
+      "sha256": "3c26c7f5e38259611403ec36036b6b8d47766e856b9a12e2c0b574b08d87adfc"
+    },
+    {
+      "id": "pyq-ptu-s7-2025-11-78390",
+      "semester": 7,
+      "code": "78390",
+      "syllabusSubject": "novel-drug-delivery-system",
+      "session": "November 2025",
+      "examDate": "2025-11-28",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=35",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        35,
+        36
+      ],
+      "pages": 4,
+      "sha256": "c7642afdfdcbf7c1a831fa71c3ed62af85f12f7af777dc381b18558fa855edd0"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-00-79764",
+      "semester": 8,
+      "code": "79764",
+      "syllabusSubject": "biostatistics-and-research-methodology",
+      "session": "2023 (date unclear)",
+      "examDate": null,
+      "dateUnclear": true,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-8.pdf#page=3",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-8.pdf",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "pages": 3,
+      "sha256": "e40dcc2337722d6601617b89074c9fe0205db1bcb0477403b303e0d01d11b876"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-00-79766",
+      "semester": 8,
+      "code": "79766",
+      "syllabusSubject": "pharma-marketing-management",
+      "session": "2023 (date unclear)",
+      "examDate": null,
+      "dateUnclear": true,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-8.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-8.pdf",
+      "sourcePages": [
+        2
+      ],
+      "pages": 2,
+      "sha256": "2bf660cd25b00ee038185e94df9caa983e0441b1fd8929fc6e0e0099ae287fe3"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-12-79774",
+      "semester": 8,
+      "code": "79774",
+      "syllabusSubject": "advanced-instrumentation-techniques",
+      "session": "December 2023",
+      "examDate": "2023-12-14",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=38",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        38
+      ],
+      "pages": 2,
+      "sha256": "2f27ed2b595a6a8973acdc65f3cf87483cc5507fb4b4c325cc47a989c5a11be3"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-06-79765",
+      "semester": 8,
+      "code": "79765",
+      "syllabusSubject": "social-and-preventive-pharmacy",
+      "session": "June 2023",
+      "examDate": "2023-06-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-8.pdf#page=7",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-8.pdf",
+      "sourcePages": [
+        7
+      ],
+      "pages": 2,
+      "sha256": "0c2b38971f65bc4be99870347446c5b9173e32315f1a7e3beb179849a24bbbd9"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-05-79774",
+      "semester": 8,
+      "code": "79774",
+      "syllabusSubject": "advanced-instrumentation-techniques",
+      "session": "May 2023",
+      "examDate": "2023-05-20",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-8.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/pharmacy/SEM-8.pdf",
+      "sourcePages": [
+        1
+      ],
+      "pages": 2,
+      "sha256": "70e2e2bd51863a4848bd4ae371d702ba54036a8213f2ad1781fb52c26989212d"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-11-79764",
+      "semester": 8,
+      "code": "79764",
+      "syllabusSubject": "biostatistics-and-research-methodology",
+      "session": "November 2023",
+      "examDate": "2023-11-17",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=36",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        36
+      ],
+      "pages": 2,
+      "sha256": "7e48a0b0dcca28faf248104c7b1c4d78cbeb229125cb2418746cfb15ccfbad6d"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-11-79765",
+      "semester": 8,
+      "code": "79765",
+      "syllabusSubject": "social-and-preventive-pharmacy",
+      "session": "November 2023",
+      "examDate": "2023-11-21",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=35",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        35
+      ],
+      "pages": 2,
+      "sha256": "485c1d08efd1b01603b71caf5693815fb9cc845e40ee13d0cf41c64ffe755372"
+    },
+    {
+      "id": "pyq-ptu-s8-2023-11-79768",
+      "semester": 8,
+      "code": "79768",
+      "syllabusSubject": "pharmacovigilance",
+      "session": "November 2023",
+      "examDate": "2023-11-30",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=37",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "sourcePages": [
+        37
+      ],
+      "pages": 2,
+      "sha256": "ac18ff91388e6e51c63db3355b818569421758da580de9802e9c68db7250c3d3"
+    },
+    {
+      "id": "pyq-ptu-s8-2024-04-79765",
+      "semester": 8,
+      "code": "79765",
+      "syllabusSubject": "social-and-preventive-pharmacy",
+      "session": "April 2024",
+      "examDate": "2024-04-30",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=46",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        46
+      ],
+      "pages": 2,
+      "sha256": "f6d04023c92c16ccdfa91eb71cabd4ba7ad2a7eaf8656881755c4b6307664c35"
+    },
+    {
+      "id": "pyq-ptu-s8-2024-04-79770",
+      "semester": 8,
+      "code": "79770",
+      "syllabusSubject": "computer-aided-drug-design",
+      "session": "April 2024",
+      "examDate": "2024-04-24",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=47",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        47
+      ],
+      "pages": 2,
+      "sha256": "fc2c0926b18e465b4dc577a2ddea6bf2443fcd093d99e555b44f3079e615a7a8"
+    },
+    {
+      "id": "pyq-ptu-s8-2024-05-79764",
+      "semester": 8,
+      "code": "79764",
+      "syllabusSubject": "biostatistics-and-research-methodology",
+      "session": "May 2024",
+      "examDate": "2024-05-21",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=51",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        51,
+        52
+      ],
+      "pages": 3,
+      "sha256": "ff5cf4062a132c57453ca15a2f65cb1d89f7144edfca48517e25b17da135ef7a"
+    },
+    {
+      "id": "pyq-ptu-s8-2024-05-79766",
+      "semester": 8,
+      "code": "79766",
+      "syllabusSubject": "pharma-marketing-management",
+      "session": "May 2024",
+      "examDate": "2024-05-13",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=42",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        42
+      ],
+      "pages": 2,
+      "sha256": "19d96b6f910bd8d0a3db6a35130adea7402daff5b5c4113a89de4b2f9cfee8c0"
+    },
+    {
+      "id": "pyq-ptu-s8-2024-05-79767",
+      "semester": 8,
+      "code": "79767",
+      "syllabusSubject": "pharmaceutical-regulatory-science",
+      "session": "May 2024",
+      "examDate": "2024-05-03",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=44",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        44,
+        45
+      ],
+      "pages": 4,
+      "sha256": "7e466183b3a9ce40fd73bfc00dd48f77a98b3f7a8dd697aed100595417b2589b"
+    },
+    {
+      "id": "pyq-ptu-s8-2024-05-79768",
+      "semester": 8,
+      "code": "79768",
+      "syllabusSubject": "pharmacovigilance",
+      "session": "May 2024",
+      "examDate": "2024-05-06",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=43",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        43
+      ],
+      "pages": 2,
+      "sha256": "e4ee284ed997ae7080184801f8785479b7de43fb4745eeb9a9c0e412070a01fe"
+    },
+    {
+      "id": "pyq-ptu-s8-2024-05-79772",
+      "semester": 8,
+      "code": "79772",
+      "syllabusSubject": "cosmetic-science",
+      "session": "May 2024",
+      "examDate": "2024-05-16",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=48",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        48
+      ],
+      "pages": 2,
+      "sha256": "a7a3409bf05ac7b38a9dd8ee544046a09c29a83a20433e619f0a9e29eb79fd7a"
+    },
+    {
+      "id": "pyq-ptu-s8-2024-05-79774",
+      "semester": 8,
+      "code": "79774",
+      "syllabusSubject": "advanced-instrumentation-techniques",
+      "session": "May 2024",
+      "examDate": "2024-05-23",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=50",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "sourcePages": [
+        50
+      ],
+      "pages": 2,
+      "sha256": "baff30703193994728bcb1ad0a4beb7a15c4d62f3eb7ec919fea2f69a73a8239"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-04-79764",
+      "semester": 8,
+      "code": "79764",
+      "syllabusSubject": "biostatistics-and-research-methodology",
+      "session": "April 2025",
+      "examDate": "2025-04-28",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=15",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        15
+      ],
+      "pages": 2,
+      "sha256": "84e86a7a30d705644da15a53d6f10571223b40d317da4a967e78adb9fd1f9ac4"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-01-79764",
+      "semester": 8,
+      "code": "79764",
+      "syllabusSubject": "biostatistics-and-research-methodology",
+      "session": "January 2025",
+      "examDate": "2025-01-02",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=38",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        38,
+        39
+      ],
+      "pages": 3,
+      "sha256": "99f8195769a5ffaf92a43926622f9ff2e7b3be5a1084bd868e2505fa2bb8a7d2"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-01-79765",
+      "semester": 8,
+      "code": "79765",
+      "syllabusSubject": "social-and-preventive-pharmacy",
+      "session": "January 2025",
+      "examDate": "2025-01-15",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=35",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        35
+      ],
+      "pages": 2,
+      "sha256": "07acb9318229d931fcdb6a91571f64ec4a3ab41a99e287897967a378d05c511a"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-01-79766",
+      "semester": 8,
+      "code": "79766",
+      "syllabusSubject": "pharma-marketing-management",
+      "session": "January 2025",
+      "examDate": "2025-01-07",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=40",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        40
+      ],
+      "pages": 2,
+      "sha256": "6977e9d802d14e694fb8ff6af20f1bdbaada896ececea98be04c738d8eb4054a"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-01-79768",
+      "semester": 8,
+      "code": "79768",
+      "syllabusSubject": "pharmacovigilance",
+      "session": "January 2025",
+      "examDate": "2025-01-08",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf#page=36",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2024.pdf",
+      "sourcePages": [
+        36
+      ],
+      "pages": 2,
+      "sha256": "7f8b53f80a6db52735d473fcd1e43d45b33a7831a8e74fd2376d74624158e294"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-05-79765",
+      "semester": 8,
+      "code": "79765",
+      "syllabusSubject": "social-and-preventive-pharmacy",
+      "session": "May 2025",
+      "examDate": "2025-05-21",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=20",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        20
+      ],
+      "pages": 2,
+      "sha256": "79fdbce07707625e151ccef5ae125b290e9b52d5333ad364e0f5e9651fc57090"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-05-79766",
+      "semester": 8,
+      "code": "79766",
+      "syllabusSubject": "pharma-marketing-management",
+      "session": "May 2025",
+      "examDate": "2025-05-19",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=21",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        21
+      ],
+      "pages": 2,
+      "sha256": "c297663fe9f59aed98bc142015cac486618279ad22301504e013938cdbc45558"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-05-79767",
+      "semester": 8,
+      "code": "79767",
+      "syllabusSubject": "pharmaceutical-regulatory-science",
+      "session": "May 2025",
+      "examDate": "2025-05-22",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=19",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        19
+      ],
+      "pages": 2,
+      "sha256": "a85e84a494999c2ca7df59d5aa1198cf4b27a7e141b9e192818fecb47a54674a"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-05-79768",
+      "semester": 8,
+      "code": "79768",
+      "syllabusSubject": "pharmacovigilance",
+      "session": "May 2025",
+      "examDate": "2025-05-26",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=18",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        18
+      ],
+      "pages": 2,
+      "sha256": "e8ceabb8fb429e8bdef29fa29f9bd1c4031dfc776c678ba127d538f0eeedc452"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-05-79772",
+      "semester": 8,
+      "code": "79772",
+      "syllabusSubject": "cosmetic-science",
+      "session": "May 2025",
+      "examDate": "2025-05-05",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf#page=16",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2025.pdf",
+      "sourcePages": [
+        16
+      ],
+      "pages": 2,
+      "sha256": "8dd46db6da8bd20a8f538ebf8df08cce55d4affb8acddc8c44c0bd66432b666b"
+    },
+    {
+      "id": "pyq-ptu-s8-2025-11-79764",
+      "semester": 8,
+      "code": "79764",
+      "syllabusSubject": "biostatistics-and-research-methodology",
+      "session": "November 2025",
+      "examDate": "2025-11-24",
+      "dateUnclear": false,
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=37",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "sourcePages": [
+        37,
+        38
+      ],
+      "pages": 3,
+      "sha256": "f88c180da3cd5bae4bff6f7cdb634cb1d7dad82a5f4b200ae097fc77195083fa"
+    }
+  ],
+  "mergedExistingPapers": [
+    {
+      "id": "pyq-ptu-s1-2023-12-74647",
+      "provider": "ccp",
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf#page=2",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Dec 2023.pdf",
+      "collectionSource": "https://www.ccpmohali.org/qp-syllabus/",
+      "sourcePages": [
+        2
+      ],
+      "examDate": "2023-12-29"
+    },
+    {
+      "id": "pyq-ptu-s1-2024-06-74647",
+      "provider": "ccp",
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf#page=1",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm May 2024.pdf",
+      "collectionSource": "https://www.ccpmohali.org/qp-syllabus/",
+      "sourcePages": [
+        1
+      ],
+      "examDate": "2024-06-20"
+    },
+    {
+      "id": "pyq-ptu-s5-2025-11-76787",
+      "provider": "ccp",
+      "source": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf#page=20",
+      "downloadSource": "https://www.ccpmohali.org/public/documents/library/B Pharm Nov 2025.pdf",
+      "collectionSource": "https://www.ccpmohali.org/qp-syllabus/",
+      "sourcePages": [
+        20,
+        21
+      ],
+      "examDate": "2025-11-19"
+    }
+  ],
+  "mergedRepeatedScans": [
+    {
+      "slot": [
+        6,
+        "77988",
+        "November 2023"
+      ],
+      "count": 2,
+      "pages": [
+        [
+          26
+        ],
+        [
+          27
+        ]
+      ]
+    },
+    {
+      "slot": [
+        1,
+        "74647",
+        "June 2024"
+      ],
+      "count": 2,
+      "pages": [
+        [
+          1
+        ],
+        [
+          8
+        ]
+      ]
+    },
+    {
+      "slot": [
+        1,
+        "74646",
+        "June 2024"
+      ],
+      "count": 2,
+      "pages": [
+        [
+          2
+        ],
+        [
+          7
+        ]
+      ]
+    },
+    {
+      "slot": [
+        2,
+        "74969",
+        "May 2024"
+      ],
+      "count": 2,
+      "pages": [
+        [
+          10
+        ],
+        [
+          11
+        ]
+      ]
+    },
+    {
+      "slot": [
+        5,
+        "76787",
+        "June 2024"
+      ],
+      "count": 2,
+      "pages": [
+        [
+          27
+        ],
+        [
+          28
+        ]
+      ]
+    },
+    {
+      "slot": [
+        6,
+        "77991",
+        "May 2024"
+      ],
+      "count": 2,
+      "pages": [
+        [
+          35
+        ],
+        [
+          37
+        ]
+      ]
+    }
+  ],
+  "processing": "Scans rotated upright and two-page spreads separated into reading pages. JPEG coefficient optimisation checked against the original decoded pixels. No image downsampling. Unused bundle images excluded from individual PDFs.",
+  "excludedNote": "Other universities, PharmD papers, subjects outside the library syllabus, material outside 2023–2025, older generic archive pages, and one illegible duplicate were excluded."
+}

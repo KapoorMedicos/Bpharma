@@ -1,6 +1,7 @@
 """Validate the shipped catalog, PDF assets, and GitHub Pages paths."""
 import hashlib
 import json
+import datetime
 from pathlib import Path
 import unittest
 from urllib.parse import urlparse
@@ -31,7 +32,7 @@ class LibraryTests(unittest.TestCase):
                         self.assertEqual(r['paperSubject'], subjects[r['syllabusSubject']]['name'])
                     if r['semester'] == 5:
                         self.assertIn(r['code'], {'76786','76787','76788','76789','76790'})
-                    self.assertEqual(urlparse(r['source']).netloc, {'firstranker':'firstranker.com','ptustudy':'www.ptustudy.com'}[r['provider']])
+                    self.assertEqual(urlparse(r['source']).netloc, {'firstranker':'firstranker.com','ptustudy':'www.ptustudy.com','ccp':'www.ccpmohali.org'}[r['provider']])
                     continue
                 if r['kind'] == 'syllabus':
                     continue
@@ -114,8 +115,32 @@ class LibraryTests(unittest.TestCase):
             paper = by_id[row['id']]
             for key, value in row.items():
                 self.assertEqual(paper[key], value)
-        for semester, expected in {1:25, 2:37, 3:27, 4:20, 5:20, 6:14, 7:8, 8:11}.items():
+        for semester, expected in {1:38, 2:60, 3:56, 4:49, 5:44, 6:50, 7:27, 8:38}.items():
             self.assertEqual(sum(r['semester'] == semester for r in DATA['pyqs']), expected)
+
+    def test_recent_ptu_archive(self):
+        audit = json.loads((ROOT / 'data/ccp-pyq-audit.json').read_text())
+        papers = {r['id']:r for r in DATA['pyqs']}
+        self.assertEqual(len(audit['addedPapers']), 200)
+        self.assertEqual(len(audit['mergedExistingPapers']), 3)
+        self.assertEqual(sum(r.get('dateUnclear',False) for r in audit['addedPapers']), 3)
+        for row in audit['addedPapers']:
+            paper = papers[row['id']]
+            self.assertEqual(paper['university'], 'PTU')
+            self.assertEqual(paper['provider'], 'ccp')
+            self.assertIn(paper['year'], (2023,2024,2025))
+            for key, value in row.items():
+                self.assertEqual(paper[key], value)
+            if paper['examDate']:
+                date = datetime.date.fromisoformat(paper['examDate'])
+                self.assertEqual(paper['session'], date.strftime('%B %Y'))
+            else:
+                self.assertTrue(paper['dateUnclear'])
+                self.assertEqual(paper['session'], '2023 (date unclear)')
+        for row in audit['mergedExistingPapers']:
+            self.assertIn(row['id'], papers)
+            self.assertIn(row['source'], [s['source'] for s in papers[row['id']]['alternateSources']])
+        self.assertLess(sum(p.stat().st_size for p in ROOT.rglob('*') if p.is_file()), 1_000_000_000)
 
 if __name__ == '__main__':
     unittest.main()
