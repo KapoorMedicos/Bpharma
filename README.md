@@ -31,6 +31,10 @@ The library contains **514 PDFs** in total. Assets are checked by SHA-256 to avo
 
 Features include subject/topic search, provider filters, a PDF.js reader with page navigation and zoom, a prominent button opening the original PDF in a new tab, downloads, and source-provided lecture links. No video links are guessed. Carewell PDFs have no video links. Layouts support mobile and desktop screens and keyboard navigation.
 
+The reader defaults to continuous scrolling. Check **Single-page view** to restore the previous layout; this preference is saved on the device. Only five nearby pages are rendered (one in single-page mode), with serial rendering, cancelled stale work, and a four-million-pixel limit per canvas. Evicted canvases are cleared and page resources released. Leaving the reader destroys its PDF task and worker. Automatic full-file prefetch is disabled and byte-range requests are used when the server supports them. Shared PDF structures and downloaded ranges may remain cached until the reader closes, so five rendered pages does not mean only five pages of document data in memory.
+
+Run `node tests/check_page_window.mjs` to verify residency limits, rendering cancellation, late page loads, failures, and disposal.
+
 Availability and provenance are recorded in `docs/data/imperfect-availability.json` , `docs/data/ptustudy-availability.json`, and `docs/data/ccp-pyq-audit.json`. Only actual downloaded PDFs have reader links; pending notes are clearly labelled.
 
 ## Preview locally
