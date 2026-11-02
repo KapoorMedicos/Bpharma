@@ -33,6 +33,8 @@ Features include subject/topic search, provider filters, a PDF.js reader with pa
 
 The reader defaults to continuous scrolling. Check **Single-page view** to restore the previous layout; this preference is saved on the device. Only five nearby pages are rendered (one in single-page mode), with serial rendering, cancelled stale work, and a four-million-pixel limit per canvas. Evicted canvases are cleared and page resources released. Leaving the reader destroys its PDF task and worker. Automatic full-file prefetch is disabled and byte-range requests are used when the server supports them. Shared PDF structures and downloaded ranges may remain cached until the reader closes, so five rendered pages does not mean only five pages of document data in memory.
 
+Download buttons prepare a local file, then offer an explicit **Save PDF** action instead of navigating to the PDF URL. The Save click has a fresh user gesture even after a slow mobile fetch. Browsers supporting file sharing also offer **Save / share PDF** (on iOS, choose **Save to Files**). Closing the dialog, changing routes, or its two-minute expiry aborts pending work and releases the file URL. The website cannot override a browser or embedded app that blocks downloads. Run `node tests/check_pdf_download.mjs` to check file validation, names, cancellation, superseded requests, and URL cleanup.
+
 Run `node tests/check_page_window.mjs` to verify residency limits, rendering cancellation, late page loads, failures, and disposal.
 
 Availability and provenance are recorded in `docs/data/imperfect-availability.json` , `docs/data/ptustudy-availability.json`, and `docs/data/ccp-pyq-audit.json`. Only actual downloaded PDFs have reader links; pending notes are clearly labelled.
