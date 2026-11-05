@@ -1,0 +1,47 @@
+/* Theme controls remain visible on narrow screens. */
+.theme-toggle{display:inline-grid;place-items:center;flex-shrink:0;width:38px;height:38px;padding:8px;border:1px solid var(--line);border-radius:10px;background:transparent;color:var(--green)}
+.theme-toggle:hover{background:var(--sage)}
+.theme-toggle svg{width:19px;height:19px}
+.theme-sun{display:none}
+html[data-theme=dark] .theme-moon{display:none}
+html[data-theme=dark] .theme-sun{display:block}
+@media(max-width:720px){.header-inner nav{gap:10px}.theme-toggle{width:36px;height:36px}}
+@media(max-width:430px){.nav-github{display:none}}
+
+html[data-theme=dark]{color-scheme:dark;--ink:#e4eee7;--muted:#a8baaf;--green:#94d4b7;--green-dark:#b0e5cd;--sage:#23392d;--paper:#101916;--line:#34473d;--white:#19251f;--surface:#19251f;--surface-raised:#22352a;--orange:#dfac7b}
+html[data-theme=dark] ::selection{background:#375e49;color:#f1fbf4}
+html[data-theme=dark] :is(.site-header,.site-footer,.semester-card,.subject-card,.unit-card,.pyq-card,.empty-state,.pyq-filter-panel,.search-box input,.semester-filter select,.reader-tab,.button.secondary){background:var(--surface);border-color:var(--line)}
+html[data-theme=dark] .button{color:#102b20}
+html[data-theme=dark] .button.secondary{color:var(--ink)}
+html[data-theme=dark] .button.secondary:hover{background:var(--surface-raised);border-color:#6d8e7a}
+html[data-theme=dark] .button.subtle{background:var(--sage);color:var(--green)}
+html[data-theme=dark] :is(.brand-mark,.reader-tab[aria-current=page],.filter-button[aria-pressed=true],.skip-link){color:#102b20}
+html[data-theme=dark] :is(.reader-tab[aria-current=page],.filter-button[aria-pressed=true]){background:var(--green);border-color:var(--green)}
+html[data-theme=dark] .current-card{background:#1b3327;border-color:#3d604b}
+html[data-theme=dark] .current-card:after{border-color:#355640;box-shadow:0 0 0 24px #1b3327,0 0 0 25px #355640,0 0 0 49px #1b3327,0 0 0 50px #355640}
+html[data-theme=dark] :is(.card-kicker,.current-card p){color:#b1c9b6}
+html[data-theme=dark] .current-link{border-color:#3d604b}
+html[data-theme=dark] .semester-card.featured{background:#1a3025;border-color:#527c5e;box-shadow:inset 0 0 0 1px #527c5e}
+html[data-theme=dark] :is(.semester-card:hover,.subject-card:hover){border-color:#72947d}
+html[data-theme=dark] :is(.semester-number,.status,.semester-bottom,.subject-code,.unit-eyebrow,.footer-inner){color:var(--muted)}
+html[data-theme=dark] .featured :is(.semester-number,.semester-bottom){color:var(--green)}
+html[data-theme=dark] .status.available{background:#294333;color:#c0e9c9}
+html[data-theme=dark] :is(.semester-bottom,.subject-card-bottom,.resource-row){border-color:var(--line)}
+html[data-theme=dark] :is(.footer-inner a,.collection-note svg){color:#afc6b4}
+html[data-theme=dark] :is(.subject-icon,.unit-index,.revision-card,.pill,.pyq-callout,.filter-count){background:#243c2c;border-color:#3d5943;color:#bbd8b9}
+html[data-theme=dark] .subject-icon.blue{background:#233346;color:#b6cfee}
+html[data-theme=dark] .subject-icon.clay{background:#3b2e23;color:#e5b790}
+html[data-theme=dark] .subject-icon.purple{background:#332c41;color:#d1bee6}
+html[data-theme=dark] .source-badge{background:#2b3d2c;color:#c2d8b8}
+html[data-theme=dark] .source-badge.carewell{background:#3c3022;color:#ebc28f}
+html[data-theme=dark] .video-link{color:#e0ad7f}
+html[data-theme=dark] .search-box input::placeholder{color:#9eafa4}
+html[data-theme=dark] .subject-filter-button[aria-pressed=true] .filter-count{background:#102b2020;color:#102b20}
+html[data-theme=dark] .availability-notice{background:#352c1e;border-color:#5c4b30;color:#e7c897}
+html[data-theme=dark] .unavailable-resource{background:#17251c}
+html[data-theme=dark] :is(.reader-frame,.reader-frame iframe){background:#111a15;border-color:var(--line)}
+html[data-theme=dark] .download-dialog{background:var(--surface);color:var(--ink);border-color:var(--line);box-shadow:0 20px 80px #0008}
+html[data-theme=dark] .download-dialog::backdrop{background:#030906b8}
+html[data-theme=dark] .download-close:hover{background:var(--surface-raised)}
+html[data-theme=dark] :is(.download-filename,.download-help){color:var(--muted)}
+html[data-theme=dark] .download-dialog progress{accent-color:var(--green)}

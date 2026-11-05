@@ -72,7 +72,7 @@ class LibraryTests(unittest.TestCase):
         self.assertTrue((ROOT / 'index.html').is_file())
         self.assertTrue((ROOT / '.nojekyll').is_file())
         self.assertTrue((ROOT / 'viewer.html').is_file())
-        for name in ('styles.css','app.js','pyq-filters.js','favicon.svg','viewer.js','viewer.css','pdf-page-window.mjs','pdf-download.mjs','download.js','pdfjs/pdf.mjs','pdfjs/pdf.worker.mjs','pdfjs/LICENSE'):
+        for name in ('styles.css','app.js','pyq-filters.js','favicon.svg','viewer.js','viewer.css','pdf-page-window.mjs','pdf-download.mjs','download.js','theme.js','theme.css','pdfjs/pdf.mjs','pdfjs/pdf.worker.mjs','pdfjs/LICENSE'):
             self.assertTrue((ROOT / 'assets' / name).is_file())
         for s in DATA['subjects']:
             if s.get('playlist'):
