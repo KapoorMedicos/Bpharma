@@ -29,7 +29,7 @@ Two-page spreads were rotated and separated into reading pages with continuation
 
 The library contains **514 PDFs** in total. Assets are checked by SHA-256 to avoid duplicate binaries. The published folder is about 947 MiB, below GitHub Pages' 1 GB limit; the largest PDF is about 51 MB, so use Git rather than GitHub's browser uploader.
 
-The header’s moon/sun button switches between light and dark mode. The initial theme follows the device preference; a manual choice is remembered and synchronizes across tabs and the embedded PDF reader. Dark mode covers navigation, subject/PYQ filters, download dialogs, and reader controls while preserving original PDF page colours.
+The header’s moon/sun button switches between light and dark mode. The initial theme follows the device preference; a manual choice is remembered and synchronizes across tabs and the embedded PDF reader. Dark mode uses neutral gray backgrounds, borders, text, and controls. It covers navigation, subject/PYQ filters, download dialogs, and reader controls while preserving original PDF page colours.
 
 Features include subject/topic search, provider filters, a PDF.js reader with page navigation and zoom, a prominent button opening the original PDF in a new tab, downloads, and source-provided lecture links. No video links are guessed. Carewell PDFs have no video links. Layouts support mobile and desktop screens and keyboard navigation.
 

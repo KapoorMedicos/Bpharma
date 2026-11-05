@@ -18,7 +18,7 @@
  function apply(){
   const theme=preference||(system.matches?'dark':'light');
   root.dataset.theme=theme;root.style.colorScheme=theme;
-  document.querySelector('meta[name="theme-color"]')?.setAttribute('content',theme==='dark'?'#101916':'#174f45');
+  document.querySelector('meta[name="theme-color"]')?.setAttribute('content',theme==='dark'?'#121212':'#174f45');
   updateButton();document.querySelectorAll('iframe').forEach(send);
  }
  apply();
