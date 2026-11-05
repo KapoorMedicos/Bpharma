@@ -48,3 +48,4 @@ html[data-theme=dark] .download-dialog progress{accent-color:var(--green)}
 
 html[data-theme=dark] :is(.live-dot,.card-kicker i,.loading-dot){background:#bdbdbd}
 html[data-theme=dark] :focus-visible,html[data-theme=dark] .download-dialog :focus-visible{outline-color:#bdbdbd}
+html[data-theme=dark] :is(.search-box svg,.breadcrumbs svg,.empty-state svg,.meta-separator){color:var(--muted)}
